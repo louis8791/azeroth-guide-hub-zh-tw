@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-29T17:14:13.675Z",
+  "generatedAt": "2026-07-29T17:19:08.553Z",
   "provider": "m2m100",
   "qualityGate": {
-    "published": 118,
-    "heldForReview": 194
+    "published": 117,
+    "heldForReview": 195
   },
   "items": [
     {
@@ -845,23 +845,6 @@
       ],
       "updatedAt": "2026-07-29T17:14:13.675Z",
       "fingerprint": "9dfb6542a14450258b41b1862fea7640a4dab3c5c206821517a9ed3e29638cfd"
-    },
-    {
-      "id": "method:05dd2167d3241f",
-      "title": "Best Omnium Folio Runes Builds in 至暗之夜 WoW Patch 12.0.7 2026年6月15日",
-      "summary": "Best Omnium Folio Runes Builds in 至暗之夜 WoW Patch 12.0.7 2026年6月15日",
-      "originalTitle": "Best Omnium Folio Runes Builds in Midnight WoW Patch 12.0.7 15th June 2026",
-      "sourceName": "Method",
-      "sourceUrl": "https://www.method.gg/guides/best-omnium-folio-runes-builds-in-midnight-wow",
-      "group": "綜合攻略與資料庫",
-      "categoryHints": [
-        "職業",
-        "團隊副本",
-        "傳奇鑰石",
-        "首領"
-      ],
-      "updatedAt": "2026-07-29T17:14:13.675Z",
-      "fingerprint": "851f4cb9db0ddea183f75b383fd15ac96e6e4430b42608cbe880a67bf265b875"
     },
     {
       "id": "method:f2f8ff0e52197b",
