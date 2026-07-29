@@ -48,6 +48,7 @@ jobs:
         with:
           python-version: "3.11"
           cache: pip
+          cache-dependency-path: requirements-m2m100.txt
 
       - uses: actions/cache@v4
         with:
