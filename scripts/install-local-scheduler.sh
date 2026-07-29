@@ -2,11 +2,13 @@
 set -euo pipefail
 
 PROJECT_DIR="/Users/louis8791/Documents/魔獸攻略/azeroth-guide-hub-zh-tw"
+SCHEDULER_PROJECT_LINK="/Users/louis8791/.azeroth-guide-hub-zh-tw"
 SOURCE_PLIST="$PROJECT_DIR/config/com.louis.azeroth-guide-refresh.plist"
 TARGET_PLIST="${HOME}/Library/LaunchAgents/com.louis.azeroth-guide-refresh.plist"
 SERVICE_NAME="com.louis.azeroth-guide-refresh"
 
 mkdir -p "${HOME}/Library/LaunchAgents"
+ln -sfn "$PROJECT_DIR" "$SCHEDULER_PROJECT_LINK"
 cp "$SOURCE_PLIST" "$TARGET_PLIST"
 chmod 644 "$TARGET_PLIST"
 chmod +x "$PROJECT_DIR/scripts/run-scheduled-refresh.sh"

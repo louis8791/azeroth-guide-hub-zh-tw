@@ -2,9 +2,14 @@ name: Refresh guide index
 
 on:
   schedule:
-    - cron: "17 */6 * * *"
-    - cron: "43 3 * * *"
-    - cron: "12 2 * * 0"
+    # GitHub cron uses UTC. These correspond to Asia/Taipei 02:17,
+    # 08:17, 14:17 and 20:17.
+    - cron: "17 18,0,6,12 * * *"
+    # Asia/Taipei 03:17 and 04:17.
+    - cron: "17 19 * * *"
+    - cron: "17 20 * * *"
+    # Asia/Taipei Sunday 02:17.
+    - cron: "17 18 * * 6"
   workflow_dispatch:
     inputs:
       tier:
@@ -57,12 +62,14 @@ jobs:
         run: |
           if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
             echo "value=${{ inputs.tier }}" >> "$GITHUB_OUTPUT"
-          elif [ "${{ github.event.schedule }}" = "43 3 * * *" ]; then
+          elif [ "${{ github.event.schedule }}" = "17 19 * * *" ]; then
             echo "value=guides" >> "$GITHUB_OUTPUT"
-          elif [ "${{ github.event.schedule }}" = "12 2 * * 0" ]; then
+          elif [ "${{ github.event.schedule }}" = "17 20 * * *" ]; then
+            echo "value=questions" >> "$GITHUB_OUTPUT"
+          elif [ "${{ github.event.schedule }}" = "17 18 * * 6" ]; then
             echo "value=backfill" >> "$GITHUB_OUTPUT"
           else
-            echo "value=urgent" >> "$GITHUB_OUTPUT"
+            echo "value=all" >> "$GITHUB_OUTPUT"
           fi
 
       - run: node scripts/crawl-sources.mjs --tier=${{ steps.tier.outputs.value }}

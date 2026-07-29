@@ -7,10 +7,10 @@
   <key>ProgramArguments</key>
   <array>
     <string>/bin/zsh</string>
-    <string>/Users/louis8791/Documents/魔獸攻略/azeroth-guide-hub-zh-tw/scripts/run-scheduled-refresh.sh</string>
+    <string>/Users/louis8791/.azeroth-guide-hub-zh-tw/scripts/run-scheduled-refresh.sh</string>
   </array>
   <key>WorkingDirectory</key>
-  <string>/Users/louis8791/Documents/魔獸攻略/azeroth-guide-hub-zh-tw</string>
+  <string>/Users/louis8791/.azeroth-guide-hub-zh-tw</string>
   <key>StartCalendarInterval</key>
   <array>
     <dict><key>Hour</key><integer>2</integer><key>Minute</key><integer>17</integer></dict>

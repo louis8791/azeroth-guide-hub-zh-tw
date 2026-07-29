@@ -52,6 +52,6 @@
 
 ## 免費運行方式
 
-- 主要：macOS `launchd` 在本機執行，可使用 M2M100 或 Ollama。
-- 備援：公開 GitHub 專案的 Actions 依相同排程執行。
+- 主要：公開 GitHub 專案的 Actions 依台北時間換算後排程執行，使用 M2M100，不需付費 API。
+- 選配：macOS `launchd` 可使用 Argos、M2M100 或 Ollama；若專案位於「文件」等受 macOS 隱私保護的資料夾，需先允許背景程序存取，否則不要啟用。
 - 網站：後端讀取公開資料索引；新資料不必為每次更新重做整站版面。

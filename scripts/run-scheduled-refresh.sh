@@ -1,7 +1,7 @@
 #!/bin/zsh
 set -euo pipefail
 
-PROJECT_DIR="/Users/louis8791/Documents/魔獸攻略/azeroth-guide-hub-zh-tw"
+PROJECT_DIR="/Users/louis8791/.azeroth-guide-hub-zh-tw"
 CURRENT_HOUR="$(date +%H)"
 CURRENT_WEEKDAY="$(date +%u)"
 TRANSLATOR="${TRANSLATION_PROVIDER:-argos}"
