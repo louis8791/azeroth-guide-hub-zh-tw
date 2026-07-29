@@ -138,6 +138,10 @@ def passes_publish_gate(original: str, translated: str) -> bool:
         or re.search(r"[A-Za-z]{3,}", translated)
     ):
         return False
+    english_words = re.findall(r"[A-Za-z][A-Za-z0-9+.'-]*", translated)
+    han_characters = re.findall(r"[\u3400-\u9fff]", translated)
+    if len(english_words) >= 4 and len(han_characters) < len(english_words) * 4:
+        return False
     return True
 
 
