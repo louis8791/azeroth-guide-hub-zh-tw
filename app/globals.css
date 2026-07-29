@@ -324,7 +324,7 @@ input:focus-visible {
   overflow: hidden;
   background:
     linear-gradient(90deg, rgba(16, 12, 30, 0.22), rgba(9, 9, 15, 0.03)),
-    url("/hero-world.png") center / cover;
+    url("https://raw.githubusercontent.com/louis8791/azeroth-guide-hub-zh-tw/main/public/hero-world.png") center / cover;
   border: 1px solid #3a334b;
   border-radius: var(--radius);
   box-shadow: var(--shadow);
@@ -495,7 +495,7 @@ input:focus-visible {
   min-height: 108px;
   background:
     linear-gradient(135deg, rgba(119, 80, 188, 0.3), rgba(10, 12, 15, 0.25)),
-    url("/hero-world.png") 74% 52% / 650px auto;
+    url("https://raw.githubusercontent.com/louis8791/azeroth-guide-hub-zh-tw/main/public/hero-world.png") 74% 52% / 650px auto;
   border: 1px solid #393e43;
   border-radius: 3px;
 }
@@ -621,7 +621,7 @@ input:focus-visible {
   overflow: hidden;
   background:
     linear-gradient(90deg, rgba(15, 17, 20, 0.35), rgba(10, 11, 13, 0.88)),
-    url("/hero-world.png") 78% 47% / 620px auto;
+    url("https://raw.githubusercontent.com/louis8791/azeroth-guide-hub-zh-tw/main/public/hero-world.png") 78% 47% / 620px auto;
   border: 1px solid #2c3034;
   border-radius: 3px;
 }

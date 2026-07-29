@@ -17,6 +17,10 @@ const navItems = [
 ] as const;
 
 export function SiteHeader() {
+  const basePath = process.env.GITHUB_PAGES === "true"
+    ? "/azeroth-guide-hub-zh-tw"
+    : "";
+
   return (
     <header className="site-header">
       <div className="topbar">
@@ -34,7 +38,7 @@ export function SiteHeader() {
           <span>探索賽季</span>
         </div>
 
-        <form action="/ask" className="global-search">
+        <form action={`${basePath}/ask`} className="global-search">
           <span aria-hidden="true">⌕</span>
           <input
             aria-label="搜尋攻略"

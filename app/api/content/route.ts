@@ -7,7 +7,7 @@ import {
   sources,
 } from "../../../lib/catalog";
 
-export const dynamic = "force-dynamic";
+export const dynamic = "force-static";
 
 type LiveItem = {
   id: string;
