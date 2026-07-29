@@ -38,6 +38,16 @@ GENERIC_TRANSLATED_TITLES = {
     "新聞",
     "縮小字元",
 }
+GUIDE_TITLE_HINTS = re.compile(
+    r"\b("
+    r"guide|guides|raid|dungeon|mythic|keystone|pvp|class|profession|"
+    r"achievement|battle pet|toy|transmog|weapon|secret|addon|ui|"
+    r"leveling|recipe|knowledge|route|progress|ranking|log|simulation|"
+    r"talent|build|gear|vault|delve|reputation|mount|lore|quest|housing|"
+    r"weekly|hidden|macro|rotation|tier list"
+    r")s?\b",
+    re.IGNORECASE,
+)
 
 try:
     from opencc import OpenCC
@@ -97,6 +107,13 @@ def is_useful_document(document: dict[str, Any]) -> bool:
         and title.casefold() not in GENERIC_TITLES
         and not re.fullmatch(r"[\W_]+", title)
     )
+
+
+def is_publishable_topic(document: dict[str, Any], terms: dict[str, str]) -> bool:
+    if str(document.get("id", "")).endswith(":home"):
+        return True
+    title = str(document.get("title", "")).strip()
+    return exact_glossary(title, terms) is not None or bool(GUIDE_TITLE_HINTS.search(title))
 
 
 def passes_publish_gate(original: str, translated: str) -> bool:
@@ -251,6 +268,9 @@ def main() -> None:
     items = []
     blocked_count = 0
     for document in source_documents:
+        if not is_publishable_topic(document, terms):
+            blocked_count += 1
+            continue
         original_title = str(document.get("title", ""))
         original_text = str(document.get("originalText", ""))
         is_zh = str(document.get("locale", "")).lower().startswith("zh")

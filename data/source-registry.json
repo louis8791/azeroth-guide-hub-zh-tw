@@ -52,6 +52,7 @@
       "group": "綜合攻略與資料庫",
       "coverage": ["職業", "團隊副本", "傳奇鑰石", "首領"],
       "crawlMode": "index",
+      "includePath": "^/(guides|raid-history|raidprogress)(/|$)",
       "maxLinks": 36,
       "priority": 2,
       "note": "偏當前版本與高階實戰。"
