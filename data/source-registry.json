@@ -1,0 +1,366 @@
+{
+  "schemaVersion": 1,
+  "verifiedAt": "2026-07-30",
+  "policy": {
+    "userAgent": "AzerothGuideHub/1.0 (+public non-commercial zh-TW guide index)",
+    "respectRobotsTxt": true,
+    "republishFullText": false,
+    "maximumExcerptCharacters": 420,
+    "requestDelayMs": 1400,
+    "defaultTranslationProvider": "m2m100",
+    "terminologyAuthority": "Blizzard zh-TW"
+  },
+  "sources": [
+    {
+      "id": "blizzard-wow",
+      "name": "World of Warcraft 官方網站",
+      "url": "https://worldofwarcraft.blizzard.com/en-us/news",
+      "group": "官方與版本",
+      "coverage": ["新聞", "版本更新", "快速修正", "活動", "系統說明"],
+      "crawlMode": "index",
+      "maxLinks": 24,
+      "priority": 1,
+      "note": "第一方版本事實；台服用詞另以 zh-TW 官方頁校正。"
+    },
+    {
+      "id": "wowhead",
+      "name": "Wowhead",
+      "url": "https://www.wowhead.com/guides",
+      "group": "綜合攻略與資料庫",
+      "coverage": ["物品", "任務", "NPC", "職業", "副本", "收藏", "留言"],
+      "crawlMode": "manual",
+      "maxLinks": 0,
+      "priority": 2,
+      "note": "涵蓋最廣，但依自動代理限制只保留入口與人工核對。"
+    },
+    {
+      "id": "icy-veins",
+      "name": "Icy Veins",
+      "url": "https://www.icy-veins.com/wow/",
+      "group": "綜合攻略與資料庫",
+      "coverage": ["職業", "天賦", "裝備", "副本", "探究", "專業", "PvP", "住宅"],
+      "crawlMode": "index",
+      "includePath": "^/wow/",
+      "maxLinks": 48,
+      "priority": 2,
+      "note": "分類完整，適合建立正式服攻略骨架。"
+    },
+    {
+      "id": "method",
+      "name": "Method",
+      "url": "https://www.method.gg/guides",
+      "group": "綜合攻略與資料庫",
+      "coverage": ["職業", "團隊副本", "傳奇鑰石", "首領"],
+      "crawlMode": "index",
+      "maxLinks": 36,
+      "priority": 2,
+      "note": "偏當前版本與高階實戰。"
+    },
+    {
+      "id": "mmo-champion",
+      "name": "MMO-Champion",
+      "url": "https://www.mmo-champion.com/content/",
+      "group": "官方與版本",
+      "coverage": ["新聞", "PTR", "藍帖", "資料挖掘", "職業改動"],
+      "crawlMode": "index",
+      "maxLinks": 24,
+      "priority": 3,
+      "note": "PTR 與資料挖掘必須標示未正式上線。"
+    },
+    {
+      "id": "warcraft-tavern",
+      "name": "Warcraft Tavern",
+      "url": "https://www.warcrafttavern.com/wow/guides/",
+      "group": "綜合攻略與資料庫",
+      "coverage": ["職業", "入門", "升級", "專業", "舊版本"],
+      "crawlMode": "index",
+      "maxLinks": 24,
+      "priority": 4,
+      "note": "正式服與經典版內容需分流。"
+    },
+    {
+      "id": "warcraft-wiki",
+      "name": "Warcraft Wiki",
+      "url": "https://warcraft.wiki.gg/wiki/Warcraft_Wiki",
+      "group": "綜合攻略與資料庫",
+      "coverage": ["世界觀", "角色", "任務背景", "舊資料片", "歷史"],
+      "crawlMode": "page",
+      "maxLinks": 12,
+      "priority": 3,
+      "note": "適合背景與舊內容，不作配裝結論。"
+    },
+    {
+      "id": "archon",
+      "name": "Archon",
+      "url": "https://www.archon.gg/wow",
+      "group": "數據與角色最佳化",
+      "coverage": ["職業排名", "天賦統計", "裝備統計", "團本", "傳奇鑰石"],
+      "crawlMode": "page",
+      "maxLinks": 12,
+      "priority": 2,
+      "note": "實際玩家統計，需保留難度、版本與樣本條件。"
+    },
+    {
+      "id": "murlok",
+      "name": "Murlok",
+      "url": "https://murlok.io/",
+      "group": "數據與角色最佳化",
+      "coverage": ["PvP", "傳奇鑰石", "高分玩家", "天賦", "裝備"],
+      "crawlMode": "index",
+      "maxLinks": 24,
+      "priority": 2,
+      "note": "高端玩家配置不直接等同新手最佳配置。"
+    },
+    {
+      "id": "warcraft-logs",
+      "name": "Warcraft Logs",
+      "url": "https://www.warcraftlogs.com/",
+      "group": "數據與角色最佳化",
+      "coverage": ["戰鬥紀錄", "首領排名", "時間軸", "死亡原因", "施法分析"],
+      "crawlMode": "manual",
+      "maxLinks": 0,
+      "priority": 2,
+      "note": "深入資料需要互動介面或 API；目前只作工具入口。"
+    },
+    {
+      "id": "raider-io",
+      "name": "Raider.IO",
+      "url": "https://raider.io/",
+      "group": "數據與角色最佳化",
+      "coverage": ["傳奇鑰石分數", "角色", "隊伍", "團隊進度", "排名"],
+      "crawlMode": "page",
+      "maxLinks": 12,
+      "priority": 2,
+      "note": "提供進度與隊伍資料，不將分數解讀為玩家價值。"
+    },
+    {
+      "id": "raidbots",
+      "name": "Raidbots",
+      "url": "https://www.raidbots.com/simbot",
+      "group": "數據與角色最佳化",
+      "coverage": ["角色模擬", "裝備比較", "掉落模擬", "屬性權重"],
+      "crawlMode": "manual",
+      "maxLinks": 0,
+      "priority": 2,
+      "note": "工具需使用玩家自己的角色資料，本站不代跑。"
+    },
+    {
+      "id": "bloodmallet",
+      "name": "Bloodmallet",
+      "url": "https://bloodmallet.com/",
+      "group": "數據與角色最佳化",
+      "coverage": ["飾品模擬", "天賦模擬", "種族模擬", "裝備比較"],
+      "crawlMode": "page",
+      "maxLinks": 10,
+      "priority": 3,
+      "note": "固定模擬情境只適合快速比較。"
+    },
+    {
+      "id": "wow-analyzer",
+      "name": "WoWAnalyzer",
+      "url": "https://wowanalyzer.com/",
+      "group": "數據與角色最佳化",
+      "coverage": ["戰鬥紀錄診斷", "輸出循環", "資源使用", "操作改善"],
+      "crawlMode": "page",
+      "maxLinks": 10,
+      "priority": 3,
+      "note": "各專精支援程度不同。"
+    },
+    {
+      "id": "questionably-epic",
+      "name": "Questionably Epic",
+      "url": "https://questionablyepic.com/",
+      "group": "數據與角色最佳化",
+      "coverage": ["治療職", "配裝", "模擬", "理論研究"],
+      "crawlMode": "index",
+      "maxLinks": 18,
+      "priority": 3,
+      "note": "補足綜合站對治療職最佳化的不足。"
+    },
+    {
+      "id": "keystone-guru",
+      "name": "Keystone.guru",
+      "url": "https://keystone.guru/",
+      "group": "團本與傳奇鑰石",
+      "coverage": ["地城路線", "拉怪規劃", "隊伍分享", "詞綴"],
+      "crawlMode": "page",
+      "maxLinks": 14,
+      "priority": 2,
+      "note": "路線會依詞綴、隊伍與層數變化。"
+    },
+    {
+      "id": "mythic-trap",
+      "name": "Mythic Trap",
+      "url": "https://www.mythictrap.com/en",
+      "group": "團本與傳奇鑰石",
+      "coverage": ["團本首領", "角色職責", "技能圖解", "WeakAuras"],
+      "crawlMode": "index",
+      "maxLinks": 30,
+      "priority": 2,
+      "note": "視覺化首領機制與角色分工。"
+    },
+    {
+      "id": "skill-capped",
+      "name": "Skill Capped",
+      "url": "https://www.skill-capped.com/wowarticles/",
+      "group": "PvP",
+      "coverage": ["競技場", "戰場", "職業攻略", "Tier List", "對局"],
+      "crawlMode": "index",
+      "maxLinks": 24,
+      "priority": 3,
+      "note": "公開文章可索引；付費影片不擷取。"
+    },
+    {
+      "id": "wow-arena-logs",
+      "name": "WoW Arena Logs",
+      "url": "https://wowarenalogs.com/",
+      "group": "PvP",
+      "coverage": ["競技場紀錄", "組合", "勝率", "事件回放"],
+      "crawlMode": "page",
+      "maxLinks": 10,
+      "priority": 3,
+      "note": "統計與回放工具，不代替教學文章。"
+    },
+    {
+      "id": "wow-professions",
+      "name": "WoW-Professions",
+      "url": "https://www.wow-professions.com/midnight",
+      "group": "專業與經濟",
+      "coverage": ["專業升級", "採集", "配方", "材料", "製作"],
+      "crawlMode": "index",
+      "maxLinks": 28,
+      "priority": 2,
+      "note": "專業路線清楚，價格資訊不直接套用台服。"
+    },
+    {
+      "id": "xu-fu",
+      "name": "Xu-Fu's Pet Guides",
+      "url": "https://www.wow-petguide.com/",
+      "group": "收藏與外觀",
+      "coverage": ["寵物對戰", "隊伍", "馴服師", "收藏"],
+      "crawlMode": "page",
+      "maxLinks": 12,
+      "priority": 3,
+      "note": "寵物對戰專門來源。"
+    },
+    {
+      "id": "data-for-azeroth",
+      "name": "Data for Azeroth",
+      "url": "https://www.dataforazeroth.com/",
+      "group": "收藏與外觀",
+      "coverage": ["收藏進度", "稀有度", "坐騎", "寵物", "成就"],
+      "crawlMode": "page",
+      "maxLinks": 10,
+      "priority": 3,
+      "note": "適合查進度與稀有度，不複製角色資料。"
+    },
+    {
+      "id": "simple-armory",
+      "name": "Simple Armory",
+      "url": "https://simplearmory.com/",
+      "group": "收藏與外觀",
+      "coverage": ["坐騎路線", "收藏進度", "角色清單"],
+      "crawlMode": "page",
+      "maxLinks": 10,
+      "priority": 3,
+      "note": "工具入口需玩家輸入角色。"
+    },
+    {
+      "id": "wago",
+      "name": "Wago",
+      "url": "https://wago.io/",
+      "group": "插件與介面",
+      "coverage": ["WeakAuras", "Plater", "介面設定", "匯入字串"],
+      "crawlMode": "manual",
+      "maxLinks": 0,
+      "priority": 2,
+      "note": "動態內容與匯入字串只提供原站入口。"
+    },
+    {
+      "id": "curseforge",
+      "name": "CurseForge",
+      "url": "https://www.curseforge.com/wow/addons",
+      "group": "插件與介面",
+      "coverage": ["插件下載", "版本相容", "更新紀錄", "分類"],
+      "crawlMode": "page",
+      "maxLinks": 12,
+      "priority": 3,
+      "note": "不重新散布插件檔案。"
+    },
+    {
+      "id": "wowinterface",
+      "name": "WoWInterface",
+      "url": "https://www.wowinterface.com/downloads/index.php",
+      "group": "插件與介面",
+      "coverage": ["插件下載", "介面套件", "巨集", "工具"],
+      "crawlMode": "index",
+      "maxLinks": 20,
+      "priority": 4,
+      "note": "補充 CurseForge 未收錄的介面工具。"
+    },
+    {
+      "id": "wowprogress",
+      "name": "WoWProgress",
+      "url": "https://www.wowprogress.com/",
+      "group": "公會與進度",
+      "coverage": ["公會排名", "團隊進度", "角色排名", "招募"],
+      "crawlMode": "page",
+      "maxLinks": 12,
+      "priority": 3,
+      "note": "與 Raider.IO 交叉核對團隊進度。"
+    },
+    {
+      "id": "warcraft-pets",
+      "name": "Warcraft Pets",
+      "url": "https://www.warcraftpets.com/",
+      "group": "收藏與外觀",
+      "coverage": ["戰寵資料庫", "取得方式", "收藏新聞"],
+      "crawlMode": "page",
+      "maxLinks": 10,
+      "priority": 4,
+      "note": "補足寵物資料庫與收集資訊。"
+    },
+    {
+      "id": "warcraft-mounts",
+      "name": "Warcraft Mounts",
+      "url": "https://www.warcraftmounts.com/",
+      "group": "收藏與外觀",
+      "coverage": ["坐騎資料庫", "取得方式", "外觀"],
+      "crawlMode": "page",
+      "maxLinks": 10,
+      "priority": 4,
+      "note": "坐騎專門資料庫。"
+    },
+    {
+      "id": "warcraft-secrets",
+      "name": "Warcraft Secrets",
+      "url": "https://warcraft-secrets.com/",
+      "group": "收藏與外觀",
+      "coverage": ["秘密", "解謎", "隱藏坐騎", "玩具", "事件"],
+      "crawlMode": "index",
+      "maxLinks": 20,
+      "priority": 3,
+      "note": "補足綜合站不易整理的隱藏內容。"
+    }
+  ],
+  "questionRadar": [
+    {
+      "id": "bahamut",
+      "name": "巴哈姆特 WOW 哈啦板",
+      "url": "https://forum.gamer.com.tw/B.php?bsn=5219",
+      "locale": "zh-TW",
+      "crawlMode": "question-index",
+      "maxLinks": 24,
+      "purpose": "找出台服玩家真正在問什麼，不把留言當官方事實。"
+    },
+    {
+      "id": "blizzard-tw",
+      "name": "Blizzard 台灣官方網站",
+      "url": "https://worldofwarcraft.blizzard.com/zh-tw/news",
+      "locale": "zh-TW",
+      "crawlMode": "index",
+      "maxLinks": 20,
+      "purpose": "校正台服正式譯名、日期與公告。"
+    }
+  ]
+}

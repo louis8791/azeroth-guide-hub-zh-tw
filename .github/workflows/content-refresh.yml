@@ -1,0 +1,86 @@
+name: Refresh guide index
+
+on:
+  schedule:
+    - cron: "17 */6 * * *"
+    - cron: "43 3 * * *"
+    - cron: "12 2 * * 0"
+  workflow_dispatch:
+    inputs:
+      tier:
+        description: Source tier
+        required: true
+        default: all
+        type: choice
+        options:
+          - all
+          - urgent
+          - guides
+          - stats
+          - questions
+          - backfill
+
+permissions:
+  contents: write
+
+concurrency:
+  group: content-refresh
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 330
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+
+      - uses: actions/cache@v4
+        with:
+          path: ~/.cache/huggingface
+          key: m2m100-418m-${{ runner.os }}-v1
+
+      - run: npm ci
+
+      - name: Choose source tier
+        id: tier
+        shell: bash
+        run: |
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            echo "value=${{ inputs.tier }}" >> "$GITHUB_OUTPUT"
+          elif [ "${{ github.event.schedule }}" = "43 3 * * *" ]; then
+            echo "value=guides" >> "$GITHUB_OUTPUT"
+          elif [ "${{ github.event.schedule }}" = "12 2 * * 0" ]; then
+            echo "value=backfill" >> "$GITHUB_OUTPUT"
+          else
+            echo "value=urgent" >> "$GITHUB_OUTPUT"
+          fi
+
+      - run: node scripts/crawl-sources.mjs --tier=${{ steps.tier.outputs.value }}
+
+      - run: pip install -r requirements-m2m100.txt
+
+      - run: python3 scripts/translate-content.py --provider=m2m100
+
+      - run: npm run build
+
+      - name: Commit changed index
+        shell: bash
+        run: |
+          git config user.name "Azeroth Guide Refresh"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/content-source.json data/crawl-report.json data/translation-cache.json public/data/live-index.json
+          if git diff --cached --quiet; then
+            exit 0
+          fi
+          git commit -m "data: refresh guide index"
+          git push

@@ -1,0 +1,86 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-07-30T00:00:00.000Z",
+  "items": [
+    {
+      "id": "patch-1207",
+      "title": "12.0.7 版本更新重點",
+      "summary": "快速修正、職業調整與本週重要系統變化整理。",
+      "category": "新聞與快速修正",
+      "sourceName": "World of Warcraft 官方網站",
+      "sourceUrl": "https://worldofwarcraft.blizzard.com/en-us/content-update-notes",
+      "updatedAt": "2026-07-30",
+      "accent": "violet"
+    },
+    {
+      "id": "season-one",
+      "title": "至暗之夜第 1 賽季總覽",
+      "summary": "團隊副本、傳奇鑰石、PvP 與每週獎勵入口。",
+      "category": "每週待辦與寶庫",
+      "sourceName": "Icy Veins",
+      "sourceUrl": "https://www.icy-veins.com/wow/",
+      "updatedAt": "2026-07-29",
+      "accent": "purple"
+    },
+    {
+      "id": "raid-overview",
+      "title": "本季團隊副本首領攻略",
+      "summary": "依坦克、治療與傷害輸出拆分必須處理的機制。",
+      "category": "團隊副本與首領",
+      "sourceName": "Mythic Trap",
+      "sourceUrl": "https://www.mythictrap.com/en",
+      "updatedAt": "2026-07-28",
+      "accent": "ember"
+    },
+    {
+      "id": "mythic-routes",
+      "title": "本週傳奇鑰石路線",
+      "summary": "依地城、詞綴與隊伍需求整理路線工具入口。",
+      "category": "大秘境路線與中斷表",
+      "sourceName": "Keystone.guru",
+      "sourceUrl": "https://keystone.guru/",
+      "updatedAt": "2026-07-28",
+      "accent": "blue"
+    },
+    {
+      "id": "class-builds",
+      "title": "各專精團本與大秘境天賦",
+      "summary": "文字攻略與實際玩家統計分開呈現，避免把熱門當唯一答案。",
+      "category": "職業與專精",
+      "sourceName": "Method",
+      "sourceUrl": "https://www.method.gg/guides",
+      "updatedAt": "2026-07-27",
+      "accent": "gold"
+    },
+    {
+      "id": "profession-path",
+      "title": "專業升級與製作訂單",
+      "summary": "專業知識、材料與配方取得路線。",
+      "category": "專業、製作訂單與配方",
+      "sourceName": "WoW-Professions",
+      "sourceUrl": "https://www.wow-professions.com/midnight",
+      "updatedAt": "2026-07-27",
+      "accent": "green"
+    },
+    {
+      "id": "pet-guides",
+      "title": "戰寵隊伍與馴服師解法",
+      "summary": "依對手、技能與替代寵物整理可執行隊伍。",
+      "category": "戰寵與寵物對戰",
+      "sourceName": "Xu-Fu's Pet Guides",
+      "sourceUrl": "https://www.wow-petguide.com/",
+      "updatedAt": "2026-07-26",
+      "accent": "teal"
+    },
+    {
+      "id": "addon-basics",
+      "title": "插件、WeakAuras 與介面設定",
+      "summary": "下載、相容版本與設定用途分開說明。",
+      "category": "插件、WeakAuras 與介面",
+      "sourceName": "Wago",
+      "sourceUrl": "https://wago.io/",
+      "updatedAt": "2026-07-26",
+      "accent": "red"
+    }
+  ]
+}

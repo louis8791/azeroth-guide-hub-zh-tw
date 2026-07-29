@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "content": {
+    "maximumExcerptCharacters": 420,
+    "preservePreviousOnFailure": true,
+    "requireSourceUrl": true,
+    "fullTextDefault": false
+  },
+  "translation": {
+    "provider": "argos",
+    "providers": {
+      "argos": {
+        "model": "argos-translate-en-zh",
+        "license": "MIT",
+        "runsLocally": true
+      },
+      "m2m100": {
+        "model": "facebook/m2m100_418M",
+        "license": "MIT",
+        "runsLocally": true
+      },
+      "ollama": {
+        "model": "configurable",
+        "endpoint": "http://127.0.0.1:11434",
+        "runsLocally": true
+      },
+      "fallback": {
+        "mode": "glossary-only",
+        "runsLocally": true
+      }
+    },
+    "traditionalChineseConverter": "OpenCC s2twp",
+    "glossaryPath": "data/translation-glossary.json"
+  },
+  "schedule": {
+    "urgentSources": "0 */6 * * *",
+    "guideIndexes": "25 3 * * *",
+    "statistics": "40 */8 * * *",
+    "questionRadar": "10 4 * * *",
+    "deepBackfill": "0 2 * * 0",
+    "timezone": "Asia/Taipei"
+  }
+}
