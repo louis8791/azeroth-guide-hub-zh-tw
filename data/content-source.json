@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-29T17:00:58.953Z",
+  "generatedAt": "2026-07-29T17:10:01.170Z",
   "documents": [
     {
       "id": "archon:home",
@@ -4849,7 +4849,7 @@
       "url": "https://worldofwarcraft.blizzard.com/en-us/news",
       "originalText": "All the latest news and updates coming to World of Warcraft including developer updates, patch releases and more.",
       "locale": "en-US",
-      "discoveredAt": "2026-07-29T17:00:58.953Z",
+      "discoveredAt": "2026-07-29T17:10:01.170Z",
       "fingerprint": "24785a4d9c5e1c417c91ec5e8f02d944b000b02f34f48f9f3dcc91d16cba80ac"
     },
     {
