@@ -1,74 +1,27 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-29T16:57:54.087Z",
-  "tier": "stats",
-  "selectedSourceCount": 9,
-  "available": 0,
-  "manual": 2,
-  "blocked": 7,
-  "unavailable": 0,
+  "generatedAt": "2026-07-29T17:00:58.953Z",
+  "tier": "urgent",
+  "selectedSourceCount": 2,
+  "available": 1,
+  "manual": 0,
+  "blocked": 0,
+  "unavailable": 1,
   "documentCount": 317,
   "sources": [
     {
-      "id": "archon",
-      "name": "Archon",
-      "status": "robots-blocked",
-      "robotsStatus": "unverified",
-      "checkedAt": "2026-07-29T16:57:54.087Z"
+      "id": "blizzard-wow",
+      "name": "World of Warcraft 官方網站",
+      "status": "available",
+      "checkedAt": "2026-07-29T17:00:58.953Z",
+      "documentCount": 1
     },
     {
-      "id": "murlok",
-      "name": "Murlok",
-      "status": "robots-blocked",
-      "robotsStatus": "unverified",
-      "checkedAt": "2026-07-29T16:57:54.087Z"
-    },
-    {
-      "id": "warcraft-logs",
-      "name": "Warcraft Logs",
-      "status": "manual",
-      "checkedAt": "2026-07-29T16:57:54.087Z"
-    },
-    {
-      "id": "raider-io",
-      "name": "Raider.IO",
-      "status": "robots-blocked",
-      "robotsStatus": "unverified",
-      "checkedAt": "2026-07-29T16:57:54.087Z"
-    },
-    {
-      "id": "raidbots",
-      "name": "Raidbots",
-      "status": "manual",
-      "checkedAt": "2026-07-29T16:57:54.087Z"
-    },
-    {
-      "id": "bloodmallet",
-      "name": "Bloodmallet",
-      "status": "robots-blocked",
-      "robotsStatus": "unverified",
-      "checkedAt": "2026-07-29T16:57:54.087Z"
-    },
-    {
-      "id": "wow-analyzer",
-      "name": "WoWAnalyzer",
-      "status": "robots-blocked",
-      "robotsStatus": "unverified",
-      "checkedAt": "2026-07-29T16:57:54.087Z"
-    },
-    {
-      "id": "questionably-epic",
-      "name": "Questionably Epic",
-      "status": "robots-blocked",
-      "robotsStatus": "unverified",
-      "checkedAt": "2026-07-29T16:57:54.087Z"
-    },
-    {
-      "id": "wowprogress",
-      "name": "WoWProgress",
-      "status": "robots-blocked",
-      "robotsStatus": "unverified",
-      "checkedAt": "2026-07-29T16:57:54.087Z"
+      "id": "mmo-champion",
+      "name": "MMO-Champion",
+      "status": "unavailable",
+      "checkedAt": "2026-07-29T17:00:58.953Z",
+      "note": "HTTP 403"
     }
   ]
 }

@@ -1,16 +1,16 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-29T16:57:54.087Z",
-  "provider": "argos",
+  "generatedAt": "2026-07-29T17:00:58.953Z",
+  "provider": "m2m100",
   "qualityGate": {
-    "published": 231,
-    "heldForReview": 83
+    "published": 253,
+    "heldForReview": 61
   },
   "items": [
     {
       "id": "archon:home",
       "title": "Archon",
-      "summary": "裁縫工具和資源:遊戲體驗。",
+      "summary": "最先進的工具和資源,以適應您的《魔鬼世界》: 至暗之夜遊戲體驗。",
       "originalTitle": "World of Warcraft: Midnight | Archon",
       "sourceName": "Archon",
       "sourceUrl": "https://www.archon.gg/wow",
@@ -40,7 +40,7 @@
     {
       "id": "bloodmallet:home",
       "title": "Bloodmallet",
-      "summary": "使用模擬Craft為所有人提供的資料",
+      "summary": "《魔鬼世界》資料用於使用SimulationCraft",
       "originalTitle": "bloodmallet - data for all",
       "sourceName": "Bloodmallet",
       "sourceUrl": "https://bloodmallet.com/",
@@ -57,7 +57,7 @@
     {
       "id": "icy-veins:home",
       "title": "Icy Veins",
-      "summary": "Icy Veins為QQ提供詳細的指南和新聞:類指南,QQ指南,事件指南,pvp指南等.",
+      "summary": "Icy Veins 為《魔鬼世界》提供詳細的指南和新聞:課堂指南、團隊副本指南、活動指南、PVP指南等。",
       "originalTitle": "World of Warcraft Guides and News - World of Warcraft - Icy Veins",
       "sourceName": "Icy Veins",
       "sourceUrl": "https://www.icy-veins.com/wow/",
@@ -95,6 +95,27 @@
       ],
       "updatedAt": "2026-07-29T16:42:27.765Z",
       "fingerprint": "a62eecc4bb175d6227b82519cab673682ab4fd073f4954bb57ff0981b0fed63e"
+    },
+    {
+      "id": "icy-veins:d2daf17a4536eb",
+      "title": "把你的性格",
+      "summary": "把你的性格",
+      "originalTitle": "Simming Your Character",
+      "sourceName": "Icy Veins",
+      "sourceUrl": "https://www.icy-veins.com/wow/how-to-sim-your-wow-character-a-guide-to-raidbots",
+      "group": "綜合攻略與資料庫",
+      "categoryHints": [
+        "職業",
+        "天賦",
+        "裝備",
+        "副本",
+        "探究",
+        "專業",
+        "PvP",
+        "住宅"
+      ],
+      "updatedAt": "2026-07-29T16:42:27.765Z",
+      "fingerprint": "dfed9e30a4111bdaf5a9ecac58bcd9ebe7d1b9f1477617ed2135625df69fdf4a"
     },
     {
       "id": "icy-veins:6b8b533aac2bb4",
@@ -181,9 +202,72 @@
       "fingerprint": "7be9a4e1b78bd36c05791f20780d8ca7d716ec45f68f4571becd689be24fde76"
     },
     {
+      "id": "icy-veins:a3482f71dd7f4e",
+      "title": "死亡騎士指南",
+      "summary": "死亡騎士指南",
+      "originalTitle": "Death Knight Guide",
+      "sourceName": "Icy Veins",
+      "sourceUrl": "https://www.icy-veins.com/wow/death-knight-guide",
+      "group": "綜合攻略與資料庫",
+      "categoryHints": [
+        "職業",
+        "天賦",
+        "裝備",
+        "副本",
+        "探究",
+        "專業",
+        "PvP",
+        "住宅"
+      ],
+      "updatedAt": "2026-07-29T16:42:27.765Z",
+      "fingerprint": "730380cdbae9fcefb7f2a198a6180c02cc7308ff5f65fb5bdb92087686f68bfb"
+    },
+    {
+      "id": "icy-veins:0765cb498aef9d",
+      "title": "魔鬼獵人指南",
+      "summary": "魔鬼獵人指南",
+      "originalTitle": "Demon Hunter Guide",
+      "sourceName": "Icy Veins",
+      "sourceUrl": "https://www.icy-veins.com/wow/demon-hunter-guide",
+      "group": "綜合攻略與資料庫",
+      "categoryHints": [
+        "職業",
+        "天賦",
+        "裝備",
+        "副本",
+        "探究",
+        "專業",
+        "PvP",
+        "住宅"
+      ],
+      "updatedAt": "2026-07-29T16:42:27.765Z",
+      "fingerprint": "31fbb865b57d717c76e284bb553c82e4e645c1ade4ac96d9d5f7947a2734151b"
+    },
+    {
+      "id": "icy-veins:0f6253f1058855",
+      "title": "藉口",
+      "summary": "藉口",
+      "originalTitle": "Devourer",
+      "sourceName": "Icy Veins",
+      "sourceUrl": "https://www.icy-veins.com/wow/devourer-demon-hunter-pve-dps-guide",
+      "group": "綜合攻略與資料庫",
+      "categoryHints": [
+        "職業",
+        "天賦",
+        "裝備",
+        "副本",
+        "探究",
+        "專業",
+        "PvP",
+        "住宅"
+      ],
+      "updatedAt": "2026-07-29T16:42:27.765Z",
+      "fingerprint": "3846c97c59e0184112105250450f2db7bd0ea0a3a12523a6457398f5bbbf9a17"
+    },
+    {
       "id": "icy-veins:473fa468dac27a",
-      "title": "報復",
-      "summary": "報復",
+      "title": "復仇",
+      "summary": "復仇",
       "originalTitle": "Vengeance",
       "sourceName": "Icy Veins",
       "sourceUrl": "https://www.icy-veins.com/wow/vengeance-demon-hunter-pve-tank-guide",
@@ -200,6 +284,27 @@
       ],
       "updatedAt": "2026-07-29T16:42:27.765Z",
       "fingerprint": "c2c63d54987461d40e6fd5dc2ad872226fd1f1aa2640791cebcf71a148de2c80"
+    },
+    {
+      "id": "icy-veins:c175deeb8fee3f",
+      "title": "德魯伊指南",
+      "summary": "德魯伊指南",
+      "originalTitle": "Druid Guide",
+      "sourceName": "Icy Veins",
+      "sourceUrl": "https://www.icy-veins.com/wow/druid-guide",
+      "group": "綜合攻略與資料庫",
+      "categoryHints": [
+        "職業",
+        "天賦",
+        "裝備",
+        "副本",
+        "探究",
+        "專業",
+        "PvP",
+        "住宅"
+      ],
+      "updatedAt": "2026-07-29T16:42:27.765Z",
+      "fingerprint": "0e4daaba3fa9401b1c83247885b2306c01eb2a2d564f9399683cfbb4e9537d07"
     },
     {
       "id": "icy-veins:3af4955fe4b567",
@@ -221,6 +326,48 @@
       ],
       "updatedAt": "2026-07-29T16:42:27.765Z",
       "fingerprint": "100606a080bc536451583389a04b64a399acbd90907204aae0341fd1acf098e4"
+    },
+    {
+      "id": "icy-veins:ecb4d0c58968ce",
+      "title": "召能師指南",
+      "summary": "召能師指南",
+      "originalTitle": "Evoker Guide",
+      "sourceName": "Icy Veins",
+      "sourceUrl": "https://www.icy-veins.com/wow/evoker-guide",
+      "group": "綜合攻略與資料庫",
+      "categoryHints": [
+        "職業",
+        "天賦",
+        "裝備",
+        "副本",
+        "探究",
+        "專業",
+        "PvP",
+        "住宅"
+      ],
+      "updatedAt": "2026-07-29T16:42:27.765Z",
+      "fingerprint": "574be23989a49a1aaffb565cd6740ea0f85aef622ae67a50e0e1bebfcdd80f2a"
+    },
+    {
+      "id": "icy-veins:afc7ba31858b98",
+      "title": "獵人指南",
+      "summary": "獵人指南",
+      "originalTitle": "Hunter Guide",
+      "sourceName": "Icy Veins",
+      "sourceUrl": "https://www.icy-veins.com/wow/hunter-guide",
+      "group": "綜合攻略與資料庫",
+      "categoryHints": [
+        "職業",
+        "天賦",
+        "裝備",
+        "副本",
+        "探究",
+        "專業",
+        "PvP",
+        "住宅"
+      ],
+      "updatedAt": "2026-07-29T16:42:27.765Z",
+      "fingerprint": "1053035d4dfef99f3e3ece8e69b35ee736389a37f9a5635b44f01fa48de8cfc1"
     },
     {
       "id": "icy-veins:710d5184289e87",
@@ -265,9 +412,135 @@
       "fingerprint": "48281b15bbe8c999901916a7e54ba256ab55b895430e9885c5e6349786d41a41"
     },
     {
+      "id": "icy-veins:5c6411fc3c21fe",
+      "title": "法師指南",
+      "summary": "法師指南",
+      "originalTitle": "Mage Guide",
+      "sourceName": "Icy Veins",
+      "sourceUrl": "https://www.icy-veins.com/wow/mage-guide",
+      "group": "綜合攻略與資料庫",
+      "categoryHints": [
+        "職業",
+        "天賦",
+        "裝備",
+        "副本",
+        "探究",
+        "專業",
+        "PvP",
+        "住宅"
+      ],
+      "updatedAt": "2026-07-29T16:42:27.765Z",
+      "fingerprint": "48e0d9c30adb428f53cd2f49c0e7916370addf6b8630840813c82b083a773e26"
+    },
+    {
+      "id": "icy-veins:43907e1ab5d127",
+      "title": "武僧指南",
+      "summary": "武僧指南",
+      "originalTitle": "Monk Guide",
+      "sourceName": "Icy Veins",
+      "sourceUrl": "https://www.icy-veins.com/wow/monk-guide",
+      "group": "綜合攻略與資料庫",
+      "categoryHints": [
+        "職業",
+        "天賦",
+        "裝備",
+        "副本",
+        "探究",
+        "專業",
+        "PvP",
+        "住宅"
+      ],
+      "updatedAt": "2026-07-29T16:42:27.765Z",
+      "fingerprint": "20396ddb694fc6c371acc1f2d4279f343f1b0114f04fe0e900d69e375ba3dc44"
+    },
+    {
+      "id": "icy-veins:007a024a1edb0e",
+      "title": "布魯馬斯",
+      "summary": "布魯馬斯",
+      "originalTitle": "Brewmaster",
+      "sourceName": "Icy Veins",
+      "sourceUrl": "https://www.icy-veins.com/wow/brewmaster-monk-pve-tank-guide",
+      "group": "綜合攻略與資料庫",
+      "categoryHints": [
+        "職業",
+        "天賦",
+        "裝備",
+        "副本",
+        "探究",
+        "專業",
+        "PvP",
+        "住宅"
+      ],
+      "updatedAt": "2026-07-29T16:42:27.765Z",
+      "fingerprint": "9d98b56cd4bf8a87028a5f011e4289f1e3e5b0a7e813ad559ce838a110eaa9ae"
+    },
+    {
+      "id": "icy-veins:d1f24c5a85fe4c",
+      "title": "聖騎士指南",
+      "summary": "聖騎士指南",
+      "originalTitle": "Paladin Guide",
+      "sourceName": "Icy Veins",
+      "sourceUrl": "https://www.icy-veins.com/wow/paladin-guide",
+      "group": "綜合攻略與資料庫",
+      "categoryHints": [
+        "職業",
+        "天賦",
+        "裝備",
+        "副本",
+        "探究",
+        "專業",
+        "PvP",
+        "住宅"
+      ],
+      "updatedAt": "2026-07-29T16:42:27.765Z",
+      "fingerprint": "41742b1950994f61a56922559dbf6cd2e16e324c2e55f107457105d21350543a"
+    },
+    {
+      "id": "icy-veins:1eefe87a62ab18",
+      "title": "牧師指南",
+      "summary": "牧師指南",
+      "originalTitle": "Priest Guide",
+      "sourceName": "Icy Veins",
+      "sourceUrl": "https://www.icy-veins.com/wow/priest-guide",
+      "group": "綜合攻略與資料庫",
+      "categoryHints": [
+        "職業",
+        "天賦",
+        "裝備",
+        "副本",
+        "探究",
+        "專業",
+        "PvP",
+        "住宅"
+      ],
+      "updatedAt": "2026-07-29T16:42:27.765Z",
+      "fingerprint": "33f1f4119786023f5c34f073564cacb81272085aeec173aac9a54829852c3ee9"
+    },
+    {
+      "id": "icy-veins:aee7669e834480",
+      "title": "盜賊指南",
+      "summary": "盜賊指南",
+      "originalTitle": "Rogue Guide",
+      "sourceName": "Icy Veins",
+      "sourceUrl": "https://www.icy-veins.com/wow/rogue-guide",
+      "group": "綜合攻略與資料庫",
+      "categoryHints": [
+        "職業",
+        "天賦",
+        "裝備",
+        "副本",
+        "探究",
+        "專業",
+        "PvP",
+        "住宅"
+      ],
+      "updatedAt": "2026-07-29T16:42:27.765Z",
+      "fingerprint": "da9410b98f1ff49213274106837302ab43c15044d410e240e20c73c81bbc8ace"
+    },
+    {
       "id": "icy-veins:e111f6c146c286",
-      "title": "可愛",
-      "summary": "可愛",
+      "title": "主持人",
+      "summary": "主持人",
       "originalTitle": "Subtlety",
       "sourceName": "Icy Veins",
       "sourceUrl": "https://www.icy-veins.com/wow/subtlety-rogue-pve-dps-guide",
@@ -284,6 +557,27 @@
       ],
       "updatedAt": "2026-07-29T16:42:27.765Z",
       "fingerprint": "3896accc696fb3eb264c87169380f98ae14d585e037f06900700fa46d4d5440b"
+    },
+    {
+      "id": "icy-veins:85ebcd33cadbd4",
+      "title": "薩滿祭司指南",
+      "summary": "薩滿祭司指南",
+      "originalTitle": "Shaman Guide",
+      "sourceName": "Icy Veins",
+      "sourceUrl": "https://www.icy-veins.com/wow/shaman-guide",
+      "group": "綜合攻略與資料庫",
+      "categoryHints": [
+        "職業",
+        "天賦",
+        "裝備",
+        "副本",
+        "探究",
+        "專業",
+        "PvP",
+        "住宅"
+      ],
+      "updatedAt": "2026-07-29T16:42:27.765Z",
+      "fingerprint": "c6ebe6aef1e5684b9af476f3a54e562241fa10d6053548240058921559cba9f2"
     },
     {
       "id": "icy-veins:5cb145e052afce",
@@ -307,9 +601,51 @@
       "fingerprint": "ae3f429a1d1dd136146efd72bbb7c3b73161f9ea4c87726dca2d9925ab268c80"
     },
     {
+      "id": "icy-veins:ec448e702520f2",
+      "title": "魔術師指南",
+      "summary": "魔術師指南",
+      "originalTitle": "Warlock Guide",
+      "sourceName": "Icy Veins",
+      "sourceUrl": "https://www.icy-veins.com/wow/warlock-guide",
+      "group": "綜合攻略與資料庫",
+      "categoryHints": [
+        "職業",
+        "天賦",
+        "裝備",
+        "副本",
+        "探究",
+        "專業",
+        "PvP",
+        "住宅"
+      ],
+      "updatedAt": "2026-07-29T16:42:27.765Z",
+      "fingerprint": "7486819653dafcac6d534c15aef04e615d560651801b5d1d1a3d55069c8045fd"
+    },
+    {
+      "id": "icy-veins:1defc1dbd83fcb",
+      "title": "戰士指南",
+      "summary": "戰士指南",
+      "originalTitle": "Warrior Guide",
+      "sourceName": "Icy Veins",
+      "sourceUrl": "https://www.icy-veins.com/wow/warrior-guide",
+      "group": "綜合攻略與資料庫",
+      "categoryHints": [
+        "職業",
+        "天賦",
+        "裝備",
+        "副本",
+        "探究",
+        "專業",
+        "PvP",
+        "住宅"
+      ],
+      "updatedAt": "2026-07-29T16:42:27.765Z",
+      "fingerprint": "2d28fd1d88d63a13a40de2065c0110b441bd9b837313da60cb5a45d2fe7ae6cb"
+    },
+    {
       "id": "icy-veins:3f6551aea96c70",
-      "title": "每週待辦列表",
-      "summary": "每週待辦列表",
+      "title": "每週做事列表",
+      "summary": "每週做事列表",
       "originalTitle": "Weekly To-Do List",
       "sourceName": "Icy Veins",
       "sourceUrl": "https://www.icy-veins.com/wow/weekly-to-do-list",
@@ -329,8 +665,8 @@
     },
     {
       "id": "icy-veins:c476062146bda4",
-      "title": "選擇主機",
-      "summary": "選擇主機",
+      "title": "選擇你的主",
+      "summary": "選擇你的主",
       "originalTitle": "Choose Your Main",
       "sourceName": "Icy Veins",
       "sourceUrl": "https://www.icy-veins.com/wow/choose-your-main-guide",
@@ -351,7 +687,7 @@
     {
       "id": "keystone-guru:home",
       "title": "Keystone.guru",
-      "summary": "計劃與你的團隊合作線上路線或發現適合你的遊戲風格和技能水平的路線. Keystone.guru是一個管理和分享你的M+路線的地方.",
+      "summary": "線上與您的團隊合作規劃路線,或者發現適合您的遊戲風格和技能水平的路線。",
       "originalTitle": "Keystone.guru",
       "sourceName": "Keystone.guru",
       "sourceUrl": "https://keystone.guru/",
@@ -368,7 +704,7 @@
     {
       "id": "method:home",
       "title": "Method",
-      "summary": "QQ:QQ類指南,QQ指南和Boss指南由Method 團隊副本ers和內容建立者編寫.",
+      "summary": "《魔獸世界》: 至暗之夜教學指南, 傳奇鑰石地城指南和老闆指南,由Method 團隊副本和內容創作者撰寫。",
       "originalTitle": "Method WoW Guides",
       "sourceName": "Method",
       "sourceUrl": "https://www.method.gg/guides",
@@ -384,8 +720,8 @@
     },
     {
       "id": "method:d81cb0de316a65",
-      "title": "EAS3英雄導師! 新建",
-      "summary": "EAS3英雄導師! 新建",
+      "title": "EAS3 英雄指南!新",
+      "summary": "EAS3 英雄指南!新",
       "originalTitle": "EAS3 Hero Guides! NEW",
       "sourceName": "Method",
       "sourceUrl": "https://www.method.gg/fellowship/heroes",
@@ -401,8 +737,8 @@
     },
     {
       "id": "method:8fc36d308ac3d9",
-      "title": "免費去Ad",
-      "summary": "免費去Ad",
+      "title": "免費廣告",
+      "summary": "免費廣告",
       "originalTitle": "Go Ad Free",
       "sourceName": "Method",
       "sourceUrl": "https://www.method.gg/premium",
@@ -418,8 +754,8 @@
     },
     {
       "id": "method:90b4ce82b5a0ee",
-      "title": "登記冊",
-      "summary": "登記冊",
+      "title": "登記",
+      "summary": "登記",
       "originalTitle": "Register",
       "sourceName": "Method",
       "sourceUrl": "https://www.method.gg/account/register",
@@ -452,8 +788,8 @@
     },
     {
       "id": "method:547ef0a5f24cb0",
-      "title": "沙丘:覺醒",
-      "summary": "沙丘:覺醒",
+      "title": "標籤: 覺醒",
+      "summary": "標籤: 覺醒",
       "originalTitle": "Dune: Awakening",
       "sourceName": "Method",
       "sourceUrl": "https://www.method.gg/dune-awakening",
@@ -469,8 +805,8 @@
     },
     {
       "id": "method:9ca8b41041e50f",
-      "title": "風雲",
-      "summary": "風雲",
+      "title": "風格",
+      "summary": "風格",
       "originalTitle": "Windrose",
       "sourceName": "Method",
       "sourceUrl": "https://www.method.gg/windrose",
@@ -485,9 +821,26 @@
       "fingerprint": "1c6ab9bb21c0463ff1c8a95444407db1413bc34a164632b1d21a173b8bfd6ab4"
     },
     {
+      "id": "method:add63d391b4ae3",
+      "title": "Subnautica 二",
+      "summary": "Subnautica 二",
+      "originalTitle": "Subnautica 2",
+      "sourceName": "Method",
+      "sourceUrl": "https://www.method.gg/subnautica-2",
+      "group": "綜合攻略與資料庫",
+      "categoryHints": [
+        "職業",
+        "團隊副本",
+        "傳奇鑰石",
+        "首領"
+      ],
+      "updatedAt": "2026-07-29T16:42:27.765Z",
+      "fingerprint": "4d79a4a9decb963b7d3cfd372fbca96ffeb705964aefcc56a54219d91625035a"
+    },
+    {
       "id": "method:21820fe7c4b62e",
-      "title": "我們的團隊和建立者",
-      "summary": "我們的團隊和建立者",
+      "title": "我們的團隊和創作者",
+      "summary": "我們的團隊和創作者",
       "originalTitle": "Our Teams & Creators",
       "sourceName": "Method",
       "sourceUrl": "https://www.method.gg/teams",
@@ -503,8 +856,8 @@
     },
     {
       "id": "method:f8fe3846ea36a2",
-      "title": "我們的夥伴",
-      "summary": "我們的夥伴",
+      "title": "我們的合作伙伴",
+      "summary": "我們的合作伙伴",
       "originalTitle": "Our Partners",
       "sourceName": "Method",
       "sourceUrl": "https://www.method.gg/partners",
@@ -536,9 +889,26 @@
       "fingerprint": "c67d831c4f06c948458104364071f2bada212a87ac26dc26b0ac8b8a5b6990a2"
     },
     {
+      "id": "method:7fa240df5ef1bb",
+      "title": "團隊副本歷史",
+      "summary": "團隊副本歷史",
+      "originalTitle": "Raid History",
+      "sourceName": "Method",
+      "sourceUrl": "https://www.method.gg/raid-history/vanilla",
+      "group": "綜合攻略與資料庫",
+      "categoryHints": [
+        "職業",
+        "團隊副本",
+        "傳奇鑰石",
+        "首領"
+      ],
+      "updatedAt": "2026-07-29T16:42:27.765Z",
+      "fingerprint": "bdeb4dc608933e220c89cb060d2520379c10fed6625d6f4be50508a2072f5920"
+    },
+    {
       "id": "method:52d526f7c858ca",
-      "title": "++ 進展",
-      "summary": "++ 進展",
+      "title": "團隊副本進展",
+      "summary": "團隊副本進展",
       "originalTitle": "Raid Progress",
       "sourceName": "Method",
       "sourceUrl": "https://www.method.gg/raidprogress",
@@ -554,8 +924,8 @@
     },
     {
       "id": "method:6af2509bd35e51",
-      "title": "EAS3路線",
-      "summary": "EAS3路線",
+      "title": "地城路線EAS3",
+      "summary": "地城路線EAS3",
       "originalTitle": "Dungeon Routes EAS3",
       "sourceName": "Method",
       "sourceUrl": "https://www.method.gg/fellowship/route-planner",
@@ -571,8 +941,8 @@
     },
     {
       "id": "method:a853f675f54bd4",
-      "title": "Bis 新建構建器",
-      "summary": "Bis 新建構建器",
+      "title": "BiS 建造新",
+      "summary": "BiS 建造新",
       "originalTitle": "BiS Builder New",
       "sourceName": "Method",
       "sourceUrl": "https://www.method.gg/fellowship/bis-builder",
@@ -588,8 +958,8 @@
     },
     {
       "id": "method:11efb78aa2e64c",
-      "title": "寶石計算器 EAS3",
-      "summary": "寶石計算器 EAS3",
+      "title": "基因計算機EAS3",
+      "summary": "基因計算機EAS3",
       "originalTitle": "Gem Calculator EAS3",
       "sourceName": "Method",
       "sourceUrl": "https://www.method.gg/fellowship/gem-calculator",
@@ -605,8 +975,8 @@
     },
     {
       "id": "method:5d125a3933cb5a",
-      "title": "等級列表 EAS3",
-      "summary": "等級列表 EAS3",
+      "title": "Tier 列表 EAS3",
+      "summary": "Tier 列表 EAS3",
       "originalTitle": "Tier Lists EAS3",
       "sourceName": "Method",
       "sourceUrl": "https://www.method.gg/fellowship/tier-lists",
@@ -639,8 +1009,8 @@
     },
     {
       "id": "method:9e21645560b3dc",
-      "title": "EAS3指南",
-      "summary": "EAS3指南",
+      "title": "地城指南EAS3",
+      "summary": "地城指南EAS3",
       "originalTitle": "Dungeon Guides EAS3",
       "sourceName": "Method",
       "sourceUrl": "https://www.method.gg/fellowship/dungeons",
@@ -656,8 +1026,8 @@
     },
     {
       "id": "method:f6212dc99abc63",
-      "title": "EAS3 標籤",
-      "summary": "EAS3 標籤",
+      "title": "標籤:EAS3",
+      "summary": "標籤:EAS3",
       "originalTitle": "Affixes EAS3",
       "sourceName": "Method",
       "sourceUrl": "https://www.method.gg/fellowship/dungeons/affixes",
@@ -690,8 +1060,8 @@
     },
     {
       "id": "method:3f62a7516a4eb5",
-      "title": "最佳構建",
-      "summary": "最佳構建",
+      "title": "最好的建築",
+      "summary": "最好的建築",
       "originalTitle": "Best Builds",
       "sourceName": "Method",
       "sourceUrl": "https://www.method.gg/windrose/best-builds-in-windrose",
@@ -741,8 +1111,8 @@
     },
     {
       "id": "method:d7c5e942dfbca9",
-      "title": "艦炮",
-      "summary": "艦炮",
+      "title": "船 Gear",
+      "summary": "船 Gear",
       "originalTitle": "Ship Gear",
       "sourceName": "Method",
       "sourceUrl": "https://www.method.gg/windrose/best-ship-gear-in-windrose-which-cannons-hull-and-naval-tactics-to-focus-on",
@@ -758,8 +1128,8 @@
     },
     {
       "id": "method:fde4dcec1753c1",
-      "title": "狀態和人才",
-      "summary": "狀態和人才",
+      "title": "國家與才華",
+      "summary": "國家與才華",
       "originalTitle": "Stats & Talents",
       "sourceName": "Method",
       "sourceUrl": "https://www.method.gg/windrose/best-stats-and-talents-to-level-up-first-in-windrose",
@@ -775,8 +1145,8 @@
     },
     {
       "id": "method:88c290ac8912f2",
-      "title": "事實和信譽",
-      "summary": "事實和信譽",
+      "title": "職位與聲譽",
+      "summary": "職位與聲譽",
       "originalTitle": "Factions & Reputation",
       "sourceName": "Method",
       "sourceUrl": "https://www.method.gg/windrose/windrose-factions-reputations-all-faction-items-best-faction-order",
@@ -809,8 +1179,8 @@
     },
     {
       "id": "method:d6394eafca7666",
-      "title": "深沙漠同伴現場直播",
-      "summary": "深沙漠同伴現場直播",
+      "title": "Deep Desert Companion 直播",
+      "summary": "Deep Desert Companion 直播",
       "originalTitle": "Deep Desert Companion live",
       "sourceName": "Method",
       "sourceUrl": "https://www.method.gg/dune-awakening/deep-desert-companion",
@@ -826,8 +1196,8 @@
     },
     {
       "id": "method:4ee5b79e03464d",
-      "title": "陸路伴侶",
-      "summary": "陸路伴侶",
+      "title": "Overland 同行",
+      "summary": "Overland 同行",
       "originalTitle": "Overland Companion",
       "sourceName": "Method",
       "sourceUrl": "https://www.method.gg/dune-awakening/overland-companion",
@@ -843,8 +1213,8 @@
     },
     {
       "id": "method:264683f5967dbc",
-      "title": "陸地夥伴組織",
-      "summary": "陸地夥伴組織",
+      "title": "田野同行",
+      "summary": "田野同行",
       "originalTitle": "Landsraad Companion",
       "sourceName": "Method",
       "sourceUrl": "https://www.method.gg/dune-awakening/landsraad/missions",
@@ -860,8 +1230,8 @@
     },
     {
       "id": "method:41804c545333d7",
-      "title": "唯一專案資料庫",
-      "summary": "唯一專案資料庫",
+      "title": "獨特的專案資料庫",
+      "summary": "獨特的專案資料庫",
       "originalTitle": "Unique Item Database",
       "sourceName": "Method",
       "sourceUrl": "https://www.method.gg/dune-awakening/database",
@@ -877,8 +1247,8 @@
     },
     {
       "id": "method:30c2ca56a68d4d",
-      "title": "增強資料庫",
-      "summary": "增強資料庫",
+      "title": "增加資料庫",
+      "summary": "增加資料庫",
       "originalTitle": "Augmentation Database",
       "sourceName": "Method",
       "sourceUrl": "https://www.method.gg/dune-awakening/augmentations-database",
@@ -911,8 +1281,8 @@
     },
     {
       "id": "method:9c22f378aa61f2",
-      "title": "專用計算器",
-      "summary": "專用計算器",
+      "title": "專業計算機",
+      "summary": "專業計算機",
       "originalTitle": "Specialization Calculator",
       "sourceName": "Method",
       "sourceUrl": "https://www.method.gg/dune-awakening/specialization-calculator",
@@ -928,8 +1298,8 @@
     },
     {
       "id": "method:6a0e783fb5570c",
-      "title": "增強計算器",
-      "summary": "增強計算器",
+      "title": "增加計算機",
+      "summary": "增加計算機",
       "originalTitle": "Augmentation Calculator",
       "sourceName": "Method",
       "sourceUrl": "https://www.method.gg/dune-awakening/augmentation-calculator",
@@ -946,7 +1316,7 @@
     {
       "id": "murlok:home",
       "title": "Murlok",
-      "summary": "PvP和PvE為WoW QQ第一季建造. 發現Solo Shuffle,2v2,3v3,Blitz,RBG,和QQ中頂級玩家使用的字元構建.",
+      "summary": "PvP 和 PvE 構建為 WoW 至暗之夜第 1 季發現角色構建使用的頂級玩家在 Solo Shuffle, 2v2, 3v3, Blitz, RBG, 傳奇鑰石。",
       "originalTitle": "Murlok",
       "sourceName": "Murlok",
       "sourceUrl": "https://murlok.io/",
@@ -963,8 +1333,8 @@
     },
     {
       "id": "murlok:3422deb4600654",
-      "title": "穆爾洛克訴3.44.18",
-      "summary": "穆爾洛克訴3.44.18",
+      "title": "馬爾洛克 v3.44.18",
+      "summary": "馬爾洛克 v3.44.18",
       "originalTitle": "Murlok v3.44.18",
       "sourceName": "Murlok",
       "sourceUrl": "https://murlok.io/",
@@ -1017,8 +1387,8 @@
     },
     {
       "id": "murlok:618f4b91b56c48",
-      "title": "在 Battle.net 登入",
-      "summary": "在 Battle.net 登入",
+      "title": "加入 Battle.net",
+      "summary": "加入 Battle.net",
       "originalTitle": "Log In With Battle.net",
       "sourceName": "Murlok",
       "sourceUrl": "https://murlok.io/account/login/battlenet",
@@ -1035,8 +1405,8 @@
     },
     {
       "id": "murlok:0f401ac4497e28",
-      "title": "報復",
-      "summary": "報復",
+      "title": "復仇",
+      "summary": "復仇",
       "originalTitle": "Vengeance",
       "sourceName": "Murlok",
       "sourceUrl": "https://murlok.io/demon-hunter/vengeance/3v3",
@@ -1050,6 +1420,24 @@
       ],
       "updatedAt": "2026-07-29T16:42:27.765Z",
       "fingerprint": "70c678674a96c2f9048159ae39b3cf29651ad4ce655da67c6c53132084b5cb6f"
+    },
+    {
+      "id": "murlok:9cb054e84b0753",
+      "title": "藉口",
+      "summary": "藉口",
+      "originalTitle": "Devourer",
+      "sourceName": "Murlok",
+      "sourceUrl": "https://murlok.io/demon-hunter/devourer/3v3",
+      "group": "數據與角色最佳化",
+      "categoryHints": [
+        "PvP",
+        "傳奇鑰石",
+        "高分玩家",
+        "天賦",
+        "裝備"
+      ],
+      "updatedAt": "2026-07-29T16:42:27.765Z",
+      "fingerprint": "f98882f28c861534e63556d393b050fe50d375dcd21a8e5639da29845128e0e0"
     },
     {
       "id": "murlok:e2e0f872bc45fd",
@@ -1106,9 +1494,27 @@
       "fingerprint": "2bc589216b91aeccd9ab1afb45927251e217c224cd639b6778ca9757eb52bb0c"
     },
     {
+      "id": "murlok:0c84cbdd60861e",
+      "title": "布魯馬斯",
+      "summary": "布魯馬斯",
+      "originalTitle": "Brewmaster",
+      "sourceName": "Murlok",
+      "sourceUrl": "https://murlok.io/monk/brewmaster/3v3",
+      "group": "數據與角色最佳化",
+      "categoryHints": [
+        "PvP",
+        "傳奇鑰石",
+        "高分玩家",
+        "天賦",
+        "裝備"
+      ],
+      "updatedAt": "2026-07-29T16:42:27.765Z",
+      "fingerprint": "67007e899deaed006e72a8cb6fdfe816fb395cfc3b5384a4754008aab8ecc896"
+    },
+    {
       "id": "murlok:6c7320766c3742",
-      "title": "可愛",
-      "summary": "可愛",
+      "title": "主持人",
+      "summary": "主持人",
       "originalTitle": "Subtlety",
       "sourceName": "Murlok",
       "sourceUrl": "https://murlok.io/rogue/subtlety/3v3",
@@ -1144,7 +1550,7 @@
     {
       "id": "mythic-trap:home",
       "title": "Mythic Trap",
-      "summary": "{\\fn黑體\\fs22\\bord1\\shad0\\3aHBE\\4aH00\\fscx67\\fscy66\\2cHFFFFFF\\3cH808080}老闆的策略細節 {\\fn黑體\\fs22\\bord1\\shad0\\3aHBE\\4aH00\\fscx67\\fscy66\\2cHFFFFFF\\3cH808080}很容易理解指南 {\\fn黑體\\fs22\\bord1\\shad0\\3aHBE\\4aH00\\fscx67\\fscy66\\2cHFFFFFF\\3cH808080}",
+      "summary": "團隊副本老闆的策略,細節和易於理解的指南《魔獸世界》 團隊副本。",
       "originalTitle": "Mythic Trap",
       "sourceName": "Mythic Trap",
       "sourceUrl": "https://www.mythictrap.com/en",
@@ -1177,8 +1583,8 @@
     },
     {
       "id": "mythic-trap:a8fbe6d9153844",
-      "title": "阿維爾齊安",
-      "summary": "阿維爾齊安",
+      "title": "皇帝Averzian",
+      "summary": "皇帝Averzian",
       "originalTitle": "Imperator Averzian",
       "sourceName": "Mythic Trap",
       "sourceUrl": "https://www.mythictrap.com/en/vs-dr-mqd/imperator-averzian",
@@ -1194,8 +1600,8 @@
     },
     {
       "id": "mythic-trap:1bbd6e5f8575a9",
-      "title": "沃拉修斯語Name",
-      "summary": "沃拉修斯語Name",
+      "title": "威拉西斯",
+      "summary": "威拉西斯",
       "originalTitle": "Vorasius",
       "sourceName": "Mythic Trap",
       "sourceUrl": "https://www.mythictrap.com/en/vs-dr-mqd/vorasius",
@@ -1211,8 +1617,8 @@
     },
     {
       "id": "mythic-trap:70dc413e84419c",
-      "title": "瓦埃爾戈爾和埃佐拉克",
-      "summary": "瓦埃爾戈爾和埃佐拉克",
+      "title": "瓦爾戈爾和埃佐拉克",
+      "summary": "瓦爾戈爾和埃佐拉克",
       "originalTitle": "Vaelgor & Ezzorak",
       "sourceName": "Mythic Trap",
       "sourceUrl": "https://www.mythictrap.com/en/vs-dr-mqd/vaelgor-and-ezzorak",
@@ -1228,8 +1634,8 @@
     },
     {
       "id": "mythic-trap:c8315cf21862ab",
-      "title": "沙爾哈達國王",
-      "summary": "沙爾哈達國王",
+      "title": "落王薩爾哈達爾",
+      "summary": "落王薩爾哈達爾",
       "originalTitle": "Fallen-King Salhadaar",
       "sourceName": "Mythic Trap",
       "sourceUrl": "https://www.mythictrap.com/en/vs-dr-mqd/fallen-king-salhadaar",
@@ -1245,8 +1651,8 @@
     },
     {
       "id": "mythic-trap:ec0f5fa0656bfb",
-      "title": "輕盲先鋒",
-      "summary": "輕盲先鋒",
+      "title": "光盲Vanguard",
+      "summary": "光盲Vanguard",
       "originalTitle": "Lightblinded Vanguard",
       "sourceName": "Mythic Trap",
       "sourceUrl": "https://www.mythictrap.com/en/vs-dr-mqd/lightblinded-vanguard",
@@ -1262,8 +1668,8 @@
     },
     {
       "id": "mythic-trap:5d4c209d0b70eb",
-      "title": "宇宙之冠號",
-      "summary": "宇宙之冠號",
+      "title": "宇宙的冠冕",
+      "summary": "宇宙的冠冕",
       "originalTitle": "Crown of the Cosmos",
       "sourceName": "Mythic Trap",
       "sourceUrl": "https://www.mythictrap.com/en/vs-dr-mqd/crown-of-the-cosmos",
@@ -1279,8 +1685,8 @@
     },
     {
       "id": "mythic-trap:8ad40cc40d7cad",
-      "title": "無夢之神奇瑪厄魯斯",
-      "summary": "無夢之神奇瑪厄魯斯",
+      "title": "Chimaerus the Undreamt上帝",
+      "summary": "Chimaerus the Undreamt上帝",
       "originalTitle": "Chimaerus the Undreamt God",
       "sourceName": "Mythic Trap",
       "sourceUrl": "https://www.mythictrap.com/en/vs-dr-mqd/chimaerus-the-undreamt-god",
@@ -1296,8 +1702,8 @@
     },
     {
       "id": "mythic-trap:c0133015cc31b5",
-      "title": "Belo&#x27;ren, Al&#x27 的孩子; ar",
-      "summary": "Belo&#x27;ren, Al&#x27 的孩子; ar",
+      "title": "Belo&#x27;ren, Al&#x27;ar的孩子",
+      "summary": "Belo&#x27;ren, Al&#x27;ar的孩子",
       "originalTitle": "Belo&#x27;ren, Child of Al&#x27;ar",
       "sourceName": "Mythic Trap",
       "sourceUrl": "https://www.mythictrap.com/en/vs-dr-mqd/beloren-child-of-alar",
@@ -1312,9 +1718,26 @@
       "fingerprint": "4206c8248bef63874eb3abaafae857e1d6ec382f88bd64e7e978301b44711928"
     },
     {
+      "id": "mythic-trap:1a927d7fe682cc",
+      "title": "黑暗之夜落下",
+      "summary": "黑暗之夜落下",
+      "originalTitle": "Midnight Falls",
+      "sourceName": "Mythic Trap",
+      "sourceUrl": "https://www.mythictrap.com/en/vs-dr-mqd/midnight-falls",
+      "group": "團本與傳奇鑰石",
+      "categoryHints": [
+        "團本首領",
+        "角色職責",
+        "技能圖解",
+        "WeakAuras"
+      ],
+      "updatedAt": "2026-07-29T16:42:27.765Z",
+      "fingerprint": "5f7416336b460366f19714954fafd6298af2e8d86cd090144ad6f5aee209a533"
+    },
+    {
       "id": "mythic-trap:0940a1630280c2",
-      "title": "伊默塞烏斯",
-      "summary": "伊默塞烏斯",
+      "title": "沉默",
+      "summary": "沉默",
       "originalTitle": "Immerseus",
       "sourceName": "Mythic Trap",
       "sourceUrl": "https://www.mythictrap.com/en/siege-of-orgrimmar/immerseus",
@@ -1330,8 +1753,8 @@
     },
     {
       "id": "mythic-trap:44b0d515e4aa9c",
-      "title": "墮落的保護者",
-      "summary": "墮落的保護者",
+      "title": "失落的守護者",
+      "summary": "失落的守護者",
       "originalTitle": "Fallen Protectors",
       "sourceName": "Mythic Trap",
       "sourceUrl": "https://www.mythictrap.com/en/siege-of-orgrimmar/fallen-protectors",
@@ -1347,8 +1770,8 @@
     },
     {
       "id": "mythic-trap:2718358dece7d7",
-      "title": "諾魯森",
-      "summary": "諾魯森",
+      "title": "挪威",
+      "summary": "挪威",
       "originalTitle": "Norushen",
       "sourceName": "Mythic Trap",
       "sourceUrl": "https://www.mythictrap.com/en/siege-of-orgrimmar/norushen",
@@ -1364,8 +1787,8 @@
     },
     {
       "id": "mythic-trap:9c1e445f58243e",
-      "title": "榮耀之沙",
-      "summary": "榮耀之沙",
+      "title": "Sha 的驕傲",
+      "summary": "Sha 的驕傲",
       "originalTitle": "Sha of Pride",
       "sourceName": "Mythic Trap",
       "sourceUrl": "https://www.mythictrap.com/en/siege-of-orgrimmar/sha-of-pride",
@@ -1381,8 +1804,8 @@
     },
     {
       "id": "mythic-trap:1b73f52dc639ac",
-      "title": "加拉克拉斯語Name",
-      "summary": "加拉克拉斯語Name",
+      "title": "加拉克拉",
+      "summary": "加拉克拉",
       "originalTitle": "Galakras",
       "sourceName": "Mythic Trap",
       "sourceUrl": "https://www.mythictrap.com/en/siege-of-orgrimmar/galakras",
@@ -1397,26 +1820,9 @@
       "fingerprint": "a9b0c4d85dfa529a65c80d6d60e08ebce915a68e1d789700e04cc14e3a0e1011"
     },
     {
-      "id": "mythic-trap:ec71020613379f",
-      "title": "鐵朱格納特",
-      "summary": "鐵朱格納特",
-      "originalTitle": "Iron Juggernaut",
-      "sourceName": "Mythic Trap",
-      "sourceUrl": "https://www.mythictrap.com/en/siege-of-orgrimmar/iron-juggernaut",
-      "group": "團本與傳奇鑰石",
-      "categoryHints": [
-        "團本首領",
-        "角色職責",
-        "技能圖解",
-        "WeakAuras"
-      ],
-      "updatedAt": "2026-07-29T16:42:27.765Z",
-      "fingerprint": "65e2116a43d16236559655d259cb2133ecb721bb23ec36eedbb0c8c3ef723afa"
-    },
-    {
       "id": "mythic-trap:1aa06a85518fd4",
-      "title": "Kor&#x27; kron 暗薩滿祭司",
-      "summary": "Kor&#x27; kron 暗薩滿祭司",
+      "title": "第27章黑暗的祭司",
+      "summary": "第27章黑暗的祭司",
       "originalTitle": "Kor&#x27;kron Dark Shaman",
       "sourceName": "Mythic Trap",
       "sourceUrl": "https://www.mythictrap.com/en/siege-of-orgrimmar/korkron-dark-shaman",
@@ -1432,8 +1838,8 @@
     },
     {
       "id": "mythic-trap:889d02a23f54fd",
-      "title": "納茲格里姆將軍",
-      "summary": "納茲格里姆將軍",
+      "title": "納斯格里姆將軍",
+      "summary": "納斯格里姆將軍",
       "originalTitle": "General Nazgrim",
       "sourceName": "Mythic Trap",
       "sourceUrl": "https://www.mythictrap.com/en/siege-of-orgrimmar/general-nazgrim",
@@ -1449,8 +1855,8 @@
     },
     {
       "id": "mythic-trap:7b1864e2983a0e",
-      "title": "馬爾科羅克",
-      "summary": "馬爾科羅克",
+      "title": "馬爾科",
+      "summary": "馬爾科",
       "originalTitle": "Malkorok",
       "sourceName": "Mythic Trap",
       "sourceUrl": "https://www.mythictrap.com/en/siege-of-orgrimmar/malkorok",
@@ -1466,8 +1872,8 @@
     },
     {
       "id": "mythic-trap:2efe112e4cff40",
-      "title": "潘達里亞的破壞",
-      "summary": "潘達里亞的破壞",
+      "title": "潘達裡亞的碎片",
+      "summary": "潘達裡亞的碎片",
       "originalTitle": "Spoils of Pandaria",
       "sourceName": "Mythic Trap",
       "sourceUrl": "https://www.mythictrap.com/en/siege-of-orgrimmar/spoils-of-pandaria",
@@ -1482,12 +1888,12 @@
       "fingerprint": "97abfad0743b0c0b9c5c0ea6d6d9cbe8e86e5ab3fad64c83481e461310469611"
     },
     {
-      "id": "mythic-trap:fc16d771459179",
-      "title": "刺殺嗜血者",
-      "summary": "刺殺嗜血者",
-      "originalTitle": "Thok the Bloodthirsty",
+      "id": "mythic-trap:a1ab06ad052853",
+      "title": "黑色黑色黑色黑色黑色",
+      "summary": "黑色黑色黑色黑色黑色",
+      "originalTitle": "Siegecrafter Blackfuse",
       "sourceName": "Mythic Trap",
-      "sourceUrl": "https://www.mythictrap.com/en/siege-of-orgrimmar/thok-the-bloodthirsty",
+      "sourceUrl": "https://www.mythictrap.com/en/siege-of-orgrimmar/siegecrafter-blackfuse",
       "group": "團本與傳奇鑰石",
       "categoryHints": [
         "團本首領",
@@ -1496,12 +1902,12 @@
         "WeakAuras"
       ],
       "updatedAt": "2026-07-29T16:42:27.765Z",
-      "fingerprint": "9cd4e2be5782520e7568c8b8a72ac847200cd09775f94db018e091d104107c64"
+      "fingerprint": "bac9589b9aeba85468fcac03960c6bf8150bbf9b50c753f0bb3f3abf1d537cf2"
     },
     {
       "id": "mythic-trap:77549524141ef5",
-      "title": "Klaxxi 引數",
-      "summary": "Klaxxi 引數",
+      "title": "克拉克西的悖論",
+      "summary": "克拉克西的悖論",
       "originalTitle": "Paragons of the Klaxxi",
       "sourceName": "Mythic Trap",
       "sourceUrl": "https://www.mythictrap.com/en/siege-of-orgrimmar/paragons-of-the-klaxxi",
@@ -1517,8 +1923,8 @@
     },
     {
       "id": "mythic-trap:fb4bf709041557",
-      "title": "加羅什地獄尖叫",
-      "summary": "加羅什地獄尖叫",
+      "title": "加羅斯Hellscream",
+      "summary": "加羅斯Hellscream",
       "originalTitle": "Garrosh Hellscream",
       "sourceName": "Mythic Trap",
       "sourceUrl": "https://www.mythictrap.com/en/siege-of-orgrimmar/garrosh-hellscream",
@@ -1534,8 +1940,8 @@
     },
     {
       "id": "mythic-trap:ea7c1177a803b8",
-      "title": "Jin X27; 斷路器 Rokh",
-      "summary": "Jin X27; 斷路器 Rokh",
+      "title": "Jin&#x27;rokh the 破壞者",
+      "summary": "Jin&#x27;rokh the 破壞者",
       "originalTitle": "Jin&#x27;rokh the Breaker",
       "sourceName": "Mythic Trap",
       "sourceUrl": "https://www.mythictrap.com/en/throne-of-thunder/jinrokh-the-breaker",
@@ -1551,8 +1957,8 @@
     },
     {
       "id": "mythic-trap:c75e0022a9d456",
-      "title": "霍瑞頓",
-      "summary": "霍瑞頓",
+      "title": "可怕的",
+      "summary": "可怕的",
       "originalTitle": "Horridon",
       "sourceName": "Mythic Trap",
       "sourceUrl": "https://www.mythictrap.com/en/throne-of-thunder/horridon",
@@ -1568,8 +1974,8 @@
     },
     {
       "id": "mythic-trap:690c022c73eef3",
-      "title": "長老理事會",
-      "summary": "長老理事會",
+      "title": "老年人會議",
+      "summary": "老年人會議",
       "originalTitle": "Council of Elders",
       "sourceName": "Mythic Trap",
       "sourceUrl": "https://www.mythictrap.com/en/throne-of-thunder/council-of-elders",
@@ -1585,8 +1991,8 @@
     },
     {
       "id": "mythic-trap:893e5b748f2681",
-      "title": "被遺忘的杜魯穆",
-      "summary": "被遺忘的杜魯穆",
+      "title": "此時此刻被遺忘",
+      "summary": "此時此刻被遺忘",
       "originalTitle": "Durumu the Forgotten",
       "sourceName": "Mythic Trap",
       "sourceUrl": "https://www.mythictrap.com/en/throne-of-thunder/durumu-the-forgotten",
@@ -1601,26 +2007,9 @@
       "fingerprint": "c19572a8c8eb3eef27f95710fbac55e548677cdee6154d3fceaf77ad0bcfcdf2"
     },
     {
-      "id": "mythic-trap:5ce777f0394d3b",
-      "title": "普里莫爾迪烏斯",
-      "summary": "普里莫爾迪烏斯",
-      "originalTitle": "Primordius",
-      "sourceName": "Mythic Trap",
-      "sourceUrl": "https://www.mythictrap.com/en/throne-of-thunder/primordius",
-      "group": "團本與傳奇鑰石",
-      "categoryHints": [
-        "團本首領",
-        "角色職責",
-        "技能圖解",
-        "WeakAuras"
-      ],
-      "updatedAt": "2026-07-29T16:42:27.765Z",
-      "fingerprint": "27fe0318d6293a335511b67d4ea8f7ee9797df962dcecd18d68f1584b549216f"
-    },
-    {
       "id": "mythic-trap:ee8b71aab5018e",
-      "title": "黑暗動因",
-      "summary": "黑暗動因",
+      "title": "黑暗動畫",
+      "summary": "黑暗動畫",
       "originalTitle": "Dark Animus",
       "sourceName": "Mythic Trap",
       "sourceUrl": "https://www.mythictrap.com/en/throne-of-thunder/dark-animus",
@@ -1637,7 +2026,7 @@
     {
       "id": "questionably-epic:home",
       "title": "Questionably Epic",
-      "summary": "切除邊緣理論",
+      "summary": "Cutting Edge 《魔獸世界》 理論",
       "originalTitle": "Questionably Epic",
       "sourceName": "Questionably Epic",
       "sourceUrl": "https://questionablyepic.com/",
@@ -1653,8 +2042,8 @@
     },
     {
       "id": "questionably-epic:551306e2bc5982",
-      "title": "無疑是Epic",
-      "summary": "無疑是Epic",
+      "title": "可疑的Epic",
+      "summary": "可疑的Epic",
       "originalTitle": "Questionably Epic",
       "sourceName": "Questionably Epic",
       "sourceUrl": "https://questionablyepic.com/",
@@ -1670,8 +2059,8 @@
     },
     {
       "id": "questionably-epic:a39072f8f11e47",
-      "title": "QE 直播應用程式",
-      "summary": "QE 直播應用程式",
+      "title": "QE Live 應用",
+      "summary": "QE Live 應用",
       "originalTitle": "QE Live App",
       "sourceName": "Questionably Epic",
       "sourceUrl": "https://questionablyepic.com/live",
@@ -1704,8 +2093,8 @@
     },
     {
       "id": "questionably-epic:2acaadcbdd46d1",
-      "title": "* 裝飾",
-      "summary": "* 裝飾",
+      "title": "黑暗的夜晚",
+      "summary": "黑暗的夜晚",
       "originalTitle": "Midnight Embellishments",
       "sourceName": "Questionably Epic",
       "sourceUrl": "https://questionablyepic.com/blog/midnight-embellishments",
@@ -1721,8 +2110,8 @@
     },
     {
       "id": "questionably-epic:73466f98b1090d",
-      "title": "季節 3個Trinkets",
-      "summary": "季節 3個Trinkets",
+      "title": "第三季團隊副本 Trinkets",
+      "summary": "第三季團隊副本 Trinkets",
       "originalTitle": "Season Three Raid Trinkets",
       "sourceName": "Questionably Epic",
       "sourceUrl": "https://questionablyepic.com/blog/season-three-raid-trinkets",
@@ -1737,9 +2126,43 @@
       "fingerprint": "e198c1cc98c7616652843b36b368366ae9008060affe8a17638a03b32dd61a5f"
     },
     {
+      "id": "questionably-epic:558aa15663c811",
+      "title": "德魯伊指南",
+      "summary": "德魯伊指南",
+      "originalTitle": "Druid Guide",
+      "sourceName": "Questionably Epic",
+      "sourceUrl": "https://questionablyepic.com/resto-druid/12.0.5",
+      "group": "數據與角色最佳化",
+      "categoryHints": [
+        "治療職",
+        "配裝",
+        "模擬",
+        "理論研究"
+      ],
+      "updatedAt": "2026-07-29T16:42:27.765Z",
+      "fingerprint": "f7301c3976acb0f145291223647ac622513d66e305b05a587931953d20f7fa69"
+    },
+    {
+      "id": "questionably-epic:2c31dbcedb59b7",
+      "title": "武僧指南",
+      "summary": "武僧指南",
+      "originalTitle": "Monk Guide",
+      "sourceName": "Questionably Epic",
+      "sourceUrl": "https://questionablyepic.com/mistweaver-monk/11.1-FAQ",
+      "group": "數據與角色最佳化",
+      "categoryHints": [
+        "治療職",
+        "配裝",
+        "模擬",
+        "理論研究"
+      ],
+      "updatedAt": "2026-07-29T16:42:27.765Z",
+      "fingerprint": "6e2335efe85eff9aa87e30922b828bc790003c6c4f180b01807625defb40291c"
+    },
+    {
       "id": "questionably-epic:e9fcf04fd4ced1",
-      "title": "第1季團隊副本",
-      "summary": "第1季團隊副本",
+      "title": "第一季團隊副本",
+      "summary": "第一季團隊副本",
       "originalTitle": "Season 1 Raids",
       "sourceName": "Questionably Epic",
       "sourceUrl": "https://questionablyepic.com/season-one-raids/",
@@ -1755,8 +2178,8 @@
     },
     {
       "id": "questionably-epic:aee37fcf22a60f",
-      "title": "阿維爾齊安",
-      "summary": "阿維爾齊安",
+      "title": "皇帝Averzian",
+      "summary": "皇帝Averzian",
       "originalTitle": "Imperator Averzian",
       "sourceName": "Questionably Epic",
       "sourceUrl": "https://questionablyepic.com/season-one-raids/imperator-averzian",
@@ -1772,8 +2195,8 @@
     },
     {
       "id": "questionably-epic:466752a50a1fee",
-      "title": "沃拉修斯語Name",
-      "summary": "沃拉修斯語Name",
+      "title": "威拉西斯",
+      "summary": "威拉西斯",
       "originalTitle": "Vorasius",
       "sourceName": "Questionably Epic",
       "sourceUrl": "https://questionablyepic.com/season-one-raids/vorasius",
@@ -1789,8 +2212,8 @@
     },
     {
       "id": "questionably-epic:e4c44d3b707966",
-      "title": "沙爾哈達國王",
-      "summary": "沙爾哈達國王",
+      "title": "落王薩爾哈達爾",
+      "summary": "落王薩爾哈達爾",
       "originalTitle": "Fallen-King Salhadaar",
       "sourceName": "Questionably Epic",
       "sourceUrl": "https://questionablyepic.com/season-one-raids/fallen-king-salhadaar",
@@ -1806,8 +2229,8 @@
     },
     {
       "id": "questionably-epic:4ca7fbb18b5862",
-      "title": "瓦埃爾戈爾和埃佐拉克",
-      "summary": "瓦埃爾戈爾和埃佐拉克",
+      "title": "瓦爾戈爾和埃佐拉克",
+      "summary": "瓦爾戈爾和埃佐拉克",
       "originalTitle": "Vaelgor and Ezzorak",
       "sourceName": "Questionably Epic",
       "sourceUrl": "https://questionablyepic.com/season-one-raids/vaelgor-and-ezzorak",
@@ -1823,8 +2246,8 @@
     },
     {
       "id": "questionably-epic:0b5a1633878fcd",
-      "title": "輕盲先鋒",
-      "summary": "輕盲先鋒",
+      "title": "光盲Vanguard",
+      "summary": "光盲Vanguard",
       "originalTitle": "Lightblinded Vanguard",
       "sourceName": "Questionably Epic",
       "sourceUrl": "https://questionablyepic.com/season-one-raids/lightblinded-vanguard",
@@ -1840,8 +2263,8 @@
     },
     {
       "id": "questionably-epic:d975f3c5ede74f",
-      "title": "宇宙之冠號",
-      "summary": "宇宙之冠號",
+      "title": "宇宙的冠冕",
+      "summary": "宇宙的冠冕",
       "originalTitle": "Crown of the Cosmos",
       "sourceName": "Questionably Epic",
       "sourceUrl": "https://questionablyepic.com/season-one-raids/crown-of-the-cosmos",
@@ -1857,8 +2280,8 @@
     },
     {
       "id": "questionably-epic:a62ebbc276c0b8",
-      "title": "奇馬埃魯斯",
-      "summary": "奇馬埃魯斯",
+      "title": "化學",
+      "summary": "化學",
       "originalTitle": "Chimaerus",
       "sourceName": "Questionably Epic",
       "sourceUrl": "https://questionablyepic.com/season-one-raids/chimaerus",
@@ -1874,8 +2297,8 @@
     },
     {
       "id": "questionably-epic:d8b9ecba1587f5",
-      "title": "貝洛&#x27; ren",
-      "summary": "貝洛&#x27; ren",
+      "title": "可愛的&#x27;ren",
+      "summary": "可愛的&#x27;ren",
       "originalTitle": "Belo&#x27;ren",
       "sourceName": "Questionably Epic",
       "sourceUrl": "https://questionablyepic.com/season-one-raids/beloren",
@@ -1890,9 +2313,26 @@
       "fingerprint": "bfae6afb1c8b16a7839700d99e1cdc942b41676df7b962b22cd2162fad0f1abf"
     },
     {
+      "id": "questionably-epic:3e554f344fa7a0",
+      "title": "黑暗之夜落下",
+      "summary": "黑暗之夜落下",
+      "originalTitle": "Midnight Falls",
+      "sourceName": "Questionably Epic",
+      "sourceUrl": "https://questionablyepic.com/season-one-raids/midnight-falls",
+      "group": "數據與角色最佳化",
+      "categoryHints": [
+        "治療職",
+        "配裝",
+        "模擬",
+        "理論研究"
+      ],
+      "updatedAt": "2026-07-29T16:42:27.765Z",
+      "fingerprint": "a12660db365841647c889f2895fb475330a4d6ad028dc4cf0eadb789c6e43d53"
+    },
+    {
       "id": "questionably-epic:c8c4804665f96a",
-      "title": "Resto QQ用QE綜合指南將遊戲升級為QQ和QQ. 更新為12.0!",
-      "summary": "Resto QQ用QE綜合指南將遊戲升級為QQ和QQ. 更新為12.0!",
+      "title": "Resto 德魯伊升級您的德魯伊遊戲與QE全面指南到團隊副本和傳奇鑰石. 更新至 12.0!",
+      "summary": "Resto 德魯伊升級您的德魯伊遊戲與QE全面指南到團隊副本和傳奇鑰石. 更新至 12.0!",
       "originalTitle": "Resto Druid Upgrade your Druid gameplay with the QE comprehensive guide to raid and Mythic+. Updated for 12.0!",
       "sourceName": "Questionably Epic",
       "sourceUrl": "https://questionablyepic.com/resto-druid/spells",
@@ -1909,7 +2349,7 @@
     {
       "id": "raider-io:home",
       "title": "Raider.IO",
-      "summary": "一個頂級的QQ(WOW)QQ和QQING網站,主要介紹人物與盾簡介,QQ分數,QQ進步,Guild招聘,賽車世界第一,等等.",
+      "summary": "頂部《魔獸世界》(WoW) 傳奇鑰石和團隊副本網站,包含角色和吉爾德檔案、傳奇鑰石分數、團隊副本進步、吉爾德招聘、世界第一賽車等。",
       "originalTitle": "World of Warcraft Rankings for Mythic+ and Raid Progress",
       "sourceName": "Raider.IO",
       "sourceUrl": "https://raider.io/cn/",
@@ -1927,7 +2367,7 @@
     {
       "id": "simple-armory:home",
       "title": "Simple Armory",
-      "summary": "QQ 的簡化軍械庫",
+      "summary": "《魔鬼世界》的簡化裝備網站",
       "originalTitle": "Simple Armory",
       "sourceName": "Simple Armory",
       "sourceUrl": "https://simplearmory.com/",
@@ -1943,7 +2383,7 @@
     {
       "id": "skill-capped:home",
       "title": "Skill Capped",
-      "summary": "Skill Capped提供的專家-PvP指南、級別清單和戰略。",
+      "summary": "專家《魔鬼世界》PvP指南、級別列表和來自Skill Capped的策略。",
       "originalTitle": "Skill Capped - WoW PvP Guides & Tier Lists",
       "sourceName": "Skill Capped",
       "sourceUrl": "https://www.skill-capped.com/wowarticles/",
@@ -1960,8 +2400,8 @@
     },
     {
       "id": "skill-capped:9d8e5475ba6e14",
-      "title": "TBC 經典開關",
-      "summary": "TBC 經典開關",
+      "title": "TBC Classic 交換機",
+      "summary": "TBC Classic 交換機",
       "originalTitle": "TBC Classic Switch",
       "sourceName": "Skill Capped",
       "sourceUrl": "https://www.skill-capped.com/wowarticles/tbc/",
@@ -1978,8 +2418,8 @@
     },
     {
       "id": "skill-capped:7422896ce42ba6",
-      "title": "MoP 經典開關",
-      "summary": "MoP 經典開關",
+      "title": "MoP Classic 交換機",
+      "summary": "MoP Classic 交換機",
       "originalTitle": "MoP Classic Switch",
       "sourceName": "Skill Capped",
       "sourceUrl": "https://www.skill-capped.com/wowarticles/mop/",
@@ -1996,8 +2436,8 @@
     },
     {
       "id": "skill-capped:b8dfb216abc19c",
-      "title": "使用者介面和Addons",
-      "summary": "使用者介面和Addons",
+      "title": "UI 和 Addons",
+      "summary": "UI 和 Addons",
       "originalTitle": "UI & Addons",
       "sourceName": "Skill Capped",
       "sourceUrl": "https://www.skill-capped.com/wowarticles/general/pvp-addons-ui-guide/",
@@ -2014,8 +2454,8 @@
     },
     {
       "id": "skill-capped:5b45f3de882a29",
-      "title": "為什麼技能被控制",
-      "summary": "為什麼技能被控制",
+      "title": "為什麼有技能",
+      "summary": "為什麼有技能",
       "originalTitle": "Why Skill Capped",
       "sourceName": "Skill Capped",
       "sourceUrl": "https://www.skill-capped.com/wowarticles/why-skill-capped/",
@@ -2029,6 +2469,24 @@
       ],
       "updatedAt": "2026-07-29T16:42:27.765Z",
       "fingerprint": "59a1053dd1dbaec45c6c5e8a0f7c3a3b6d0e13a03ec7cbf8030cc62472496cba"
+    },
+    {
+      "id": "skill-capped:d798ce1f3a08ed",
+      "title": "藉口",
+      "summary": "藉口",
+      "originalTitle": "Devourer",
+      "sourceName": "Skill Capped",
+      "sourceUrl": "https://www.skill-capped.com/wowarticles/guides/devourer-demon-hunter-pvp-guide/",
+      "group": "PvP",
+      "categoryHints": [
+        "競技場",
+        "戰場",
+        "職業攻略",
+        "Tier List",
+        "對局"
+      ],
+      "updatedAt": "2026-07-29T16:42:27.765Z",
+      "fingerprint": "8e6d697176de0f200d0abe8ef60878b2c0c7427c5d5a24284f841215834251b7"
     },
     {
       "id": "skill-capped:bf96cdd18d2822",
@@ -2068,8 +2526,8 @@
     },
     {
       "id": "skill-capped:adad8e09b9eaf6",
-      "title": "可愛",
-      "summary": "可愛",
+      "title": "主持人",
+      "summary": "主持人",
       "originalTitle": "Subtlety",
       "sourceName": "Skill Capped",
       "sourceUrl": "https://www.skill-capped.com/wowarticles/guides/subtlety-rogue-pvp-guide/",
@@ -2105,7 +2563,7 @@
     {
       "id": "warcraft-secrets:home",
       "title": "Warcraft Secrets",
-      "summary": "Warcraft Secrets是一個QQ的粉絲網站,記錄所有WoW Secrets,主要報道新聞和遊戲中收集的指南.",
+      "summary": "華克拉夫秘密(Warcraft Secrets)是一家“魔鬼世界”粉絲網站,記錄了所有WoW秘密,提供新聞和遊戲集合的指南。",
       "originalTitle": "Warcraft Secrets - WoW Secrets, News and Guides",
       "sourceName": "Warcraft Secrets",
       "sourceUrl": "https://warcraft-secrets.com/",
@@ -2122,8 +2580,8 @@
     },
     {
       "id": "warcraft-secrets:355aaa63a5ba3f",
-      "title": "隱藏成就",
-      "summary": "隱藏成就",
+      "title": "隱藏的成就",
+      "summary": "隱藏的成就",
       "originalTitle": "Hidden Achievements",
       "sourceName": "Warcraft Secrets",
       "sourceUrl": "https://warcraft-secrets.com/guides/hidden-achievements",
@@ -2140,8 +2598,8 @@
     },
     {
       "id": "warcraft-secrets:d7d81d0d3e63e7",
-      "title": "隱藏戰鬥寵物",
-      "summary": "隱藏戰鬥寵物",
+      "title": "隱藏的戰鬥動物",
+      "summary": "隱藏的戰鬥動物",
       "originalTitle": "Hidden Battle Pets",
       "sourceName": "Warcraft Secrets",
       "sourceUrl": "https://warcraft-secrets.com/guides/secret-battle-pets",
@@ -2158,8 +2616,8 @@
     },
     {
       "id": "warcraft-secrets:8b9512d8ba3b1c",
-      "title": "隱藏戰鬥寵物供應商",
-      "summary": "隱藏戰鬥寵物供應商",
+      "title": "隱藏的戰鬥五賣家",
+      "summary": "隱藏的戰鬥五賣家",
       "originalTitle": "Hidden Battle Pet Vendors",
       "sourceName": "Warcraft Secrets",
       "sourceUrl": "https://warcraft-secrets.com/guides/hidden-battle-pet-vendors",
@@ -2176,8 +2634,8 @@
     },
     {
       "id": "warcraft-secrets:e620ef3a2e9e2f",
-      "title": "隱藏玩具",
-      "summary": "隱藏玩具",
+      "title": "隱藏的玩具",
+      "summary": "隱藏的玩具",
       "originalTitle": "Hidden Toys",
       "sourceName": "Warcraft Secrets",
       "sourceUrl": "https://warcraft-secrets.com/guides/hidden-toys",
@@ -2194,8 +2652,8 @@
     },
     {
       "id": "warcraft-secrets:8100126fb5dbf1",
-      "title": "隱藏的 Transmog",
-      "summary": "隱藏的 Transmog",
+      "title": "隱藏的Transmog",
+      "summary": "隱藏的Transmog",
       "originalTitle": "Hidden Transmog",
       "sourceName": "Warcraft Secrets",
       "sourceUrl": "https://warcraft-secrets.com/guides/hidden-transmog",
@@ -2230,8 +2688,8 @@
     },
     {
       "id": "warcraft-secrets:2930587de95dda",
-      "title": "飛龍秘訣",
-      "summary": "飛龍秘訣",
+      "title": "龍飛的秘密",
+      "summary": "龍飛的秘密",
       "originalTitle": "Dragonflight Secrets",
       "sourceName": "Warcraft Secrets",
       "sourceUrl": "https://warcraft-secrets.com/guides/dragonflight-secrets",
@@ -2248,8 +2706,8 @@
     },
     {
       "id": "warcraft-secrets:ac1eeb29e659ab",
-      "title": "暗地秘訣",
-      "summary": "暗地秘訣",
+      "title": "Shadowlands的秘密",
+      "summary": "Shadowlands的秘密",
       "originalTitle": "Shadowlands Secrets",
       "sourceName": "Warcraft Secrets",
       "sourceUrl": "https://warcraft-secrets.com/guides/shadowlands-secrets",
@@ -2266,8 +2724,8 @@
     },
     {
       "id": "warcraft-secrets:7254508ce04866",
-      "title": "為零號秘密而戰",
-      "summary": "為零號秘密而戰",
+      "title": "阿塞羅特的秘密之戰",
+      "summary": "阿塞羅特的秘密之戰",
       "originalTitle": "Battle for Azeroth Secrets",
       "sourceName": "Warcraft Secrets",
       "sourceUrl": "https://warcraft-secrets.com/guides/battle-for-azeroth-secrets",
@@ -2284,8 +2742,8 @@
     },
     {
       "id": "warcraft-secrets:2cc98b5c1bef78",
-      "title": "軍團秘訣",
-      "summary": "軍團秘訣",
+      "title": "聯盟秘密",
+      "summary": "聯盟秘密",
       "originalTitle": "Legion Secrets",
       "sourceName": "Warcraft Secrets",
       "sourceUrl": "https://warcraft-secrets.com/guides/legion-secrets",
@@ -2302,8 +2760,8 @@
     },
     {
       "id": "warcraft-secrets:4057b19ba7eb83",
-      "title": "德雷諾的秘密軍閥",
-      "summary": "德雷諾的秘密軍閥",
+      "title": "《德雷諾秘密之王》",
+      "summary": "《德雷諾秘密之王》",
       "originalTitle": "Warlords of Draenor Secrets",
       "sourceName": "Warcraft Secrets",
       "sourceUrl": "https://warcraft-secrets.com/guides/warlords-of-draenor-secrets",
@@ -2320,8 +2778,8 @@
     },
     {
       "id": "warcraft-secrets:c638181f61dbac",
-      "title": "潘達里亞秘密學家",
-      "summary": "潘達里亞秘密學家",
+      "title": "潘達裡亞的秘密",
+      "summary": "潘達裡亞的秘密",
       "originalTitle": "Mists of Pandaria Secrets",
       "sourceName": "Warcraft Secrets",
       "sourceUrl": "https://warcraft-secrets.com/guides/mists-of-pandaria-secrets",
@@ -2338,8 +2796,8 @@
     },
     {
       "id": "warcraft-secrets:b8381d177fd457",
-      "title": "Azeroth 的秘密",
-      "summary": "Azeroth 的秘密",
+      "title": "阿塞羅那的秘密",
+      "summary": "阿塞羅那的秘密",
       "originalTitle": "Secrets of Azeroth",
       "sourceName": "Warcraft Secrets",
       "sourceUrl": "https://warcraft-secrets.com/guides/secrets-of-azeroth-world-event",
@@ -2356,8 +2814,8 @@
     },
     {
       "id": "warcraft-secrets:d4330633bcb100",
-      "title": "肖洛芒斯的記憶",
-      "summary": "肖洛芒斯的記憶",
+      "title": "肖洛曼斯的記憶",
+      "summary": "肖洛曼斯的記憶",
       "originalTitle": "Memory of Scholomance",
       "sourceName": "Warcraft Secrets",
       "sourceUrl": "https://warcraft-secrets.com/guides/memory-of-scholomance",
@@ -2392,8 +2850,8 @@
     },
     {
       "id": "warcraft-secrets:c7855a314e0a0d",
-      "title": "時間的搖擺",
-      "summary": "時間的搖擺",
+      "title": "等待時間",
+      "summary": "等待時間",
       "originalTitle": "Waist of Time",
       "sourceName": "Warcraft Secrets",
       "sourceUrl": "https://warcraft-secrets.com/guides/waist-of-time",
@@ -2410,8 +2868,8 @@
     },
     {
       "id": "warcraft-secrets:53361399e195f7",
-      "title": "路西德噩夢",
-      "summary": "路西德噩夢",
+      "title": "可愛的噩夢",
+      "summary": "可愛的噩夢",
       "originalTitle": "Lucid Nightmare",
       "sourceName": "Warcraft Secrets",
       "sourceUrl": "https://warcraft-secrets.com/guides/lucid-nightmare",
@@ -2428,8 +2886,8 @@
     },
     {
       "id": "warcraft-secrets:6ef4a7142888fe",
-      "title": "孫達特·哈奇林",
-      "summary": "孫達特·哈奇林",
+      "title": "飾 Sun Darter Hatchling",
+      "summary": "飾 Sun Darter Hatchling",
       "originalTitle": "Sun Darter Hatchling",
       "sourceName": "Warcraft Secrets",
       "sourceUrl": "https://warcraft-secrets.com/guides/sun-darter-hatchling",
@@ -2447,7 +2905,7 @@
     {
       "id": "warcraft-tavern:home",
       "title": "Warcraft Tavern",
-      "summary": "為 QQ 找到最新和詳細的指南。 哇酒館有上百條探索指南 QQ 人物賽節日還有更多!",
+      "summary": "查詢《魔獸世界》的最新和詳細指南. Wow Tavern 有數百個探索、專業、角色賽、假期及更多的指南!",
       "originalTitle": "World of Warcraft Guides - The War Within - Warcraft Tavern",
       "sourceName": "Warcraft Tavern",
       "sourceUrl": "https://www.warcrafttavern.com/wow/guides/",
@@ -2464,8 +2922,8 @@
     },
     {
       "id": "warcraft-tavern:9e5fdf0a144d5c",
-      "title": "登記冊",
-      "summary": "登記冊",
+      "title": "登記",
+      "summary": "登記",
       "originalTitle": "Register",
       "sourceName": "Warcraft Tavern",
       "sourceUrl": "https://www.warcrafttavern.com/sign-up/?redirect_to=https%3A%2F%2Fwww.warcrafttavern.com%2Fwow%2Fguides%2F",
@@ -2482,8 +2940,8 @@
     },
     {
       "id": "warcraft-tavern:c947eeefb1fcc1",
-      "title": "WoW 經典",
-      "summary": "WoW 經典",
+      "title": "WoW 古典",
+      "summary": "WoW 古典",
       "originalTitle": "WoW Classic",
       "sourceName": "Warcraft Tavern",
       "sourceUrl": "https://www.warcrafttavern.com/wow-classic/",
@@ -2554,8 +3012,8 @@
     },
     {
       "id": "warcraft-tavern:cf8f043b81d268",
-      "title": "WotLK 經典",
-      "summary": "WotLK 經典",
+      "title": "WOTLK 經典",
+      "summary": "WOTLK 經典",
       "originalTitle": "WotLK Classic",
       "sourceName": "Warcraft Tavern",
       "sourceUrl": "https://www.warcrafttavern.com/wotlk/",
@@ -2572,8 +3030,8 @@
     },
     {
       "id": "warcraft-tavern:cbbc26e6a87b2e",
-      "title": "經典災難",
-      "summary": "經典災難",
+      "title": "卡塔克利斯經典",
+      "summary": "卡塔克利斯經典",
       "originalTitle": "Cataclysm Classic",
       "sourceName": "Warcraft Tavern",
       "sourceUrl": "https://www.warcrafttavern.com/cataclysm/",
@@ -2590,8 +3048,8 @@
     },
     {
       "id": "warcraft-tavern:0ee964a3e21485",
-      "title": "發現季節",
-      "summary": "發現季節",
+      "title": "探索的季節",
+      "summary": "探索的季節",
       "originalTitle": "Season of Discovery",
       "sourceName": "Warcraft Tavern",
       "sourceUrl": "https://www.warcrafttavern.com/wow-classic-sod/",
@@ -2608,8 +3066,8 @@
     },
     {
       "id": "warcraft-tavern:eefb93d4069aa0",
-      "title": "迪亞布洛II",
-      "summary": "迪亞布洛II",
+      "title": "魔鬼2",
+      "summary": "魔鬼2",
       "originalTitle": "Diablo II",
       "sourceName": "Warcraft Tavern",
       "sourceUrl": "https://www.warcrafttavern.com/d2/",
@@ -2625,27 +3083,9 @@
       "fingerprint": "14e411046308ce90ddab508d84b5bea86411f109b8289bce6d1b210e5652638e"
     },
     {
-      "id": "warcraft-tavern:8d5885b8158491",
-      "title": "對話方塊三",
-      "summary": "對話方塊三",
-      "originalTitle": "Diablo III",
-      "sourceName": "Warcraft Tavern",
-      "sourceUrl": "https://www.warcrafttavern.com/d3/",
-      "group": "綜合攻略與資料庫",
-      "categoryHints": [
-        "職業",
-        "入門",
-        "升級",
-        "專業",
-        "舊版本"
-      ],
-      "updatedAt": "2026-07-29T16:42:27.765Z",
-      "fingerprint": "6440bdac458606f58704ddc64d4b2727b9988858afb5c2311792ad442e22433c"
-    },
-    {
       "id": "warcraft-tavern:93a6a10bd89c9b",
-      "title": "迪亞布洛四世",
-      "summary": "迪亞布洛四世",
+      "title": "魔鬼4",
+      "summary": "魔鬼4",
       "originalTitle": "Diablo IV",
       "sourceName": "Warcraft Tavern",
       "sourceUrl": "https://www.warcrafttavern.com/d4/",
@@ -2662,8 +3102,8 @@
     },
     {
       "id": "warcraft-tavern:7a1bddb715b78d",
-      "title": "藍色跟蹤器",
-      "summary": "藍色跟蹤器",
+      "title": "藍色跟蹤",
+      "summary": "藍色跟蹤",
       "originalTitle": "Blue Tracker",
       "sourceName": "Warcraft Tavern",
       "sourceUrl": "https://www.warcrafttavern.com/blue-tracker/",
@@ -2680,8 +3120,8 @@
     },
     {
       "id": "warcraft-tavern:930e3c0e094c56",
-      "title": "Discord 藍色郵政跟蹤器",
-      "summary": "Discord 藍色郵政跟蹤器",
+      "title": "藍色郵件跟蹤器",
+      "summary": "藍色郵件跟蹤器",
       "originalTitle": "Discord Blue Post Tracker",
       "sourceName": "Warcraft Tavern",
       "sourceUrl": "https://www.warcrafttavern.com/discord-blue-tracker/",
@@ -2698,8 +3138,8 @@
     },
     {
       "id": "warcraft-tavern:dea585f9a32c91",
-      "title": "WoW 名稱生成器",
-      "summary": "WoW 名稱生成器",
+      "title": "WoW名稱發電機",
+      "summary": "WoW名稱發電機",
       "originalTitle": "WoW Name Generator",
       "sourceName": "Warcraft Tavern",
       "sourceUrl": "https://www.warcrafttavern.com/wow/names/",
@@ -2734,8 +3174,8 @@
     },
     {
       "id": "warcraft-tavern:309529b9a383f3",
-      "title": "社群準則",
-      "summary": "社群準則",
+      "title": "社群指南",
+      "summary": "社群指南",
       "originalTitle": "Community Guidelines",
       "sourceName": "Warcraft Tavern",
       "sourceUrl": "https://www.warcrafttavern.com/community-guidelines/",
@@ -2752,8 +3192,8 @@
     },
     {
       "id": "warcraft-tavern:2f779b3a05567f",
-      "title": "編輯道德 QQ038; 準則",
-      "summary": "編輯道德 QQ038; 準則",
+      "title": "編輯道德 &#038; 指南",
+      "summary": "編輯道德 &#038; 指南",
       "originalTitle": "Editorial Ethics &#038; Guidelines",
       "sourceName": "Warcraft Tavern",
       "sourceUrl": "https://www.warcrafttavern.com/editorial-ethics-guidelines/",
@@ -2788,8 +3228,8 @@
     },
     {
       "id": "warcraft-tavern:17b32bcc498c4a",
-      "title": "內部的戰爭",
-      "summary": "內部的戰爭",
+      "title": "內心的戰爭",
+      "summary": "內心的戰爭",
       "originalTitle": "The War Within",
       "sourceName": "Warcraft Tavern",
       "sourceUrl": "https://www.warcrafttavern.com/wow/guides/type/tww/",
@@ -2806,8 +3246,8 @@
     },
     {
       "id": "warcraft-tavern:eb642a9a3623cf",
-      "title": "Azeroth的願景",
-      "summary": "Azeroth的願景",
+      "title": "阿塞羅那的願景",
+      "summary": "阿塞羅那的願景",
       "originalTitle": "Visions of Azeroth",
       "sourceName": "Warcraft Tavern",
       "sourceUrl": "https://www.warcrafttavern.com/wow/guides/visions-of-azeroth/",
@@ -2824,8 +3264,8 @@
     },
     {
       "id": "warcraft-tavern:bc9e9ca994fc05",
-      "title": "Skyriding QQ038; 穩定飛行",
-      "summary": "Skyriding QQ038; 穩定飛行",
+      "title": "Skyriding &#038; 平行航班",
+      "summary": "Skyriding &#038; 平行航班",
       "originalTitle": "Skyriding &#038; Steady Flight",
       "sourceName": "Warcraft Tavern",
       "sourceUrl": "https://www.warcrafttavern.com/wow/guides/skyriding-and-steady-flight/",
@@ -2842,8 +3282,8 @@
     },
     {
       "id": "warcraft-tavern:37dfbc04ca5ba2",
-      "title": "寬宏大量",
-      "summary": "寬宏大量",
+      "title": "可愛的探索",
+      "summary": "可愛的探索",
       "originalTitle": "Bountiful Delves",
       "sourceName": "Warcraft Tavern",
       "sourceUrl": "https://www.warcrafttavern.com/wow/guides/bountiful-delves/",
@@ -2860,8 +3300,8 @@
     },
     {
       "id": "warcraft-tavern:82d55622172b5e",
-      "title": "戰爭帶",
-      "summary": "戰爭帶",
+      "title": "瓦爾巴德",
+      "summary": "瓦爾巴德",
       "originalTitle": "Warbands",
       "sourceName": "Warcraft Tavern",
       "sourceUrl": "https://www.warcrafttavern.com/wow/guides/warbands-guide/",
@@ -2878,8 +3318,8 @@
     },
     {
       "id": "warcraft-tavern:8772db3bf7219b",
-      "title": "瓦爾班德銀行指南",
-      "summary": "瓦爾班德銀行指南",
+      "title": "Warband 銀行指南",
+      "summary": "Warband 銀行指南",
       "originalTitle": "Warband Bank Guide",
       "sourceName": "Warcraft Tavern",
       "sourceUrl": "https://www.warcrafttavern.com/wow/guides/warband-bank-guide/",
@@ -2897,7 +3337,7 @@
     {
       "id": "warcraft-wiki:home",
       "title": "Warcraft Wiki",
-      "summary": "Warcraft Wiki是一個官方認可的維基,致力於編目Blizzard娛樂QQ039;s Warcraft宇宙(專注於QQ),涵蓋整個Warcraft系列遊戲,戰略指南,小說,漫畫,參考書等來源.",
+      "summary": "華克拉夫維基是一個正式認可的維基,致力於列出布利扎德娛樂的華克拉夫宇宙(專注於《魔鬼世界》),涵蓋整個華克拉夫系列的遊戲,戰略指南,小說,漫畫,參考書籍和其他來源。",
       "originalTitle": "Warcraft Wiki, the World of Warcraft wiki encyclopedia",
       "sourceName": "Warcraft Wiki",
       "sourceUrl": "https://warcraft.wiki.gg/wiki/Warcraft_Wiki",
@@ -2915,7 +3355,7 @@
     {
       "id": "wow-arena-logs:home",
       "title": "WoW Arena Logs",
-      "summary": "WoW Arena Logs是幫助您分析自己的競技場比賽和向社群學習的最佳工具.",
+      "summary": "WoW Arena Logs 是最好的工具,可以幫助您分析自己的舞臺比賽,並從社群中學習。",
       "originalTitle": "WoW Arena Logs | World of Warcraft PvP Data Analytics",
       "sourceName": "WoW Arena Logs",
       "sourceUrl": "https://wowarenalogs.com/",
@@ -2932,7 +3372,7 @@
     {
       "id": "wow-professions:home",
       "title": "WoW-Professions",
-      "summary": "我的專業指導分級路徑、專業化、知識來源和食譜清單。",
+      "summary": "所有我的至暗之夜職業指南平衡路徑,專業化建築,知識來源,和食譜列表。",
       "originalTitle": "Midnight Profession Guides",
       "sourceName": "WoW-Professions",
       "sourceUrl": "https://www.wow-professions.com/midnight",
@@ -2967,8 +3407,8 @@
     },
     {
       "id": "wow-professions:b824b5d6157dc0",
-      "title": "經典時代",
-      "summary": "經典時代",
+      "title": "古典時代",
+      "summary": "古典時代",
       "originalTitle": "Classic Era",
       "sourceName": "WoW-Professions",
       "sourceUrl": "https://www.wow-professions.com/classic",
@@ -2985,8 +3425,8 @@
     },
     {
       "id": "wow-professions:c50155da4d2029",
-      "title": "職業等級",
-      "summary": "職業等級",
+      "title": "職業升高",
+      "summary": "職業升高",
       "originalTitle": "Profession Leveling",
       "sourceName": "WoW-Professions",
       "sourceUrl": "https://www.wow-professions.com/profession-leveling-guides",
@@ -3003,8 +3443,8 @@
     },
     {
       "id": "wow-professions:319bdd1de4586d",
-      "title": "免費去Ad",
-      "summary": "免費去Ad",
+      "title": "免費廣告",
+      "summary": "免費廣告",
       "originalTitle": "Go Ad Free",
       "sourceName": "WoW-Professions",
       "sourceUrl": "https://www.wow-professions.com/support",
@@ -3021,8 +3461,8 @@
     },
     {
       "id": "wow-professions:8c6c4ef8f14d57",
-      "title": "反饋",
-      "summary": "反饋",
+      "title": "回覆",
+      "summary": "回覆",
       "originalTitle": "Feedback",
       "sourceName": "WoW-Professions",
       "sourceUrl": "https://www.wow-professions.com/contact",
@@ -3039,8 +3479,8 @@
     },
     {
       "id": "wow-professions:0b41f2150de623",
-      "title": "等級",
-      "summary": "等級",
+      "title": "平衡",
+      "summary": "平衡",
       "originalTitle": "Leveling",
       "sourceName": "WoW-Professions",
       "sourceUrl": "https://www.wow-professions.com/guides/wow-alchemy-leveling-guide",
@@ -3057,8 +3497,8 @@
     },
     {
       "id": "wow-professions:fbab3e8604055f",
-      "title": "食譜、知識",
-      "summary": "食譜、知識",
+      "title": "食譜,知識",
+      "summary": "食譜,知識",
       "originalTitle": "Recipes, Knowledge",
       "sourceName": "WoW-Professions",
       "sourceUrl": "https://www.wow-professions.com/midnight/alchemy-guide",
@@ -3075,8 +3515,8 @@
     },
     {
       "id": "wow-professions:f282be38f80515",
-      "title": "等級",
-      "summary": "等級",
+      "title": "平衡",
+      "summary": "平衡",
       "originalTitle": "Leveling",
       "sourceName": "WoW-Professions",
       "sourceUrl": "https://www.wow-professions.com/guides/wow-blacksmithing-leveling-guide",
@@ -3093,8 +3533,8 @@
     },
     {
       "id": "wow-professions:9800bfdd1342c6",
-      "title": "食譜、知識",
-      "summary": "食譜、知識",
+      "title": "食譜,知識",
+      "summary": "食譜,知識",
       "originalTitle": "Recipes, Knowledge",
       "sourceName": "WoW-Professions",
       "sourceUrl": "https://www.wow-professions.com/midnight/blacksmithing-guide",
@@ -3111,8 +3551,8 @@
     },
     {
       "id": "wow-professions:968b8b93e5c5a0",
-      "title": "等級",
-      "summary": "等級",
+      "title": "平衡",
+      "summary": "平衡",
       "originalTitle": "Leveling",
       "sourceName": "WoW-Professions",
       "sourceUrl": "https://www.wow-professions.com/guides/wow-enchanting-leveling-guide",
@@ -3129,8 +3569,8 @@
     },
     {
       "id": "wow-professions:e50f9e46e48508",
-      "title": "食譜、知識",
-      "summary": "食譜、知識",
+      "title": "食譜,知識",
+      "summary": "食譜,知識",
       "originalTitle": "Recipes, Knowledge",
       "sourceName": "WoW-Professions",
       "sourceUrl": "https://www.wow-professions.com/midnight/enchanting-guide",
@@ -3147,8 +3587,8 @@
     },
     {
       "id": "wow-professions:56fbf5da335277",
-      "title": "等級",
-      "summary": "等級",
+      "title": "平衡",
+      "summary": "平衡",
       "originalTitle": "Leveling",
       "sourceName": "WoW-Professions",
       "sourceUrl": "https://www.wow-professions.com/guides/wow-engineering-leveling-guide",
@@ -3165,8 +3605,8 @@
     },
     {
       "id": "wow-professions:a1e7fc11194e38",
-      "title": "食譜、知識",
-      "summary": "食譜、知識",
+      "title": "食譜,知識",
+      "summary": "食譜,知識",
       "originalTitle": "Recipes, Knowledge",
       "sourceName": "WoW-Professions",
       "sourceUrl": "https://www.wow-professions.com/midnight/engineering-guide",
@@ -3183,8 +3623,8 @@
     },
     {
       "id": "wow-professions:19ff6138a1c4ad",
-      "title": "等級",
-      "summary": "等級",
+      "title": "平衡",
+      "summary": "平衡",
       "originalTitle": "Leveling",
       "sourceName": "WoW-Professions",
       "sourceUrl": "https://www.wow-professions.com/guides/wow-inscription-leveling-guide",
@@ -3201,8 +3641,8 @@
     },
     {
       "id": "wow-professions:eedddee621933d",
-      "title": "食譜、知識",
-      "summary": "食譜、知識",
+      "title": "食譜,知識",
+      "summary": "食譜,知識",
       "originalTitle": "Recipes, Knowledge",
       "sourceName": "WoW-Professions",
       "sourceUrl": "https://www.wow-professions.com/midnight/inscription-guide",
@@ -3219,8 +3659,8 @@
     },
     {
       "id": "wow-professions:f482e66bf090d8",
-      "title": "等級",
-      "summary": "等級",
+      "title": "平衡",
+      "summary": "平衡",
       "originalTitle": "Leveling",
       "sourceName": "WoW-Professions",
       "sourceUrl": "https://www.wow-professions.com/guides/wow-jewelcrafting-leveling-guide",
@@ -3237,8 +3677,8 @@
     },
     {
       "id": "wow-professions:c70af1a5eba827",
-      "title": "食譜、知識",
-      "summary": "食譜、知識",
+      "title": "食譜,知識",
+      "summary": "食譜,知識",
       "originalTitle": "Recipes, Knowledge",
       "sourceName": "WoW-Professions",
       "sourceUrl": "https://www.wow-professions.com/midnight/jewelcrafting-guide",
@@ -3255,8 +3695,8 @@
     },
     {
       "id": "wow-professions:f37c55375b23ae",
-      "title": "等級",
-      "summary": "等級",
+      "title": "平衡",
+      "summary": "平衡",
       "originalTitle": "Leveling",
       "sourceName": "WoW-Professions",
       "sourceUrl": "https://www.wow-professions.com/guides/wow-leatherworking-leveling-guide",
@@ -3273,8 +3713,8 @@
     },
     {
       "id": "wow-professions:78fe736b83d6cd",
-      "title": "食譜、知識",
-      "summary": "食譜、知識",
+      "title": "食譜,知識",
+      "summary": "食譜,知識",
       "originalTitle": "Recipes, Knowledge",
       "sourceName": "WoW-Professions",
       "sourceUrl": "https://www.wow-professions.com/midnight/leatherworking-guide",
@@ -3291,8 +3731,8 @@
     },
     {
       "id": "wow-professions:38adf8c58952ce",
-      "title": "等級",
-      "summary": "等級",
+      "title": "平衡",
+      "summary": "平衡",
       "originalTitle": "Leveling",
       "sourceName": "WoW-Professions",
       "sourceUrl": "https://www.wow-professions.com/guides/wow-tailoring-leveling-guide",
@@ -3309,8 +3749,8 @@
     },
     {
       "id": "wow-professions:b3361fec56d507",
-      "title": "食譜、知識",
-      "summary": "食譜、知識",
+      "title": "食譜,知識",
+      "summary": "食譜,知識",
       "originalTitle": "Recipes, Knowledge",
       "sourceName": "WoW-Professions",
       "sourceUrl": "https://www.wow-professions.com/midnight/tailoring-guide",
@@ -3328,7 +3768,7 @@
     {
       "id": "wow-analyzer:home",
       "title": "WoWAnalyzer",
-      "summary": "使用WoWAnalyzer來分析你的遊戲遊戲,並獲得成為更好QQer的建議.",
+      "summary": "使用 WoWAnalyzer 分析你的遊戲,並獲得建議,成為一個更好的團隊副本。",
       "originalTitle": "WoWAnalyzer",
       "sourceName": "WoWAnalyzer",
       "sourceUrl": "https://wowanalyzer.com/",
@@ -3345,7 +3785,7 @@
     {
       "id": "wowinterface:home",
       "title": "WoWInterface",
-      "summary": "QQ Addons, 介面, 皮膚, Mods & Community.",
+      "summary": "《魔鬼世界》 Addons, Interfaces, Skins, Mods & Community。",
       "originalTitle": "World of Warcraft AddOns",
       "sourceName": "WoWInterface",
       "sourceUrl": "https://www.wowinterface.com/downloads/index.php",
@@ -3361,8 +3801,8 @@
     },
     {
       "id": "wowinterface:7ebb9e04ec1c07",
-      "title": "最新200項",
-      "summary": "最新200項",
+      "title": "最新200",
+      "summary": "最新200",
       "originalTitle": "Latest 200",
       "sourceName": "WoWInterface",
       "sourceUrl": "https://www.wowinterface.com/downloads/latest.php?s=b846a4ba4a5864059a22090db327beab",
@@ -3378,8 +3818,8 @@
     },
     {
       "id": "wowinterface:f9369d42d713ee",
-      "title": "上傳已新增",
-      "summary": "上傳已新增",
+      "title": "載入 AddOn",
+      "summary": "載入 AddOn",
       "originalTitle": "Upload AddOn",
       "sourceName": "WoWInterface",
       "sourceUrl": "https://www.wowinterface.com/downloads/upload-update.php?s=b846a4ba4a5864059a22090db327beab",
@@ -3446,8 +3886,8 @@
     },
     {
       "id": "wowinterface:4f105e9a0d5180",
-      "title": "電子郵件種子",
-      "summary": "電子郵件種子",
+      "title": "電子郵件Feeds",
+      "summary": "電子郵件Feeds",
       "originalTitle": "Email Feeds",
       "sourceName": "WoWInterface",
       "sourceUrl": "https://www.wowinterface.com/downloads/filecpl.php?s=b846a4ba4a5864059a22090db327beab&amp;action=feeds",
@@ -3480,8 +3920,8 @@
     },
     {
       "id": "wowinterface:0c54a575062ad6",
-      "title": "新員額",
-      "summary": "新員額",
+      "title": "新帖子",
+      "summary": "新帖子",
       "originalTitle": "New posts",
       "sourceName": "WoWInterface",
       "sourceUrl": "https://www.wowinterface.com/forums/search.php?s=b846a4ba4a5864059a22090db327beab&amp;do=getnew",
@@ -3497,8 +3937,8 @@
     },
     {
       "id": "wowinterface:720ce4636270df",
-      "title": "今天的職位",
-      "summary": "今天的職位",
+      "title": "今天的郵件",
+      "summary": "今天的郵件",
       "originalTitle": "Today's Posts",
       "sourceName": "WoWInterface",
       "sourceUrl": "https://www.wowinterface.com/forums/search.php?s=b846a4ba4a5864059a22090db327beab&amp;do=getdaily",
@@ -3531,8 +3971,8 @@
     },
     {
       "id": "wowinterface:8b65843aeda14f",
-      "title": "新增、 comps、 宏",
-      "summary": "新增、 comps、 宏",
+      "title": "AddOns、Comps、Macros",
+      "summary": "AddOns、Comps、Macros",
       "originalTitle": "AddOns, Comps, Macros",
       "sourceName": "WoWInterface",
       "sourceUrl": "https://www.wowinterface.com/forums/forumdisplay.php?f=8",
@@ -3548,8 +3988,8 @@
     },
     {
       "id": "wowinterface:8879cff9d0642b",
-      "title": "特色專案",
-      "summary": "特色專案",
+      "title": "特定的專案",
+      "summary": "特定的專案",
       "originalTitle": "Featured Projects",
       "sourceName": "WoWInterface",
       "sourceUrl": "https://www.wowinterface.com/forums/forumdisplay.php?f=27",
@@ -3565,8 +4005,8 @@
     },
     {
       "id": "wowinterface:e91e4933336fad",
-      "title": "站點論壇",
-      "summary": "站點論壇",
+      "title": "網站論壇",
+      "summary": "網站論壇",
       "originalTitle": "Site Forums",
       "sourceName": "WoWInterface",
       "sourceUrl": "https://www.wowinterface.com/forums/forumdisplay.php?f=4",
@@ -3582,8 +4022,8 @@
     },
     {
       "id": "wowinterface:58562933233a5c",
-      "title": "標記論壇已讀",
-      "summary": "標記論壇已讀",
+      "title": "馬克論壇閱讀",
+      "summary": "馬克論壇閱讀",
       "originalTitle": "Mark Forums Read",
       "sourceName": "WoWInterface",
       "sourceUrl": "https://www.wowinterface.com/forums/forumdisplay.php?s=b846a4ba4a5864059a22090db327beab&amp;do=markread",
@@ -3599,8 +4039,8 @@
     },
     {
       "id": "wowinterface:2f53bc724ea644",
-      "title": "已訂閱線索",
-      "summary": "已訂閱線索",
+      "title": "訂閱威脅",
+      "summary": "訂閱威脅",
       "originalTitle": "Subscribed Threads",
       "sourceName": "WoWInterface",
       "sourceUrl": "https://www.wowinterface.com/forums/subscription.php?s=b846a4ba4a5864059a22090db327beab",
@@ -3616,8 +4056,8 @@
     },
     {
       "id": "wowinterface:34fb7e568fd24d",
-      "title": "成員名單",
-      "summary": "成員名單",
+      "title": "會員名單",
+      "summary": "會員名單",
       "originalTitle": "Members List",
       "sourceName": "WoWInterface",
       "sourceUrl": "https://www.wowinterface.com/forums/memberlist.php?s=b846a4ba4a5864059a22090db327beab&amp;",
@@ -3633,8 +4073,8 @@
     },
     {
       "id": "wowinterface:99b47bab3a0c13",
-      "title": "高階",
-      "summary": "高階",
+      "title": "先進",
+      "summary": "先進",
       "originalTitle": "Advanced",
       "sourceName": "WoWInterface",
       "sourceUrl": "https://www.wowinterface.com/downloads/search.php",
