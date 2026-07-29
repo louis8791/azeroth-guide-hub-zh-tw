@@ -28,6 +28,9 @@ GENERIC_TITLES = {
     "classes",
     "tools",
     "resources",
+    "upload addon",
+    "search addons",
+    "log in with battle.net",
 }
 GENERIC_TRANSLATED_TITLES = {
     "指南",
@@ -44,7 +47,7 @@ GUIDE_TITLE_HINTS = re.compile(
     r"achievement|battle pet|toy|transmog|weapon|secret|addon|ui|"
     r"leveling|recipe|knowledge|route|progress|ranking|log|simulation|"
     r"talent|build|gear|vault|delve|reputation|mount|lore|quest|housing|"
-    r"weekly|hidden|macro|rotation|tier list"
+    r"weekly|hidden|macro|rotation|tier list|combat log|warcraft log|arena log"
     r")s?\b",
     re.IGNORECASE,
 )
@@ -113,6 +116,15 @@ def is_publishable_topic(document: dict[str, Any], terms: dict[str, str]) -> boo
     if str(document.get("id", "")).endswith(":home"):
         return True
     title = str(document.get("title", "")).strip()
+    if "EAS3" in title:
+        return False
+    if (
+        str(document.get("sourceId", "")) == "method"
+        and not re.search(r"/(guides|raid-history|raidprogress)(/|$)", str(document.get("url", "")))
+    ):
+        return False
+    if len(title) > 120 and str(document.get("group", "")) != "台服問題雷達":
+        return False
     return exact_glossary(title, terms) is not None or bool(GUIDE_TITLE_HINTS.search(title))
 
 
