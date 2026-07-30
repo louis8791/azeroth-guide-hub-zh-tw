@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-30T08:48:46.954Z",
+  "generatedAt": "2026-07-30T14:30:33.705Z",
   "documents": [
     {
       "id": "archon:home",
@@ -19,7 +19,7 @@
       "url": "https://www.archon.gg/wow",
       "originalText": "Cutting-edge tools and resources for tailoring your World of Warcraft: Midnight gaming experience.",
       "locale": "en-US",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "6197416e2ba43408b2a548620f0aa31271fb0fa8f9d848f9ac7cd1883f57d4ff"
     },
     {
@@ -33,7 +33,7 @@
       "url": "https://worldofwarcraft.blizzard.com/zh-tw/news",
       "originalText": "包括開發者訊息﹑更新檔發布等等所有《魔獸世界》的最新消息與更新。",
       "locale": "zh-TW",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "5e291ef2ae97d6b3a96021d1d462462cd0ce238eb1377d0596ee6a9a917183c6"
     },
     {
@@ -52,7 +52,7 @@
       "url": "https://bloodmallet.com/",
       "originalText": "World of Warcraft data for all using SimulationCraft",
       "locale": "en-US",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "bbb2ea2694627a375e2887f82692ff3626642c3893c9c1c7e548ba9eb2a5a721"
     },
     {
@@ -71,7 +71,7 @@
       "url": "https://www.curseforge.com/wow/search?class=addons&page=1&pageSize=20&sortBy=relevancy",
       "originalText": "Browse and download World of Warcraft Addons on CurseForge, the world&#x27;s largest game modding repository. Easily install World of Warcraft Addons in one click.",
       "locale": "en-US",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "72bf9d284bf780019e22d8f961ee4065e52ccec8d7fcf574e9e854741cd68e08"
     },
     {
@@ -94,7 +94,7 @@
       "url": "https://www.icy-veins.com/wow/",
       "originalText": "Icy Veins provides detailed guides and news for World of Warcraft: class guides, raid guides, event guides, pvp guides, etc.",
       "locale": "en-US",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "adf1466230e8d0b9e703d919c431ce557620d45f1d8f88c7e283a791797cf036"
     },
     {
@@ -117,7 +117,7 @@
       "url": "https://www.icy-veins.com/wow/",
       "originalText": "World of Warcraft",
       "locale": "en-US",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "a62eecc4bb175d6227b82519cab673682ab4fd073f4954bb57ff0981b0fed63e"
     },
     {
@@ -140,7 +140,7 @@
       "url": "https://www.icy-veins.com/wow/class-guides",
       "originalText": "View all",
       "locale": "en-US",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "b1544d7f6cec5e2095e6a0a4e7c74d869c2f88eab08203b3e407aed6ea155d32"
     },
     {
@@ -163,7 +163,7 @@
       "url": "https://www.icy-veins.com/wow/how-to-sim-your-wow-character-a-guide-to-raidbots",
       "originalText": "Simming Your Character",
       "locale": "en-US",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "dfed9e30a4111bdaf5a9ecac58bcd9ebe7d1b9f1477617ed2135625df69fdf4a"
     },
     {
@@ -186,7 +186,7 @@
       "url": "https://www.icy-veins.com/wow/healing-guide",
       "originalText": "Healing Guide",
       "locale": "en-US",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "17cab3392a845b6734fbc2cdb501d1c485b7bf9bf22c1543716b1246e0ed483d"
     },
     {
@@ -209,7 +209,7 @@
       "url": "https://www.icy-veins.com/wow/tanking-guide",
       "originalText": "Tanking Guide",
       "locale": "en-US",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "464b1cc10f51b4a48c34e4145010bdb97f60eba0e0241fc48ad77f6d27b29e03"
     },
     {
@@ -232,7 +232,7 @@
       "url": "https://www.icy-veins.com/wow/how-to-set-up-your-ui-in-world-of-warcraft",
       "originalText": "Set Up your UI",
       "locale": "en-US",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "381be89156ad2edcb88b504b498f4dc3cf479822c94c8575bc10a4be20567722"
     },
     {
@@ -255,7 +255,7 @@
       "url": "https://www.icy-veins.com/wow/midnight-pve-gearing-guide",
       "originalText": "PvE Gearing Guide",
       "locale": "en-US",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "7be9a4e1b78bd36c05791f20780d8ca7d716ec45f68f4571becd689be24fde76"
     },
     {
@@ -278,7 +278,7 @@
       "url": "https://www.icy-veins.com/wow/death-knight-guide",
       "originalText": "Death Knight Guide",
       "locale": "en-US",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "730380cdbae9fcefb7f2a198a6180c02cc7308ff5f65fb5bdb92087686f68bfb"
     },
     {
@@ -301,7 +301,7 @@
       "url": "https://www.icy-veins.com/wow/demon-hunter-guide",
       "originalText": "Demon Hunter Guide",
       "locale": "en-US",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "31fbb865b57d717c76e284bb553c82e4e645c1ade4ac96d9d5f7947a2734151b"
     },
     {
@@ -324,7 +324,7 @@
       "url": "https://www.icy-veins.com/wow/devourer-demon-hunter-pve-dps-guide",
       "originalText": "Devourer",
       "locale": "en-US",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "3846c97c59e0184112105250450f2db7bd0ea0a3a12523a6457398f5bbbf9a17"
     },
     {
@@ -347,7 +347,7 @@
       "url": "https://www.icy-veins.com/wow/vengeance-demon-hunter-pve-tank-guide",
       "originalText": "Vengeance",
       "locale": "en-US",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "c2c63d54987461d40e6fd5dc2ad872226fd1f1aa2640791cebcf71a148de2c80"
     },
     {
@@ -370,7 +370,7 @@
       "url": "https://www.icy-veins.com/wow/druid-guide",
       "originalText": "Druid Guide",
       "locale": "en-US",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "0e4daaba3fa9401b1c83247885b2306c01eb2a2d564f9399683cfbb4e9537d07"
     },
     {
@@ -393,7 +393,7 @@
       "url": "https://www.icy-veins.com/wow/guardian-druid-pve-tank-guide",
       "originalText": "Guardian",
       "locale": "en-US",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "100606a080bc536451583389a04b64a399acbd90907204aae0341fd1acf098e4"
     },
     {
@@ -416,7 +416,7 @@
       "url": "https://www.icy-veins.com/wow/restoration-druid-pve-healing-guide",
       "originalText": "Restoration",
       "locale": "en-US",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "3c81649023e153855369ee9abb5b29b7a8d75c290a8e40878e79e5538fcc7b0e"
     },
     {
@@ -439,7 +439,7 @@
       "url": "https://www.icy-veins.com/wow/evoker-guide",
       "originalText": "Evoker Guide",
       "locale": "en-US",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "574be23989a49a1aaffb565cd6740ea0f85aef622ae67a50e0e1bebfcdd80f2a"
     },
     {
@@ -462,7 +462,7 @@
       "url": "https://www.icy-veins.com/wow/augmentation-evoker-pve-dps-guide",
       "originalText": "Augmentation",
       "locale": "en-US",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "28785353dbda8a5ef9f5c3a8dc5f01c26e44914db89a4d458592341eab415611"
     },
     {
@@ -485,7 +485,7 @@
       "url": "https://www.icy-veins.com/wow/devastation-evoker-pve-dps-guide",
       "originalText": "Devastation",
       "locale": "en-US",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "37c3d0850542fd59024a6c74fe8982c70ef8403f199e4eaa4b948d3610be0365"
     },
     {
@@ -508,7 +508,7 @@
       "url": "https://www.icy-veins.com/wow/preservation-evoker-pve-healing-guide",
       "originalText": "Preservation",
       "locale": "en-US",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "54dce1589a07d29db3c4b69638d2c17a183939863d628c11cae09eed99419cc0"
     },
     {
@@ -531,7 +531,7 @@
       "url": "https://www.icy-veins.com/wow/hunter-guide",
       "originalText": "Hunter Guide",
       "locale": "en-US",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "1053035d4dfef99f3e3ece8e69b35ee736389a37f9a5635b44f01fa48de8cfc1"
     },
     {
@@ -554,7 +554,7 @@
       "url": "https://www.icy-veins.com/wow/beast-mastery-hunter-pve-dps-guide",
       "originalText": "Beast Mastery",
       "locale": "en-US",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "c8994b0511357615794ba32b951e06c99c893ee9c3e97a4a6cdffda5baccd7c5"
     },
     {
@@ -577,7 +577,7 @@
       "url": "https://www.icy-veins.com/wow/marksmanship-hunter-pve-dps-guide",
       "originalText": "Marksmanship",
       "locale": "en-US",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "b398c0d6572675a591ad2a2c3d5e1128a34f186b0f38370ce3aef68c2006efc9"
     },
     {
@@ -600,7 +600,7 @@
       "url": "https://www.icy-veins.com/wow/survival-hunter-pve-dps-guide",
       "originalText": "Survival",
       "locale": "en-US",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "48281b15bbe8c999901916a7e54ba256ab55b895430e9885c5e6349786d41a41"
     },
     {
@@ -623,7 +623,7 @@
       "url": "https://www.icy-veins.com/wow/mage-guide",
       "originalText": "Mage Guide",
       "locale": "en-US",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "48e0d9c30adb428f53cd2f49c0e7916370addf6b8630840813c82b083a773e26"
     },
     {
@@ -646,7 +646,7 @@
       "url": "https://www.icy-veins.com/wow/monk-guide",
       "originalText": "Monk Guide",
       "locale": "en-US",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "20396ddb694fc6c371acc1f2d4279f343f1b0114f04fe0e900d69e375ba3dc44"
     },
     {
@@ -669,7 +669,7 @@
       "url": "https://www.icy-veins.com/wow/brewmaster-monk-pve-tank-guide",
       "originalText": "Brewmaster",
       "locale": "en-US",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "9d98b56cd4bf8a87028a5f011e4289f1e3e5b0a7e813ad559ce838a110eaa9ae"
     },
     {
@@ -692,7 +692,7 @@
       "url": "https://www.icy-veins.com/wow/mistweaver-monk-pve-healing-guide",
       "originalText": "Mistweaver",
       "locale": "en-US",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "ef3be4014f3c0c7aa7442be2e9c4fa558af602802c0cca2ae07922e6ff405ab0"
     },
     {
@@ -715,7 +715,7 @@
       "url": "https://www.icy-veins.com/wow/windwalker-monk-pve-dps-guide",
       "originalText": "Windwalker",
       "locale": "en-US",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "9b40d0349fcaff2fd035f533d9662f9682c2cb85cdaf5e133c32e25a2e9935a3"
     },
     {
@@ -738,7 +738,7 @@
       "url": "https://www.icy-veins.com/wow/paladin-guide",
       "originalText": "Paladin Guide",
       "locale": "en-US",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "41742b1950994f61a56922559dbf6cd2e16e324c2e55f107457105d21350543a"
     },
     {
@@ -761,7 +761,7 @@
       "url": "https://www.icy-veins.com/wow/protection-paladin-pve-tank-guide",
       "originalText": "Protection",
       "locale": "en-US",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "f0c5d40722272dad5415e7efc3fe327dd820be75e77fa5b3d449e1c6fa6972d1"
     },
     {
@@ -784,7 +784,7 @@
       "url": "https://www.icy-veins.com/wow/retribution-paladin-pve-dps-guide",
       "originalText": "Retribution",
       "locale": "en-US",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "40ad5b5d8fe5b90b0fac55557b7bd6cc582eb2fa755a33c6074d9924b15c55ab"
     },
     {
@@ -807,7 +807,7 @@
       "url": "https://www.icy-veins.com/wow/priest-guide",
       "originalText": "Priest Guide",
       "locale": "en-US",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "33f1f4119786023f5c34f073564cacb81272085aeec173aac9a54829852c3ee9"
     },
     {
@@ -830,7 +830,7 @@
       "url": "https://www.icy-veins.com/wow/discipline-priest-pve-healing-guide",
       "originalText": "Discipline",
       "locale": "en-US",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "8c26976e6c9d6c350d978eb9ff2bef66fae1635ae8e619fd6a241097a953abd9"
     },
     {
@@ -853,7 +853,7 @@
       "url": "https://www.icy-veins.com/wow/rogue-guide",
       "originalText": "Rogue Guide",
       "locale": "en-US",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "da9410b98f1ff49213274106837302ab43c15044d410e240e20c73c81bbc8ace"
     },
     {
@@ -876,7 +876,7 @@
       "url": "https://www.icy-veins.com/wow/assassination-rogue-pve-dps-guide",
       "originalText": "Assassination",
       "locale": "en-US",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "c59225f947d254eb4d30d9a5c0ad131780f74b58adfcd9ce9c8b9c42de04e7fc"
     },
     {
@@ -899,7 +899,7 @@
       "url": "https://www.icy-veins.com/wow/subtlety-rogue-pve-dps-guide",
       "originalText": "Subtlety",
       "locale": "en-US",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "3896accc696fb3eb264c87169380f98ae14d585e037f06900700fa46d4d5440b"
     },
     {
@@ -922,7 +922,7 @@
       "url": "https://www.icy-veins.com/wow/shaman-guide",
       "originalText": "Shaman Guide",
       "locale": "en-US",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "c6ebe6aef1e5684b9af476f3a54e562241fa10d6053548240058921559cba9f2"
     },
     {
@@ -945,7 +945,7 @@
       "url": "https://www.icy-veins.com/wow/elemental-shaman-pve-dps-guide",
       "originalText": "Elemental",
       "locale": "en-US",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "ae3f429a1d1dd136146efd72bbb7c3b73161f9ea4c87726dca2d9925ab268c80"
     },
     {
@@ -968,7 +968,7 @@
       "url": "https://www.icy-veins.com/wow/enhancement-shaman-pve-dps-guide",
       "originalText": "Enhancement",
       "locale": "en-US",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "c69b68010fce66a9b7f99a64442e971d6b09370311869ae4bf4965a23bde7ac9"
     },
     {
@@ -991,7 +991,7 @@
       "url": "https://www.icy-veins.com/wow/restoration-shaman-pve-healing-guide",
       "originalText": "Restoration",
       "locale": "en-US",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "501f5b9f30b8f70c6eb6f7bd2303377f032ebb6bcc7bb4c5629bd531c7e5694c"
     },
     {
@@ -1014,7 +1014,7 @@
       "url": "https://www.icy-veins.com/wow/warlock-guide",
       "originalText": "Warlock Guide",
       "locale": "en-US",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "7486819653dafcac6d534c15aef04e615d560651801b5d1d1a3d55069c8045fd"
     },
     {
@@ -1037,7 +1037,7 @@
       "url": "https://www.icy-veins.com/wow/affliction-warlock-pve-dps-guide",
       "originalText": "Affliction",
       "locale": "en-US",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "352f4fb3bf61bdb85585c44f55da82f24e5af473e59b2fdf8c8a9033546cf882"
     },
     {
@@ -1060,7 +1060,7 @@
       "url": "https://www.icy-veins.com/wow/demonology-warlock-pve-dps-guide",
       "originalText": "Demonology",
       "locale": "en-US",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "b3cff9cfdbc23e491353bfd7cc98ba1e80334f02e0866d92eddd5db299b78361"
     },
     {
@@ -1083,7 +1083,7 @@
       "url": "https://www.icy-veins.com/wow/destruction-warlock-pve-dps-guide",
       "originalText": "Destruction",
       "locale": "en-US",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "b6d4252acccd155b311c6d67dfa0683afc772752758921095aa51f5e9566ab6d"
     },
     {
@@ -1106,7 +1106,7 @@
       "url": "https://www.icy-veins.com/wow/warrior-guide",
       "originalText": "Warrior Guide",
       "locale": "en-US",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "2d28fd1d88d63a13a40de2065c0110b441bd9b837313da60cb5a45d2fe7ae6cb"
     },
     {
@@ -1129,7 +1129,7 @@
       "url": "https://www.icy-veins.com/wow/protection-warrior-pve-tank-guide",
       "originalText": "Protection",
       "locale": "en-US",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "3249595d261e7572f5d4602aaf95f1be73ae014f90ecb6488a45fe91b7ad5c7e"
     },
     {
@@ -1152,7 +1152,7 @@
       "url": "https://www.icy-veins.com/wow/midnight-expansion-guide",
       "originalText": "View all",
       "locale": "en-US",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "4d669f22f7b297525affe3d7f7051728b97e900f5ff2eb859aced3c3a04406e2"
     },
     {
@@ -1175,7 +1175,7 @@
       "url": "https://www.icy-veins.com/wow/weekly-to-do-list",
       "originalText": "Weekly To-Do List",
       "locale": "en-US",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "706dcd3abc7a081281c800626ad7bd4e3a8974884a8f5696a18613ad302ade45"
     },
     {
@@ -1198,7 +1198,7 @@
       "url": "https://www.icy-veins.com/wow/choose-your-main-guide",
       "originalText": "Choose Your Main",
       "locale": "en-US",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "199ace57f2db3644410dc918c43bc7f63aaf7401a447a816e77e699d606d60a7"
     },
     {
@@ -1217,7 +1217,7 @@
       "url": "https://keystone.guru/",
       "originalText": "Plan routes online cooperatively with your team or discover routes that suit your play style and skill level. Keystone.guru is the one place to manage and share your M+ routes.",
       "locale": "en-US",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "31c6cd18af9fa3165cf671b6f9c69033a4fc1b2b608606c14a114bdb99bcd539"
     },
     {
@@ -1236,7 +1236,7 @@
       "url": "https://www.method.gg/guides",
       "originalText": "World of Warcraft: Midnight Class Guides, Mythic+ Dungeon Guides and Boss Guides written by Method raiders and content creators.",
       "locale": "en-US",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "162b98ed0ce8d3aab34313933a200fd5586b76f5bd461cf7d459bfddda42a32f"
     },
     {
@@ -1255,7 +1255,7 @@
       "url": "https://www.method.gg/guides",
       "originalText": "World of Warcraft",
       "locale": "en-US",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "4b9dd9145ff657792fc75473cd306f0bfacc8eb775ce4d06945fe5247fc9c9e4"
     },
     {
@@ -1274,7 +1274,7 @@
       "url": "https://www.method.gg/raid-history/vanilla",
       "originalText": "Raid History",
       "locale": "en-US",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "bdeb4dc608933e220c89cb060d2520379c10fed6625d6f4be50508a2072f5920"
     },
     {
@@ -1293,7 +1293,7 @@
       "url": "https://www.method.gg/raidprogress",
       "originalText": "Raid Progress",
       "locale": "en-US",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "7af484fdb681f1f59cef516691b1b9bfbbd9f27897ebfe8ee16cbe254e1a510a"
     },
     {
@@ -1312,7 +1312,7 @@
       "url": "https://www.method.gg/guides/world-of-warcraft",
       "originalText": "Midnight Guides",
       "locale": "en-US",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "bca7b65ae00af7cbd7ea568a120b4e9af506043d2b42f175e73a3e88be896bac"
     },
     {
@@ -1331,7 +1331,7 @@
       "url": "https://www.method.gg/guides/dungeons/algethar-academy/ability-tracker",
       "originalText": "M+ Ability Tracker",
       "locale": "en-US",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "9c88bdfeed23b1467cb72644db840ae1ca8ed2b610f6263e25d5c8182c88085f"
     },
     {
@@ -1350,7 +1350,7 @@
       "url": "https://www.method.gg/guides/world-of-warcraft/professions",
       "originalText": "Profession Guides",
       "locale": "en-US",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "a051710b00f35addd28bff59ebb98e47f384be34fd68bbea0cf9ad3bd2bda28c"
     },
     {
@@ -1369,7 +1369,7 @@
       "url": "https://www.method.gg/guides/mounts",
       "originalText": "Mount Guides",
       "locale": "en-US",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "cb2195ef63d7241ddc03f03604f65ccc99e46b86bce5d613cbfde637b462c2fe"
     },
     {
@@ -1388,7 +1388,7 @@
       "url": "https://www.method.gg/guides/the-voidspire/imperator-averzian-heroic",
       "originalText": "Imperator Averzian",
       "locale": "en-US",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "68f3237f32bae3413f565443381781f7fbcc91baec71cb01a109a65b6332b391"
     },
     {
@@ -1407,7 +1407,7 @@
       "url": "https://www.method.gg/guides/the-voidspire/vorasius-heroic",
       "originalText": "Vorasius",
       "locale": "en-US",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "a8dad1c344725861bdade3cf5d6cd3a7fda5fb1dd6f65e7711b3e36c42796494"
     },
     {
@@ -1426,7 +1426,7 @@
       "url": "https://www.method.gg/guides/the-voidspire/fallen-king-salhadaar-heroic",
       "originalText": "Fallen-King Salhadaar",
       "locale": "en-US",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "83221dd2ad1d0d260520e7fa0ed7bc1066d73913bd750b9ccc4dfba8b5cdd7e6"
     },
     {
@@ -1445,7 +1445,7 @@
       "url": "https://www.method.gg/guides/the-voidspire/vaelgor-ezzorak-heroic",
       "originalText": "Vaelgor & Ezzorak",
       "locale": "en-US",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "84ee82a937ccd2e2190c1860bb27f04876017ea318a3fa74cdce058d72489be0"
     },
     {
@@ -1464,7 +1464,7 @@
       "url": "https://www.method.gg/guides/the-voidspire/lightblinded-vanguard-heroic",
       "originalText": "Lightblinded Vanguard",
       "locale": "en-US",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "7533a63189260f12acb31ec17cf9435b6e88b6e805f39e6c609328edcaf28357"
     },
     {
@@ -1483,7 +1483,7 @@
       "url": "https://www.method.gg/guides/the-voidspire/crown-of-the-cosmos-heroic",
       "originalText": "Crown of the Cosmos",
       "locale": "en-US",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "72cb2d415ef532e368b244d2264563797b3674de082b4394c2f7c23a07e49e60"
     },
     {
@@ -1502,7 +1502,7 @@
       "url": "https://www.method.gg/guides/the-dreamrift/chimaerus-the-undreamt-god-heroic",
       "originalText": "Chimaerus the Undreamt God",
       "locale": "en-US",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "5dc1b3a924589511c715587488f67578854a499819ffbd77a5514f2dad87629c"
     },
     {
@@ -1521,7 +1521,7 @@
       "url": "https://www.method.gg/guides/march-on-queldanas/beloren-child-of-alar-heroic",
       "originalText": "Belo'ren, Child of Al'ar",
       "locale": "en-US",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "76ce8723a067b6128c73168b1f2daf01f8ebc94e1d0eecbd68d7b26b8e785bd0"
     },
     {
@@ -1540,7 +1540,7 @@
       "url": "https://www.method.gg/guides/march-on-queldanas/midnight-falls-heroic",
       "originalText": "Midnight Falls",
       "locale": "en-US",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "ae7aea8356d5f311f756868fdf4ed44a6e7be7b951590166a84d86d341968fc6"
     },
     {
@@ -1559,7 +1559,7 @@
       "url": "https://www.method.gg/guides/dungeons/algethar-academy",
       "originalText": "Algeth'ar Academy",
       "locale": "en-US",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "14d278ecb1ec4b5a8cad67d1a1addb0fcd5f6a6961e1be538f83e9981c359a4d"
     },
     {
@@ -1578,7 +1578,7 @@
       "url": "https://www.method.gg/guides/dungeons/magisters-terrace",
       "originalText": "Magister's Terrace",
       "locale": "en-US",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "bb28c0a32ceebd475bc2b170f3fa5e4e5ac463d2fb684e4b11194b46e6a98e69"
     },
     {
@@ -1597,7 +1597,7 @@
       "url": "https://www.method.gg/guides/dungeons/maisara-caverns",
       "originalText": "Maisara Caverns",
       "locale": "en-US",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "f915f9c11d47201daebd891b66b30207f3ceb7111d302ebb89648da705ca8bfe"
     },
     {
@@ -1616,7 +1616,7 @@
       "url": "https://www.method.gg/guides/dungeons/nexus-point-xenas",
       "originalText": "Nexus Point Xenas",
       "locale": "en-US",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "67860f45aa0f199ca8d1b43bfe0252f9fbeb37b5b97095b658eec1a6f4f4b833"
     },
     {
@@ -1635,7 +1635,7 @@
       "url": "https://www.method.gg/guides/dungeons/pit-of-saron",
       "originalText": "Pit of Saron",
       "locale": "en-US",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "637972ff871e2c07b4ad61f007ae7219c5d04d93ad12cbcf5064125604a3651d"
     },
     {
@@ -1654,7 +1654,7 @@
       "url": "https://www.method.gg/guides/dungeons/seat-of-the-triumvirate",
       "originalText": "Seat of the Triumvirate",
       "locale": "en-US",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "b47308353a372c8a9cedda6d063ca142400cf0d32d218e6baf3aafa7d1454eb3"
     },
     {
@@ -1673,7 +1673,7 @@
       "url": "https://www.method.gg/guides/dungeons/skyreach",
       "originalText": "Skyreach",
       "locale": "en-US",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "dca1d1d0f1359f281cab50d9a02993aca81b37c11ab340eaf5adf4950e79aa9f"
     },
     {
@@ -1692,7 +1692,7 @@
       "url": "https://www.method.gg/guides/dungeons/windrunner-spire",
       "originalText": "Windrunner Spire",
       "locale": "en-US",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "b5f6541d0f75784a5c7ea4d3a72617842cdee2e3a7dcb8987e29389428cd132d"
     },
     {
@@ -1711,7 +1711,7 @@
       "url": "https://www.method.gg/guides/tier-list/mythic-plus",
       "originalText": "Tier Lists",
       "locale": "en-US",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "44009b13f9d97ad9e2290d4615eae0b9cd91b038d9106b1f5b5a7b0e0742d720"
     },
     {
@@ -1730,7 +1730,7 @@
       "url": "https://www.method.gg/guides/world-of-warcraft/reputation",
       "originalText": "Reputation",
       "locale": "en-US",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "d8c1d325f96d0d94c57498ea1a356d817b717d7d0b52d20b676cd5c23338546f"
     },
     {
@@ -1749,7 +1749,7 @@
       "url": "https://www.method.gg/guides/world-of-warcraft/delves",
       "originalText": "Delve Guides",
       "locale": "en-US",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "9e84eea76a54b082c38b89f9ca6d79a4d10e3e98435af0741f88a08a27f9d020"
     },
     {
@@ -1768,7 +1768,7 @@
       "url": "https://www.method.gg/guides/mounts/list",
       "originalText": "Mount Guides",
       "locale": "en-US",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "2729d99a7d7fd499be1ffa079eab248cda586432430db461c6dc2eb913f06969"
     },
     {
@@ -1787,7 +1787,7 @@
       "url": "https://www.method.gg/guides/location-of-all-midnight-profession-knowledge-treasures",
       "originalText": "All Profession Knowledge Treasure Locations in Midnight",
       "locale": "en-US",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "3fc4c50fdb1cab4dce4cfa146ee0f4b688d0c3da56124badad5fec45d78e30c2"
     },
     {
@@ -1806,7 +1806,7 @@
       "url": "https://www.method.gg/guides/list-of-all-midnight-consumables-enchants-and-gems",
       "originalText": "List of all Midnight Consumables, Enchants and Gems",
       "locale": "en-US",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "7530f26872f91a18740435f6a9855553aded5e2f5f6df10f41258c04e3eeaae3"
     },
     {
@@ -1825,7 +1825,7 @@
       "url": "https://www.method.gg/guides/where-to-find-the-omnium-folio-in-wow-midnight",
       "originalText": "Where to Find the Omnium Folio in WoW Midnight Patch 12.0.7 8th July 2026",
       "locale": "en-US",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "e2209ae55b19f1836429057a9a09c474276edf5b5293355d8b588006038b7cb3"
     },
     {
@@ -1844,7 +1844,7 @@
       "url": "https://www.method.gg/guides/all-world-of-warcraft-timewalking-vendor-locations",
       "originalText": "All World of Warcraft Timewalking Vendor Locations Timewalking 27th June 2026",
       "locale": "en-US",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "cc83a1dcfc4143e0b1250b42649bf038275283cb6f65f5341e8eb1b657449bdf"
     },
     {
@@ -1863,7 +1863,7 @@
       "url": "https://www.method.gg/guides/how-to-unlock-the-lost-armaments-transmog-weapons-in-midnight-wow",
       "originalText": "How to Unlock the Lost Armaments Transmog Weapons in Midnight WoW Patch 12.0.7 15th June 2026",
       "locale": "en-US",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "9dfb6542a14450258b41b1862fea7640a4dab3c5c206821517a9ed3e29638cfd"
     },
     {
@@ -1882,7 +1882,7 @@
       "url": "https://www.method.gg/guides/best-omnium-folio-runes-builds-in-midnight-wow",
       "originalText": "Best Omnium Folio Runes Builds in Midnight WoW Patch 12.0.7 15th June 2026",
       "locale": "en-US",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "851f4cb9db0ddea183f75b383fd15ac96e6e4430b42608cbe880a67bf265b875"
     },
     {
@@ -1901,7 +1901,7 @@
       "url": "https://www.method.gg/guides/all-unique-effect-items-from-the-sporefall-raid-in-wow-midnight",
       "originalText": "All Unique Effect Items from the Sporefall Raid in WoW Midnight Patch 12.0.7 15th June 2026",
       "locale": "en-US",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "310f247d03306a00e9b1b88ff25db587b71b31cc9e2fcf882c60a83c3d98e74e"
     },
     {
@@ -1920,7 +1920,7 @@
       "url": "https://www.method.gg/guides/wow-heroic-world-tier-overview-midnight-patch-12-0-7",
       "originalText": "WoW Heroic World Tier Overview: Midnight Patch 12.0.7 Patch 12.0.7 15th June 2026",
       "locale": "en-US",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "67ed0b1766e41b1b65889c56d2b953359f429966ae0077f8d3801020111e3398"
     },
     {
@@ -1940,7 +1940,7 @@
       "url": "https://murlok.io/",
       "originalText": "PvP and PvE builds for WoW Midnight Season 1. Discover the character builds used by top players in Solo Shuffle, 2v2, 3v3, Blitz, RBG, and Mythic+.",
       "locale": "en-US",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "7f0a82970e4dfc0d6df593b8f0b373b795d9bc9498035e1e2bb2ddf70156c826"
     },
     {
@@ -1960,7 +1960,7 @@
       "url": "https://murlok.io/",
       "originalText": "Murlok v3.44.18",
       "locale": "en-US",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "4c39bd45e0a648ada6263f4c3e1db8b1b4f6995713ba3a68e7a5babf4e99ebd2"
     },
     {
@@ -1980,7 +1980,7 @@
       "url": "https://murlok.io/death-knight",
       "originalText": "Death Knight",
       "locale": "en-US",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "11e5adf8cdd6645e8e614c378feb75b9537d3924a6ced954128cad38aecd0807"
     },
     {
@@ -2000,7 +2000,7 @@
       "url": "https://murlok.io/demon-hunter",
       "originalText": "Demon Hunter",
       "locale": "en-US",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "6027d2c9d1f185961683200630f69c5fdb61aac498362fc79e9feb31a9d4a00d"
     },
     {
@@ -2020,7 +2020,7 @@
       "url": "https://murlok.io/account/login/battlenet",
       "originalText": "Log In With Battle.net",
       "locale": "en-US",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "bb6308467f631ab1d313f8245073293b2aba9a5e2b98c9811d948439c8e313f8"
     },
     {
@@ -2040,7 +2040,7 @@
       "url": "https://murlok.io/demon-hunter/vengeance/3v3",
       "originalText": "Vengeance",
       "locale": "en-US",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "70c678674a96c2f9048159ae39b3cf29651ad4ce655da67c6c53132084b5cb6f"
     },
     {
@@ -2060,7 +2060,7 @@
       "url": "https://murlok.io/demon-hunter/devourer/3v3",
       "originalText": "Devourer",
       "locale": "en-US",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "f98882f28c861534e63556d393b050fe50d375dcd21a8e5639da29845128e0e0"
     },
     {
@@ -2080,7 +2080,7 @@
       "url": "https://murlok.io/druid/guardian/3v3",
       "originalText": "Guardian",
       "locale": "en-US",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "28c40baa0c6d144a1635b76d635d0bfc9726175beb32ab981db0937104753a50"
     },
     {
@@ -2100,7 +2100,7 @@
       "url": "https://murlok.io/druid/restoration/3v3",
       "originalText": "Restoration",
       "locale": "en-US",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "644e5af0a409c87a558d8299f35a71ac55e73986b1721946c1c623e401a192bc"
     },
     {
@@ -2120,7 +2120,7 @@
       "url": "https://murlok.io/evoker/devastation/3v3",
       "originalText": "Devastation",
       "locale": "en-US",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "5f0695c8d1d76390d8019c60e072bb3e3208ee7bde5d2735cf66c0b9802d5e54"
     },
     {
@@ -2140,7 +2140,7 @@
       "url": "https://murlok.io/evoker/preservation/3v3",
       "originalText": "Preservation",
       "locale": "en-US",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "d79c6049a8d6236e263e30704fffee6a309350667c4128bb1ab35d89bb048299"
     },
     {
@@ -2160,7 +2160,7 @@
       "url": "https://murlok.io/evoker/augmentation/3v3",
       "originalText": "Augmentation",
       "locale": "en-US",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "b7d60faa3a77217531e029a183488bff68422bec2901654d7e71ce64c899d931"
     },
     {
@@ -2180,7 +2180,7 @@
       "url": "https://murlok.io/hunter/beast-mastery/3v3",
       "originalText": "Beast Mastery",
       "locale": "en-US",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "a4b6211e4d319da95badb4f8f3cb61c2b0a41664888f7ee43c24ab84a21a7ed2"
     },
     {
@@ -2200,7 +2200,7 @@
       "url": "https://murlok.io/hunter/marksmanship/3v3",
       "originalText": "Marksmanship",
       "locale": "en-US",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "c5e14595338adba0a82283b1ec67bd9a377baf46659ff578d16de6bd2f4f30b3"
     },
     {
@@ -2220,7 +2220,7 @@
       "url": "https://murlok.io/hunter/survival/3v3",
       "originalText": "Survival",
       "locale": "en-US",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "2bc589216b91aeccd9ab1afb45927251e217c224cd639b6778ca9757eb52bb0c"
     },
     {
@@ -2240,7 +2240,7 @@
       "url": "https://murlok.io/monk/brewmaster/3v3",
       "originalText": "Brewmaster",
       "locale": "en-US",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "67007e899deaed006e72a8cb6fdfe816fb395cfc3b5384a4754008aab8ecc896"
     },
     {
@@ -2260,7 +2260,7 @@
       "url": "https://murlok.io/monk/windwalker/3v3",
       "originalText": "Windwalker",
       "locale": "en-US",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "3e3c62a2a179b45897f767ebc553e82cb315aecc39aa627033e85ce0fce087a8"
     },
     {
@@ -2280,7 +2280,7 @@
       "url": "https://murlok.io/monk/mistweaver/3v3",
       "originalText": "Mistweaver",
       "locale": "en-US",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "73238b6c71089cfd2ec1656a2c6ac356df3b6b4d7f13bdd24f916fa262d2a79e"
     },
     {
@@ -2300,7 +2300,7 @@
       "url": "https://murlok.io/paladin/protection/3v3",
       "originalText": "Protection",
       "locale": "en-US",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "06db14c6a705be605535bb58dce87e2ea6fc4ee352446bd24244c69d7fcd7ff3"
     },
     {
@@ -2320,7 +2320,7 @@
       "url": "https://murlok.io/paladin/retribution/3v3",
       "originalText": "Retribution",
       "locale": "en-US",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "60d281be1bb114b6723ba79790e7b9c0af6d94959ca7859d8a2a79ed92e2e5f5"
     },
     {
@@ -2340,7 +2340,7 @@
       "url": "https://murlok.io/priest/discipline/3v3",
       "originalText": "Discipline",
       "locale": "en-US",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "71b5a17c20ee946549bf2351d87d88870203b4d6efb809cfa1b14be47dad3978"
     },
     {
@@ -2360,7 +2360,7 @@
       "url": "https://murlok.io/rogue/assassination/3v3",
       "originalText": "Assassination",
       "locale": "en-US",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "5c20d04b7eb7d60381fa22995db5bae6483cba000b64b8a405d3cba736c08b79"
     },
     {
@@ -2380,7 +2380,7 @@
       "url": "https://murlok.io/rogue/subtlety/3v3",
       "originalText": "Subtlety",
       "locale": "en-US",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "0861b7f96c8b99e2824fafa5dd494bc0029a96fd3260af6b7af98caa89eaa232"
     },
     {
@@ -2400,7 +2400,7 @@
       "url": "https://murlok.io/shaman/elemental/3v3",
       "originalText": "Elemental",
       "locale": "en-US",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "42937fbda1a4458ecb0963772910269d2dee5fc2fdf8d597ffd951fa25a0c1ba"
     },
     {
@@ -2420,7 +2420,7 @@
       "url": "https://murlok.io/shaman/enhancement/3v3",
       "originalText": "Enhancement",
       "locale": "en-US",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "9eeee90d65ea19f3bcff17ce5795628ab04a8132db9ccf4f652a6cb104110068"
     },
     {
@@ -2439,7 +2439,7 @@
       "url": "https://www.mythictrap.com/en",
       "originalText": "Raid boss strategies, details and easy to understand guides for World of Warcraft Raids.",
       "locale": "en-US",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "329198a9e7ccd627453e8d65e53356b72b4258b181901a5c77ef4af5f7b09ef0"
     },
     {
@@ -2458,7 +2458,7 @@
       "url": "https://www.mythictrap.com/en",
       "originalText": "Mythic Trap",
       "locale": "en-US",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "41916f6689a8f9fcd131ca2df23df58a4b9faca62f0e529dccd7cfdd4ad36fa5"
     },
     {
@@ -2477,7 +2477,7 @@
       "url": "https://www.mythictrap.com/en/vs-dr-mqd/imperator-averzian",
       "originalText": "Imperator Averzian",
       "locale": "en-US",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "4f87ab7287f176ca3910f98c4f17baf363cb2c109577222d7368b26cae1939b7"
     },
     {
@@ -2496,7 +2496,7 @@
       "url": "https://www.mythictrap.com/en/vs-dr-mqd/vorasius",
       "originalText": "Vorasius",
       "locale": "en-US",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "5c563654f016ad22ebef95888110d48beff63e0ddc7f1d01b56018c46635b39f"
     },
     {
@@ -2515,7 +2515,7 @@
       "url": "https://www.mythictrap.com/en/vs-dr-mqd/vaelgor-and-ezzorak",
       "originalText": "Vaelgor & Ezzorak",
       "locale": "en-US",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "b621038a944a67498cb1d13f3fc2aef3d2b3fd7a2f99562c58faf88cc307c56d"
     },
     {
@@ -2534,7 +2534,7 @@
       "url": "https://www.mythictrap.com/en/vs-dr-mqd/fallen-king-salhadaar",
       "originalText": "Fallen-King Salhadaar",
       "locale": "en-US",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "2561bb2190b0fbbc6d04bd9003287d276b343c12650600e8b85cafc1a64a5ff9"
     },
     {
@@ -2553,7 +2553,7 @@
       "url": "https://www.mythictrap.com/en/vs-dr-mqd/lightblinded-vanguard",
       "originalText": "Lightblinded Vanguard",
       "locale": "en-US",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "2d43037a96ec81f5526a171af445da5f17dc539ac127aab8ace26b25dcdf9cb7"
     },
     {
@@ -2572,7 +2572,7 @@
       "url": "https://www.mythictrap.com/en/vs-dr-mqd/crown-of-the-cosmos",
       "originalText": "Crown of the Cosmos",
       "locale": "en-US",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "24df5c8a175121d6a60021c991fbb8e6d15a0da3f24a5b1a56ee2f6dd03596de"
     },
     {
@@ -2591,7 +2591,7 @@
       "url": "https://www.mythictrap.com/en/vs-dr-mqd/chimaerus-the-undreamt-god",
       "originalText": "Chimaerus the Undreamt God",
       "locale": "en-US",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "6e8194f845d3bdb58c9fb6eb7dff6e5e16a9932870642de7951b66d866f958aa"
     },
     {
@@ -2610,7 +2610,7 @@
       "url": "https://www.mythictrap.com/en/vs-dr-mqd/beloren-child-of-alar",
       "originalText": "Belo&#x27;ren, Child of Al&#x27;ar",
       "locale": "en-US",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "4206c8248bef63874eb3abaafae857e1d6ec382f88bd64e7e978301b44711928"
     },
     {
@@ -2629,7 +2629,7 @@
       "url": "https://www.mythictrap.com/en/vs-dr-mqd/midnight-falls",
       "originalText": "Midnight Falls",
       "locale": "en-US",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "5f7416336b460366f19714954fafd6298af2e8d86cd090144ad6f5aee209a533"
     },
     {
@@ -2648,7 +2648,7 @@
       "url": "https://www.mythictrap.com/en/siege-of-orgrimmar/immerseus",
       "originalText": "Immerseus",
       "locale": "en-US",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "a46cf82d1d6bb89d86e937b965cf0515ca99594a368008ac403f9eaf5d1e2d96"
     },
     {
@@ -2667,7 +2667,7 @@
       "url": "https://www.mythictrap.com/en/siege-of-orgrimmar/fallen-protectors",
       "originalText": "Fallen Protectors",
       "locale": "en-US",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "6e8d0a3da3364700547db5954448e6c4b566591d0664da05d2bacaf9a375195d"
     },
     {
@@ -2686,7 +2686,7 @@
       "url": "https://www.mythictrap.com/en/siege-of-orgrimmar/norushen",
       "originalText": "Norushen",
       "locale": "en-US",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "b714a227a5e7257d28c4e4a45928d5dc09176234304944266f5672cd0bb46d03"
     },
     {
@@ -2705,7 +2705,7 @@
       "url": "https://www.mythictrap.com/en/siege-of-orgrimmar/sha-of-pride",
       "originalText": "Sha of Pride",
       "locale": "en-US",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "5c5d1039d22465c4c48b1a5adb2e1d5097ad5af382d194aee55e6c480967d715"
     },
     {
@@ -2724,7 +2724,7 @@
       "url": "https://www.mythictrap.com/en/siege-of-orgrimmar/galakras",
       "originalText": "Galakras",
       "locale": "en-US",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "a9b0c4d85dfa529a65c80d6d60e08ebce915a68e1d789700e04cc14e3a0e1011"
     },
     {
@@ -2743,7 +2743,7 @@
       "url": "https://www.mythictrap.com/en/siege-of-orgrimmar/iron-juggernaut",
       "originalText": "Iron Juggernaut",
       "locale": "en-US",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "65e2116a43d16236559655d259cb2133ecb721bb23ec36eedbb0c8c3ef723afa"
     },
     {
@@ -2762,7 +2762,7 @@
       "url": "https://www.mythictrap.com/en/siege-of-orgrimmar/korkron-dark-shaman",
       "originalText": "Kor&#x27;kron Dark Shaman",
       "locale": "en-US",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "17685bb8fecf7f80d4364c00ea57a38a93ab775eb198d4a92927b858a8570c33"
     },
     {
@@ -2781,7 +2781,7 @@
       "url": "https://www.mythictrap.com/en/siege-of-orgrimmar/general-nazgrim",
       "originalText": "General Nazgrim",
       "locale": "en-US",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "78be79b0960a1b92a9d16b66080f987f70321ec4ce164d3342462d4f801f8652"
     },
     {
@@ -2800,7 +2800,7 @@
       "url": "https://www.mythictrap.com/en/siege-of-orgrimmar/malkorok",
       "originalText": "Malkorok",
       "locale": "en-US",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "db810cdb6884fee2a6ba7a0eec2ce303eda86b499fc24b66ee8f866bda4bbd4e"
     },
     {
@@ -2819,7 +2819,7 @@
       "url": "https://www.mythictrap.com/en/siege-of-orgrimmar/spoils-of-pandaria",
       "originalText": "Spoils of Pandaria",
       "locale": "en-US",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "97abfad0743b0c0b9c5c0ea6d6d9cbe8e86e5ab3fad64c83481e461310469611"
     },
     {
@@ -2838,7 +2838,7 @@
       "url": "https://www.mythictrap.com/en/siege-of-orgrimmar/thok-the-bloodthirsty",
       "originalText": "Thok the Bloodthirsty",
       "locale": "en-US",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "9cd4e2be5782520e7568c8b8a72ac847200cd09775f94db018e091d104107c64"
     },
     {
@@ -2857,7 +2857,7 @@
       "url": "https://www.mythictrap.com/en/siege-of-orgrimmar/siegecrafter-blackfuse",
       "originalText": "Siegecrafter Blackfuse",
       "locale": "en-US",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "bac9589b9aeba85468fcac03960c6bf8150bbf9b50c753f0bb3f3abf1d537cf2"
     },
     {
@@ -2876,7 +2876,7 @@
       "url": "https://www.mythictrap.com/en/siege-of-orgrimmar/paragons-of-the-klaxxi",
       "originalText": "Paragons of the Klaxxi",
       "locale": "en-US",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "b4f840a546f0b8049c57ef3419dbf79c7067cf81fc446fac5d33a9079fb41f8e"
     },
     {
@@ -2895,7 +2895,7 @@
       "url": "https://www.mythictrap.com/en/siege-of-orgrimmar/garrosh-hellscream",
       "originalText": "Garrosh Hellscream",
       "locale": "en-US",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "e2d998349200048eaeeef58a445789053909b325642f852644c4f66c7f702f12"
     },
     {
@@ -2914,7 +2914,7 @@
       "url": "https://www.mythictrap.com/en/throne-of-thunder/jinrokh-the-breaker",
       "originalText": "Jin&#x27;rokh the Breaker",
       "locale": "en-US",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "3795904e8783ed0aee4c197cf500f8d3bee5b85d65140058d468ec8c224b8d49"
     },
     {
@@ -2933,7 +2933,7 @@
       "url": "https://www.mythictrap.com/en/throne-of-thunder/horridon",
       "originalText": "Horridon",
       "locale": "en-US",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "df3c5b0989a730f1dab4296c231b2563962cc2e5a3cefe61e2f6d64ea18f9d70"
     },
     {
@@ -2952,7 +2952,7 @@
       "url": "https://www.mythictrap.com/en/throne-of-thunder/council-of-elders",
       "originalText": "Council of Elders",
       "locale": "en-US",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "416f20226316610a1ec2cbb6bfd0c9c7cfd0589be8559c235518039e5596b3ba"
     },
     {
@@ -2971,7 +2971,7 @@
       "url": "https://www.mythictrap.com/en/throne-of-thunder/durumu-the-forgotten",
       "originalText": "Durumu the Forgotten",
       "locale": "en-US",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "c19572a8c8eb3eef27f95710fbac55e548677cdee6154d3fceaf77ad0bcfcdf2"
     },
     {
@@ -2990,7 +2990,7 @@
       "url": "https://www.mythictrap.com/en/throne-of-thunder/primordius",
       "originalText": "Primordius",
       "locale": "en-US",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "27fe0318d6293a335511b67d4ea8f7ee9797df962dcecd18d68f1584b549216f"
     },
     {
@@ -3009,7 +3009,7 @@
       "url": "https://www.mythictrap.com/en/throne-of-thunder/dark-animus",
       "originalText": "Dark Animus",
       "locale": "en-US",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "54688eaea55ff62f4e04b2624488edb8911681a48750c5da61c71c0a054c3e4c"
     },
     {
@@ -3028,7 +3028,7 @@
       "url": "https://questionablyepic.com/",
       "originalText": "Cutting Edge World of Warcraft Theorycrafting",
       "locale": "en-US",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "705b78f0dcb8b2235fc196dc36b119aaeb721619b74934f84ae941c1e1712bfa"
     },
     {
@@ -3047,7 +3047,7 @@
       "url": "https://questionablyepic.com/",
       "originalText": "Questionably Epic",
       "locale": "en-US",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "1e173349f38439287abb27bba8dc46ef8bae86a7ae7ff5336fbcf98eba3e629d"
     },
     {
@@ -3066,7 +3066,7 @@
       "url": "https://questionablyepic.com/live",
       "originalText": "QE Live App",
       "locale": "en-US",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "fa2250742cf7ee23eb738e26effd73985b912e407271fae24ae615b8e05026d5"
     },
     {
@@ -3085,7 +3085,7 @@
       "url": "https://questionablyepic.com/blog/",
       "originalText": "Articles",
       "locale": "en-US",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "d40f1474ee50d22f789db38a1599d7d23eb45576fc2a16f0d993f4f49e16d4c5"
     },
     {
@@ -3104,7 +3104,7 @@
       "url": "https://questionablyepic.com/blog/midnight-embellishments",
       "originalText": "Midnight Embellishments",
       "locale": "en-US",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "1e016bb9a55107f8a91038534a1a6436c66cd01a668d6d1d028228601e456c3b"
     },
     {
@@ -3123,7 +3123,7 @@
       "url": "https://questionablyepic.com/blog/season-three-raid-trinkets",
       "originalText": "Season Three Raid Trinkets",
       "locale": "en-US",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "e198c1cc98c7616652843b36b368366ae9008060affe8a17638a03b32dd61a5f"
     },
     {
@@ -3142,7 +3142,7 @@
       "url": "https://questionablyepic.com/resto-druid/12.0.5",
       "originalText": "Druid Guide",
       "locale": "en-US",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "f7301c3976acb0f145291223647ac622513d66e305b05a587931953d20f7fa69"
     },
     {
@@ -3161,7 +3161,7 @@
       "url": "https://questionablyepic.com/mistweaver-monk/11.1-FAQ",
       "originalText": "Monk Guide",
       "locale": "en-US",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "6e2335efe85eff9aa87e30922b828bc790003c6c4f180b01807625defb40291c"
     },
     {
@@ -3180,7 +3180,7 @@
       "url": "https://questionablyepic.com/season-one-raids/",
       "originalText": "Season 1 Raids",
       "locale": "en-US",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "d14121a1fd9850009aff45f03abe9d25a8e76b660ed9770e5a7d04d9664daf28"
     },
     {
@@ -3199,7 +3199,7 @@
       "url": "https://questionablyepic.com/season-one-raids/imperator-averzian",
       "originalText": "Imperator Averzian",
       "locale": "en-US",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "1b5209cb8dd2376934e66bc477c10d5a1f494612b052758a1a0a1a7a876d959d"
     },
     {
@@ -3218,7 +3218,7 @@
       "url": "https://questionablyepic.com/season-one-raids/vorasius",
       "originalText": "Vorasius",
       "locale": "en-US",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "d4d8e182b4103293d6d4b4fd52451683b55a58a6009813eb0954b1ec53a5e51c"
     },
     {
@@ -3237,7 +3237,7 @@
       "url": "https://questionablyepic.com/season-one-raids/fallen-king-salhadaar",
       "originalText": "Fallen-King Salhadaar",
       "locale": "en-US",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "f1613caf276da222d87670d08ce6559d19df5b6b2fa28b9965ea6cd6bf151426"
     },
     {
@@ -3256,7 +3256,7 @@
       "url": "https://questionablyepic.com/season-one-raids/vaelgor-and-ezzorak",
       "originalText": "Vaelgor and Ezzorak",
       "locale": "en-US",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "7ffe4534ddac4a5445b5c8390491297013ede262687d4ea76c8b4ef66d9a833c"
     },
     {
@@ -3275,7 +3275,7 @@
       "url": "https://questionablyepic.com/season-one-raids/lightblinded-vanguard",
       "originalText": "Lightblinded Vanguard",
       "locale": "en-US",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "e9864cb2ea2d98b3d6e02506f44246e34da468d61328eb6edc83b3120c7d5f25"
     },
     {
@@ -3294,7 +3294,7 @@
       "url": "https://questionablyepic.com/season-one-raids/crown-of-the-cosmos",
       "originalText": "Crown of the Cosmos",
       "locale": "en-US",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "b66b6727039abcaab53b50b1a5cafbe1d410745e75b3c3191cfbe6eabee86a43"
     },
     {
@@ -3313,7 +3313,7 @@
       "url": "https://questionablyepic.com/season-one-raids/chimaerus",
       "originalText": "Chimaerus",
       "locale": "en-US",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "7b9bded9df92599b172d3aec1f6227921868b8e550aba2b96360f433f3439e6b"
     },
     {
@@ -3332,7 +3332,7 @@
       "url": "https://questionablyepic.com/season-one-raids/beloren",
       "originalText": "Belo&#x27;ren",
       "locale": "en-US",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "bfae6afb1c8b16a7839700d99e1cdc942b41676df7b962b22cd2162fad0f1abf"
     },
     {
@@ -3351,7 +3351,7 @@
       "url": "https://questionablyepic.com/season-one-raids/midnight-falls",
       "originalText": "Midnight Falls",
       "locale": "en-US",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "a12660db365841647c889f2895fb475330a4d6ad028dc4cf0eadb789c6e43d53"
     },
     {
@@ -3370,7 +3370,7 @@
       "url": "https://questionablyepic.com/resto-druid/spells",
       "originalText": "Resto Druid Upgrade your Druid gameplay with the QE comprehensive guide to raid and Mythic+. Updated for 12.0!",
       "locale": "en-US",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "409de00b895cf8c964a0399ecf842518c815234b31442d39f924dbf04d0b62d7"
     },
     {
@@ -3390,7 +3390,7 @@
       "url": "https://raider.io/cn/",
       "originalText": "A top World of Warcraft (WoW) Mythic+ and Raiding site featuring character & guild profiles, Mythic+ Scores, Raid Progress, Guild Recruitment, the Race to World First, and more.",
       "locale": "en-US",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "abf93b99d94f2cacb6dee6e8faaf4284fa01c81312ffb4d697974f73f90ca8a5"
     },
     {
@@ -3408,7 +3408,7 @@
       "url": "https://simplearmory.com/",
       "originalText": "Simplified armory site for World of Warcraft",
       "locale": "en-US",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "ad6880dec7732abf9dce96ea504e198cd44fc18e2b8c5f52ea27b02162259efe"
     },
     {
@@ -3428,7 +3428,7 @@
       "url": "https://www.skill-capped.com/wowarticles/",
       "originalText": "Expert World of Warcraft PvP guides, tier lists, and strategies from Skill Capped.",
       "locale": "en-US",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "6a97508b9dfc982ebd3a38cc31eb2335c6fdafc027e2daaf9f9beccb546afb66"
     },
     {
@@ -3448,7 +3448,7 @@
       "url": "https://www.skill-capped.com/wowarticles/tbc/",
       "originalText": "TBC Classic Switch",
       "locale": "en-US",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "2455f5e78942a7f2da1219299709d476549f99f997c2e6a8367eb89547b42b55"
     },
     {
@@ -3468,7 +3468,7 @@
       "url": "https://www.skill-capped.com/wowarticles/mop/",
       "originalText": "MoP Classic Switch",
       "locale": "en-US",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "9bd1b789d1cc099c79cea113b8a9c1e6b39e1233aabc3f453e081de7d2ddcfb4"
     },
     {
@@ -3488,7 +3488,7 @@
       "url": "https://www.skill-capped.com/wowarticles/general/pvp-addons-ui-guide/",
       "originalText": "UI & Addons",
       "locale": "en-US",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "9c466601311561aa4261795de6901b03fe3604e37cde231fff3608ad5831935b"
     },
     {
@@ -3508,7 +3508,7 @@
       "url": "https://www.skill-capped.com/wowarticles/why-skill-capped/",
       "originalText": "Why Skill Capped",
       "locale": "en-US",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "59a1053dd1dbaec45c6c5e8a0f7c3a3b6d0e13a03ec7cbf8030cc62472496cba"
     },
     {
@@ -3528,7 +3528,7 @@
       "url": "https://www.skill-capped.com/wowarticles/guides/devourer-demon-hunter-pvp-guide/",
       "originalText": "Devourer",
       "locale": "en-US",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "8e6d697176de0f200d0abe8ef60878b2c0c7427c5d5a24284f841215834251b7"
     },
     {
@@ -3548,7 +3548,7 @@
       "url": "https://www.skill-capped.com/wowarticles/guides/restoration-druid-pvp-guide/",
       "originalText": "Restoration",
       "locale": "en-US",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "b7eba3679e3c445ef6db1525942e37d6eb63807fd8890bcda1c9d93d6128638e"
     },
     {
@@ -3568,7 +3568,7 @@
       "url": "https://www.skill-capped.com/wowarticles/guides/augmentation-evoker-pvp-guide/",
       "originalText": "Augmentation",
       "locale": "en-US",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "d84e69e3c18bdb00f51cc1b99f2015995d1b424639514175cdba070ccf46ad3a"
     },
     {
@@ -3588,7 +3588,7 @@
       "url": "https://www.skill-capped.com/wowarticles/guides/devastation-evoker-pvp-guide/",
       "originalText": "Devastation",
       "locale": "en-US",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "7da0af58355f8d2eca96059ad67718dfa2f300ce60f52b15843ad191cacd3313"
     },
     {
@@ -3608,7 +3608,7 @@
       "url": "https://www.skill-capped.com/wowarticles/guides/preservation-evoker-pvp-guide/",
       "originalText": "Preservation",
       "locale": "en-US",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "542319da78c13df9208c5d746f0104e944032b79edfb3df24bd3c65e1a7d6a9a"
     },
     {
@@ -3628,7 +3628,7 @@
       "url": "https://www.skill-capped.com/wowarticles/guides/beast-mastery-hunter-pvp-guide/",
       "originalText": "Beast Mastery",
       "locale": "en-US",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "056b78452904b5372231c1cdb7bf9c40911f5fecfbce96a0a25ed022a571bc2f"
     },
     {
@@ -3648,7 +3648,7 @@
       "url": "https://www.skill-capped.com/wowarticles/guides/marksmanship-hunter-pvp-guide/",
       "originalText": "Marksmanship",
       "locale": "en-US",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "395b378944e62526fbdb4de1b8899680a0e8d504b77f4a9ee3857a7d4462adc2"
     },
     {
@@ -3668,7 +3668,7 @@
       "url": "https://www.skill-capped.com/wowarticles/guides/survival-hunter-pvp-guide/",
       "originalText": "Survival",
       "locale": "en-US",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "8b3c0a1a1404cabd249e494b90d0e9128b355b1b464d97f7b0d9425c5e841d68"
     },
     {
@@ -3688,7 +3688,7 @@
       "url": "https://www.skill-capped.com/wowarticles/guides/mistweaver-monk-pvp-guide/",
       "originalText": "Mistweaver",
       "locale": "en-US",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "2c3740974e966f27ae1a65d9bcda958d353fb448f213638ecc649c0b1a2dc620"
     },
     {
@@ -3708,7 +3708,7 @@
       "url": "https://www.skill-capped.com/wowarticles/guides/windwalker-monk-pvp-guide/",
       "originalText": "Windwalker",
       "locale": "en-US",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "6b24ae3e91f917be9ae8741cdfc427a3e06ffd9aa91dcf2ababe473597a4c26e"
     },
     {
@@ -3728,7 +3728,7 @@
       "url": "https://www.skill-capped.com/wowarticles/guides/retribution-paladin-pvp-guide/",
       "originalText": "Retribution",
       "locale": "en-US",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "df7b533d9f01bd6798ac3f83b5b06c2163157df3d5069aee1a8bb7448980806d"
     },
     {
@@ -3748,7 +3748,7 @@
       "url": "https://www.skill-capped.com/wowarticles/guides/discipline-priest-pvp-guide/",
       "originalText": "Discipline",
       "locale": "en-US",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "433942dc18d9b54a8577b18844a9e49f8ad19942f1828c7728952a3286593cb2"
     },
     {
@@ -3768,7 +3768,7 @@
       "url": "https://www.skill-capped.com/wowarticles/guides/assassination-rogue-pvp-guide/",
       "originalText": "Assassination",
       "locale": "en-US",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "08a8316ccd43b5ad9e35e917cffcd99f9b465f29b8e99b61983c71238d358ddf"
     },
     {
@@ -3788,7 +3788,7 @@
       "url": "https://www.skill-capped.com/wowarticles/guides/subtlety-rogue-pvp-guide/",
       "originalText": "Subtlety",
       "locale": "en-US",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "e3b2d5d7885b7af3da9145f399ffde8cabd8d517bddff76987d9121acb954e33"
     },
     {
@@ -3808,7 +3808,7 @@
       "url": "https://www.skill-capped.com/wowarticles/guides/elemental-shaman-pvp-guide/",
       "originalText": "Elemental",
       "locale": "en-US",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "a3f6bb5027f3ffdf94cad94a5dc04d776d2779d3449a3265060e89963c210a9a"
     },
     {
@@ -3828,7 +3828,7 @@
       "url": "https://www.skill-capped.com/wowarticles/guides/enhancement-shaman-pvp-guide/",
       "originalText": "Enhancement",
       "locale": "en-US",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "9479af165f94df5c3053da90759b3527e1c48562182c56c88c958d6d9aa88441"
     },
     {
@@ -3848,7 +3848,7 @@
       "url": "https://www.skill-capped.com/wowarticles/guides/restoration-shaman-pvp-guide/",
       "originalText": "Restoration",
       "locale": "en-US",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "ff58fb4c461fd6c5f2b388c31a8269dd8e5d146a8ca3825dfa928994c78ce173"
     },
     {
@@ -3868,7 +3868,7 @@
       "url": "https://www.skill-capped.com/wowarticles/guides/affliction-warlock-pvp-guide/",
       "originalText": "Affliction",
       "locale": "en-US",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "760a555d361d0e75f12973929740a2089903d69f399511dcf3409d63b508578b"
     },
     {
@@ -3888,7 +3888,7 @@
       "url": "https://www.skill-capped.com/wowarticles/guides/demonology-warlock-pvp-guide/",
       "originalText": "Demonology",
       "locale": "en-US",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "9a49e6f1e9b3207be3807d6581797898e4db435f27842d5d6e40825359f9aff2"
     },
     {
@@ -3908,7 +3908,7 @@
       "url": "https://www.skill-capped.com/wowarticles/guides/destruction-warlock-pvp-guide/",
       "originalText": "Destruction",
       "locale": "en-US",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "7da54395fab2ba5e902d644f1a408f953b168de08018849c0898a7c1d7457e87"
     },
     {
@@ -3926,7 +3926,7 @@
       "url": "https://www.warcraftmounts.com/",
       "originalText": "A field guide to mounts in the World of Warcraft.",
       "locale": "en-US",
-      "discoveredAt": "2026-07-29T20:19:06.783Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "9b0c0cfc7e0dbd2c69577268153ec6b1053f67e2c6afdf037f244aaf6a87e6c3"
     },
     {
@@ -3946,7 +3946,7 @@
       "url": "https://warcraft-secrets.com/",
       "originalText": "Warcraft Secrets is a World of Warcraft fan website that documents all WoW Secrets, featuring news and guides for in-game collectibles.",
       "locale": "en-US",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "275bf086f2241c7b50a92d0641151945f85d8eca78d95ab44c837af368cb1a72"
     },
     {
@@ -3966,7 +3966,7 @@
       "url": "https://warcraft-secrets.com/guides/hidden-achievements",
       "originalText": "Hidden Achievements",
       "locale": "en-US",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "53a8464984c1bdcfa8043308e12c67c1919093ea4cbcc34d36ebaf0a35f4a195"
     },
     {
@@ -3986,7 +3986,7 @@
       "url": "https://warcraft-secrets.com/guides/secret-battle-pets",
       "originalText": "Hidden Battle Pets",
       "locale": "en-US",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "7c47ef9efa82be7d76158cde8433e1f8512d52f3a352c7986b77e9f542e75d52"
     },
     {
@@ -4006,7 +4006,7 @@
       "url": "https://warcraft-secrets.com/guides/hidden-battle-pet-vendors",
       "originalText": "Hidden Battle Pet Vendors",
       "locale": "en-US",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "ca4a73ee14ae070b920309193098995db38370736dd8cc514f0732f231093b93"
     },
     {
@@ -4026,7 +4026,7 @@
       "url": "https://warcraft-secrets.com/guides/hidden-toys",
       "originalText": "Hidden Toys",
       "locale": "en-US",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "076e23d83e7ed27ebad96122256e519e59088895d1e405693c6fac14b16f7d83"
     },
     {
@@ -4046,7 +4046,7 @@
       "url": "https://warcraft-secrets.com/guides/hidden-transmog",
       "originalText": "Hidden Transmog",
       "locale": "en-US",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "614c8648884ad2f463a6d494f9957d92bcb99960e21ae17436cdbb0c085c9348"
     },
     {
@@ -4066,7 +4066,7 @@
       "url": "https://warcraft-secrets.com/guides/hidden-weapon-illusions",
       "originalText": "Hidden Weapon Illusions",
       "locale": "en-US",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "b071f6ba7b136fac9e8c8121943dc6c01a29846d97cae91ac09e67ab2d9c1115"
     },
     {
@@ -4086,7 +4086,7 @@
       "url": "https://warcraft-secrets.com/guides/dragonflight-secrets",
       "originalText": "Dragonflight Secrets",
       "locale": "en-US",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "cbfb88f59f145f9e93adb03f9d8a678dd28a67cd35dff06142fe296cbdec26ea"
     },
     {
@@ -4106,7 +4106,7 @@
       "url": "https://warcraft-secrets.com/guides/shadowlands-secrets",
       "originalText": "Shadowlands Secrets",
       "locale": "en-US",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "075b3a3ad2877917c07495ee05d4972068c062f6057a05d137b0c5291a3123c3"
     },
     {
@@ -4126,7 +4126,7 @@
       "url": "https://warcraft-secrets.com/guides/battle-for-azeroth-secrets",
       "originalText": "Battle for Azeroth Secrets",
       "locale": "en-US",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "e2d730845fb84a26d9a01468fccc7df8fb4b2f41f3356a897905bf0a607778ea"
     },
     {
@@ -4146,7 +4146,7 @@
       "url": "https://warcraft-secrets.com/guides/legion-secrets",
       "originalText": "Legion Secrets",
       "locale": "en-US",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "f245201b49cfacf3dee71f4375d3741d2409ccfa20bf77841e9b9891fcfa1cde"
     },
     {
@@ -4166,7 +4166,7 @@
       "url": "https://warcraft-secrets.com/guides/warlords-of-draenor-secrets",
       "originalText": "Warlords of Draenor Secrets",
       "locale": "en-US",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "aa71a0a8d8beac5daded0bcdfb7781e5a4718265ea7d4497338d96e4d2a66771"
     },
     {
@@ -4186,7 +4186,7 @@
       "url": "https://warcraft-secrets.com/guides/mists-of-pandaria-secrets",
       "originalText": "Mists of Pandaria Secrets",
       "locale": "en-US",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "d4c3077fb85b3aecea01e004e691718af20866173ea92d792c409f06ffdee32c"
     },
     {
@@ -4206,7 +4206,7 @@
       "url": "https://warcraft-secrets.com/guides/incognitro-the-indecipherable-felcycle",
       "originalText": "Incognitro",
       "locale": "en-US",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "ba8f565d8282cc7611eb70af2438d2938098ac80a9a53067260c1d789e4495dc"
     },
     {
@@ -4226,7 +4226,7 @@
       "url": "https://warcraft-secrets.com/guides/secrets-of-azeroth-world-event",
       "originalText": "Secrets of Azeroth",
       "locale": "en-US",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "451e1f85c09e7e1c7fbbc5b7905a840e5cc4079d119daa3e0f94fdf253e62e69"
     },
     {
@@ -4246,7 +4246,7 @@
       "url": "https://warcraft-secrets.com/guides/memory-of-scholomance",
       "originalText": "Memory of Scholomance",
       "locale": "en-US",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "e76819a16a976269638377a3eb1fd218fc39f5186714712b65ab45214a7acf7b"
     },
     {
@@ -4266,7 +4266,7 @@
       "url": "https://warcraft-secrets.com/guides/naxxramas-ancient-secrets",
       "originalText": "Naxxramas Ancient Secrets",
       "locale": "en-US",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "33c91cfd1565fb9ed994949194301f0fa6957b3921e100e1a84b5cfead8fe692"
     },
     {
@@ -4286,7 +4286,7 @@
       "url": "https://warcraft-secrets.com/guides/the-hivemind",
       "originalText": "The Hivemind",
       "locale": "en-US",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "87bbbe7ebd3b5af69c6e204fe4e86ffd64bbff4d36799c18de849dd8276b02e1"
     },
     {
@@ -4306,7 +4306,7 @@
       "url": "https://warcraft-secrets.com/guides/waist-of-time",
       "originalText": "Waist of Time",
       "locale": "en-US",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "feb4f434db87c008eafd098c6b372dcfea39c35e34d2f4c2b10284362bd0ac45"
     },
     {
@@ -4326,7 +4326,7 @@
       "url": "https://warcraft-secrets.com/guides/lucid-nightmare",
       "originalText": "Lucid Nightmare",
       "locale": "en-US",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "6c5ad5b60db387784fe98324d3a5d203306a8dcc03dbac1e395433ff6be87f0d"
     },
     {
@@ -4346,7 +4346,7 @@
       "url": "https://warcraft-secrets.com/guides/sun-darter-hatchling",
       "originalText": "Sun Darter Hatchling",
       "locale": "en-US",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "28e6e26cfbda2484a3aef10ed67b130d64363fc7b38f65941dfd94887be4a61a"
     },
     {
@@ -4866,7 +4866,7 @@
       "url": "https://warcraft.wiki.gg/wiki/Warcraft_Wiki",
       "originalText": "The Warcraft Wiki is an officially-recognized wiki dedicated to cataloging Blizzard Entertainment&#039;s Warcraft universe (with a focus on World of Warcraft), covering the entire Warcraft series of games, strategy guides, novels, comics, reference books, and other sources.",
       "locale": "en-US",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "c62761c21144e9a9829f12cdf8dac403d83fea9e76b88c30e0e6e3bae737168d"
     },
     {
@@ -4886,7 +4886,7 @@
       "url": "https://worldofwarcraft.blizzard.com/en-us/news",
       "originalText": "All the latest news and updates coming to World of Warcraft including developer updates, patch releases and more.",
       "locale": "en-US",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "24785a4d9c5e1c417c91ec5e8f02d944b000b02f34f48f9f3dcc91d16cba80ac"
     },
     {
@@ -4905,7 +4905,7 @@
       "url": "https://wowarenalogs.com/",
       "originalText": "WoW Arena Logs is the best tool available to help you analyze your own arena matches and learn from the community.",
       "locale": "en-US",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "00649ed298b26f561303216dfffa44d7f49d5803013487f9f3b1531eaae8b6af"
     },
     {
@@ -4925,7 +4925,7 @@
       "url": "https://www.wow-professions.com/midnight",
       "originalText": "All my Midnight profession guides. Leveling paths, specialization builds, knowledge sources, and recipe lists.",
       "locale": "en-US",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "f38bcbbbddd96b668e5548d35aaadc3c8a25e5867740e04d42759048273aacc3"
     },
     {
@@ -4945,7 +4945,7 @@
       "url": "https://www.wow-professions.com/midnight",
       "originalText": "Midnight",
       "locale": "en-US",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "1eb835185dc4d2853c1a11fbe5266858ac40b4114616de9da0b0466d2f53972e"
     },
     {
@@ -4965,7 +4965,7 @@
       "url": "https://www.wow-professions.com/classic",
       "originalText": "Classic Era",
       "locale": "en-US",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "a6a48ff9d46b4e73fe193d883c9dc5bc2ee166c7f664cb816e0ee1746165f22e"
     },
     {
@@ -4985,7 +4985,7 @@
       "url": "https://www.wow-professions.com/profession-leveling-guides",
       "originalText": "Profession Leveling",
       "locale": "en-US",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "5cc2ac0f6ff991fd2fcab962caf9335317db9c0a42f2619b4caf3ffac54bb9a8"
     },
     {
@@ -5005,7 +5005,7 @@
       "url": "https://www.wow-professions.com/support",
       "originalText": "Go Ad Free",
       "locale": "en-US",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "c3d60f8fc9e3c468691151a66804386df9ec3a75c4c93fca5ad71bee9ecef642"
     },
     {
@@ -5025,7 +5025,7 @@
       "url": "https://www.wow-professions.com/contact",
       "originalText": "Feedback",
       "locale": "en-US",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "d0302ad61f965ac5281a779d178d5e3ca4106ba541405a03fe7e2d6492440d09"
     },
     {
@@ -5045,7 +5045,7 @@
       "url": "https://www.wow-professions.com/guides/wow-alchemy-leveling-guide",
       "originalText": "Leveling",
       "locale": "en-US",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "2f6f3778d38124fa9ea2c8d10c7948277348f50025b3e27a56e3d90832c75eb8"
     },
     {
@@ -5065,7 +5065,7 @@
       "url": "https://www.wow-professions.com/midnight/alchemy-guide",
       "originalText": "Recipes, Knowledge",
       "locale": "en-US",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "e3ffed0a3fccec7770e3e015ef176c55d95deac1ff3ee67822d6785ef28cecf8"
     },
     {
@@ -5085,7 +5085,7 @@
       "url": "https://www.wow-professions.com/midnight/alchemy-specialization-guide-and-builds",
       "originalText": "Specializations",
       "locale": "en-US",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "fac7591a7cc9b39cfa3d6fb3475d42e9e38e5c33de5a5a35aeb93b93e3186932"
     },
     {
@@ -5105,7 +5105,7 @@
       "url": "https://www.wow-professions.com/guides/wow-blacksmithing-leveling-guide",
       "originalText": "Leveling",
       "locale": "en-US",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "26150d8b4cd35183331b08902dbfe10796a95d540d483c8a1d1d6c662a56949a"
     },
     {
@@ -5125,7 +5125,7 @@
       "url": "https://www.wow-professions.com/midnight/blacksmithing-guide",
       "originalText": "Recipes, Knowledge",
       "locale": "en-US",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "36110b0f34024a2756298e3575b9d46355769a639bd1e6d4b9cf47cbb319d003"
     },
     {
@@ -5145,7 +5145,7 @@
       "url": "https://www.wow-professions.com/midnight/blacksmithing-specialization-guide-and-builds",
       "originalText": "Specializations",
       "locale": "en-US",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "c5e82a4b1eae69db6386576bd92a1411c1739019af09bacda23901000c9ccf41"
     },
     {
@@ -5165,7 +5165,7 @@
       "url": "https://www.wow-professions.com/guides/wow-enchanting-leveling-guide",
       "originalText": "Leveling",
       "locale": "en-US",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "942910bca5db1df888fd16d699cabd4feb448d681df1c3770f8eae6a7455ee2a"
     },
     {
@@ -5185,7 +5185,7 @@
       "url": "https://www.wow-professions.com/midnight/enchanting-guide",
       "originalText": "Recipes, Knowledge",
       "locale": "en-US",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "130fd5bb5e46847b11b66fb34e6bb1eb5cf34c845a23756f5dded75f39603643"
     },
     {
@@ -5205,7 +5205,7 @@
       "url": "https://www.wow-professions.com/midnight/enchanting-specialization-guide-and-builds",
       "originalText": "Specializations",
       "locale": "en-US",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "eea65eac59c8a86e8d2cf4a6b63075ee3a53c718ca36ebbada83731dafd7a9a9"
     },
     {
@@ -5225,7 +5225,7 @@
       "url": "https://www.wow-professions.com/guides/wow-engineering-leveling-guide",
       "originalText": "Leveling",
       "locale": "en-US",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "712859f4fffeefdd5612f04d3b3d991916b4008ad023041d0fafd3832dc72930"
     },
     {
@@ -5245,7 +5245,7 @@
       "url": "https://www.wow-professions.com/midnight/engineering-guide",
       "originalText": "Recipes, Knowledge",
       "locale": "en-US",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "1d897c4805e805cc509bca043be98af00c3f812b6c781c4920410bcd9b5c8de9"
     },
     {
@@ -5265,7 +5265,7 @@
       "url": "https://www.wow-professions.com/midnight/engineering-specialization-guide-and-builds",
       "originalText": "Specializations",
       "locale": "en-US",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "7e9d6983f884981144e8581b2c7cbf4baa57027101da7c7cf1205ed2d12fba1e"
     },
     {
@@ -5285,7 +5285,7 @@
       "url": "https://www.wow-professions.com/guides/wow-inscription-leveling-guide",
       "originalText": "Leveling",
       "locale": "en-US",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "7ea5dc64970962cdf5076ac05fbf1e1d6be78127a3732291754f1f27b783d3d5"
     },
     {
@@ -5305,7 +5305,7 @@
       "url": "https://www.wow-professions.com/midnight/inscription-guide",
       "originalText": "Recipes, Knowledge",
       "locale": "en-US",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "fcae0eac3c30b3003f94c6c4f9740b373b2da57ba0141074fe37604ff9a15447"
     },
     {
@@ -5325,7 +5325,7 @@
       "url": "https://www.wow-professions.com/midnight/inscription-specialization-guide-and-builds",
       "originalText": "Specializations",
       "locale": "en-US",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "24932e78e1526d5a4fefd86c95af64f12f52e221b5faf6d295645c4ab34aaca5"
     },
     {
@@ -5345,7 +5345,7 @@
       "url": "https://www.wow-professions.com/guides/wow-jewelcrafting-leveling-guide",
       "originalText": "Leveling",
       "locale": "en-US",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "c065bbae0464a2b8df048ad0bc048602f62ce9dc8423890fe13b9bc1ab2a156a"
     },
     {
@@ -5365,7 +5365,7 @@
       "url": "https://www.wow-professions.com/midnight/jewelcrafting-guide",
       "originalText": "Recipes, Knowledge",
       "locale": "en-US",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "6dd0f2efb70419cd46f60bf4a6817e5dfa513ebbd7a1eb5e1b7bf050f619eab6"
     },
     {
@@ -5385,7 +5385,7 @@
       "url": "https://www.wow-professions.com/midnight/jewelcrafting-specialization-guide-and-builds",
       "originalText": "Specializations",
       "locale": "en-US",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "5e71a15fb56fc116a108ab8db2c9c4f2beb6c42df4f13d44ebc73b62a9a500ea"
     },
     {
@@ -5405,7 +5405,7 @@
       "url": "https://www.wow-professions.com/guides/wow-leatherworking-leveling-guide",
       "originalText": "Leveling",
       "locale": "en-US",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "c842b7e40f044a024bc2489cad878f7483dc088f8842dbad75dbde4a727f8b20"
     },
     {
@@ -5425,7 +5425,7 @@
       "url": "https://www.wow-professions.com/midnight/leatherworking-guide",
       "originalText": "Recipes, Knowledge",
       "locale": "en-US",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "c9bbb812db7af3321389c8a328515e66ccb4465026adebb05adf5226fae09a3a"
     },
     {
@@ -5445,7 +5445,7 @@
       "url": "https://www.wow-professions.com/midnight/leatherworking-specialization-guide-and-builds",
       "originalText": "Specializations",
       "locale": "en-US",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "20896b372cf7b7deb73568bea9f13595cc5d316caea9d0b6551ecf403b9ad380"
     },
     {
@@ -5465,7 +5465,7 @@
       "url": "https://www.wow-professions.com/guides/wow-tailoring-leveling-guide",
       "originalText": "Leveling",
       "locale": "en-US",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "d0071588acea6adee0887e6c7ec7d773ce4b306f0f4fdf44b3ac2b4f8455abc3"
     },
     {
@@ -5485,7 +5485,7 @@
       "url": "https://www.wow-professions.com/midnight/tailoring-guide",
       "originalText": "Recipes, Knowledge",
       "locale": "en-US",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "4e6486aa4d928e773927c8610815cbf091e2dd9fe58c2445964d4d1c10476e6b"
     },
     {
@@ -5504,7 +5504,7 @@
       "url": "https://wowanalyzer.com/",
       "originalText": "Use WoWAnalyzer to analyze your gameplay and get suggestions to become a better raider.",
       "locale": "en-US",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "2040091a84f516078c468d253192d3fce8ee1d9be909da9df85d32c82956463b"
     },
     {
@@ -5523,11 +5523,11 @@
       "url": "https://www.wowinterface.com/downloads/index.php",
       "originalText": "World of Warcraft Addons, Interfaces, Skins, Mods & Community.",
       "locale": "en-US",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "4679677d2a1bcf34d20adac4cb60e0909d77a64af9978bcd373e89e0e3367e75"
     },
     {
-      "id": "wowinterface:d25bc79b02e616",
+      "id": "wowinterface:d6d73bcbe2a29f",
       "sourceId": "wowinterface",
       "sourceName": "WoWInterface",
       "sourceUrl": "https://www.wowinterface.com/downloads/index.php",
@@ -5539,14 +5539,14 @@
         "工具"
       ],
       "title": "Latest 200",
-      "url": "https://www.wowinterface.com/downloads/latest.php?s=2416ce7bc4c3afdb0e5d3a152768df1a",
+      "url": "https://www.wowinterface.com/downloads/latest.php?s=c0726152575822fc3274284a7e007687",
       "originalText": "Latest 200",
       "locale": "en-US",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
-      "fingerprint": "abbe7f94e091115021de5c89bfea2c68206adbf4afb0f4044cbcd5f56888c797"
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
+      "fingerprint": "84ea0c19510eac591f134b7eca10f760c64bccd8f6fcb31182156c4338da7047"
     },
     {
-      "id": "wowinterface:8f5df7889ee530",
+      "id": "wowinterface:b106b7004173fe",
       "sourceId": "wowinterface",
       "sourceName": "WoWInterface",
       "sourceUrl": "https://www.wowinterface.com/downloads/index.php",
@@ -5558,14 +5558,14 @@
         "工具"
       ],
       "title": "Upload AddOn",
-      "url": "https://www.wowinterface.com/downloads/upload-update.php?s=2416ce7bc4c3afdb0e5d3a152768df1a",
+      "url": "https://www.wowinterface.com/downloads/upload-update.php?s=c0726152575822fc3274284a7e007687",
       "originalText": "Upload AddOn",
       "locale": "en-US",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
-      "fingerprint": "d68553ce8b5c45456ed660eceaaca3e76e3e88620939523f80def6ed941cf9d6"
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
+      "fingerprint": "751455d796b11f5ab9efa64b043c4becb5dcdffd876bd50f8e6d1f1578ff88d9"
     },
     {
-      "id": "wowinterface:3df3766d3249c8",
+      "id": "wowinterface:2434d9441caecc",
       "sourceId": "wowinterface",
       "sourceName": "WoWInterface",
       "sourceUrl": "https://www.wowinterface.com/downloads/index.php",
@@ -5577,14 +5577,14 @@
         "工具"
       ],
       "title": "Search AddOns",
-      "url": "https://www.wowinterface.com/downloads/search.php?s=2416ce7bc4c3afdb0e5d3a152768df1a&amp;",
+      "url": "https://www.wowinterface.com/downloads/search.php?s=c0726152575822fc3274284a7e007687&amp;",
       "originalText": "Search AddOns",
       "locale": "en-US",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
-      "fingerprint": "d8be3983e0ff1cbbd17de23b20a5f049a537f4065d283fd50275d37ca2012c63"
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
+      "fingerprint": "bc3cd4f10cc20626a353ccbf51222cc8a75b6de61cc47908ffa806a024e70205"
     },
     {
-      "id": "wowinterface:e2ee7a31c0ef3c",
+      "id": "wowinterface:fa0132aee15578",
       "sourceId": "wowinterface",
       "sourceName": "WoWInterface",
       "sourceUrl": "https://www.wowinterface.com/downloads/index.php",
@@ -5596,14 +5596,14 @@
         "工具"
       ],
       "title": "Survival Guide",
-      "url": "https://www.wowinterface.com/survivalguide.php?s=2416ce7bc4c3afdb0e5d3a152768df1a",
+      "url": "https://www.wowinterface.com/survivalguide.php?s=c0726152575822fc3274284a7e007687",
       "originalText": "Survival Guide",
       "locale": "en-US",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
-      "fingerprint": "9f3d5f09806c79b925adc9ac0cbd7edbbe1ea25e891bd69fea75f1598c677a8e"
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
+      "fingerprint": "526df4a8ff594ec9f6ed1ec521fe90e7cf61128c92463b379c5d2a0d4680a58a"
     },
     {
-      "id": "wowinterface:ca2152b5066dda",
+      "id": "wowinterface:aac3f373dfdf7e",
       "sourceId": "wowinterface",
       "sourceName": "WoWInterface",
       "sourceUrl": "https://www.wowinterface.com/downloads/index.php",
@@ -5615,14 +5615,14 @@
         "工具"
       ],
       "title": "Author Portals",
-      "url": "https://www.wowinterface.com/listportals.php?s=2416ce7bc4c3afdb0e5d3a152768df1a",
+      "url": "https://www.wowinterface.com/listportals.php?s=c0726152575822fc3274284a7e007687",
       "originalText": "Author Portals",
       "locale": "en-US",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
-      "fingerprint": "401e47984f095e7cb69b760d52fe01058d5a24f818bcb932b88e2cc748b5772d"
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
+      "fingerprint": "f2c6814f93eef877fd751e6f5e1406c6934181195b0af13321543c67420bfbc5"
     },
     {
-      "id": "wowinterface:b3d78d9d97bd1f",
+      "id": "wowinterface:d3e8b4c091a522",
       "sourceId": "wowinterface",
       "sourceName": "WoWInterface",
       "sourceUrl": "https://www.wowinterface.com/downloads/index.php",
@@ -5634,14 +5634,14 @@
         "工具"
       ],
       "title": "Email Feeds",
-      "url": "https://www.wowinterface.com/downloads/filecpl.php?s=2416ce7bc4c3afdb0e5d3a152768df1a&amp;action=feeds",
+      "url": "https://www.wowinterface.com/downloads/filecpl.php?s=c0726152575822fc3274284a7e007687&amp;action=feeds",
       "originalText": "Email Feeds",
       "locale": "en-US",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
-      "fingerprint": "f6adf72816f95039fedc46e8b1a4ef6479e6f85f43ca2dd8ce2f73f383517ac8"
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
+      "fingerprint": "feefcaab96ea54a568cc8fc1344a280f912feb3a48f468e60ded8efda8711dea"
     },
     {
-      "id": "wowinterface:4b523421f7a204",
+      "id": "wowinterface:04c39373b81fc7",
       "sourceId": "wowinterface",
       "sourceName": "WoWInterface",
       "sourceUrl": "https://www.wowinterface.com/downloads/index.php",
@@ -5653,14 +5653,14 @@
         "工具"
       ],
       "title": "Preference",
-      "url": "https://www.wowinterface.com/downloads/filecpl.php?s=2416ce7bc4c3afdb0e5d3a152768df1a&amp;action=modifyoptions",
+      "url": "https://www.wowinterface.com/downloads/filecpl.php?s=c0726152575822fc3274284a7e007687&amp;action=modifyoptions",
       "originalText": "Preference",
       "locale": "en-US",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
-      "fingerprint": "6964d7fe95f3703dcf4f8fafe950b174457a12d70c728036ba98c5c6b67a50af"
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
+      "fingerprint": "61fe405a030097e01c1582c52e32a006abbf8526f6538c725230eccbbd6e0f09"
     },
     {
-      "id": "wowinterface:ec46bff08c0de9",
+      "id": "wowinterface:94a9a490439c55",
       "sourceId": "wowinterface",
       "sourceName": "WoWInterface",
       "sourceUrl": "https://www.wowinterface.com/downloads/index.php",
@@ -5672,14 +5672,14 @@
         "工具"
       ],
       "title": "Download History",
-      "url": "https://www.wowinterface.com/downloads/filecpl.php?s=2416ce7bc4c3afdb0e5d3a152768df1a&amp;action=showdlhistory",
+      "url": "https://www.wowinterface.com/downloads/filecpl.php?s=c0726152575822fc3274284a7e007687&amp;action=showdlhistory",
       "originalText": "Download History",
       "locale": "en-US",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
-      "fingerprint": "2b63079a035dbec9a08421a1b8751572344e43f7219c5d037d809eb3df1d6319"
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
+      "fingerprint": "a16372a63055691f85619dd838bb3e141e082cb54e8a446d6b1ea9a20245e34c"
     },
     {
-      "id": "wowinterface:57be9dc3210a97",
+      "id": "wowinterface:76872ea636fac8",
       "sourceId": "wowinterface",
       "sourceName": "WoWInterface",
       "sourceUrl": "https://www.wowinterface.com/downloads/index.php",
@@ -5691,14 +5691,14 @@
         "工具"
       ],
       "title": "New posts",
-      "url": "https://www.wowinterface.com/forums/search.php?s=2416ce7bc4c3afdb0e5d3a152768df1a&amp;do=getnew",
+      "url": "https://www.wowinterface.com/forums/search.php?s=c0726152575822fc3274284a7e007687&amp;do=getnew",
       "originalText": "New posts",
       "locale": "en-US",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
-      "fingerprint": "aa9eb1f1385097e1e95e3f65930933a23ed6c162fe9c0ac12cfc23a4921b3377"
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
+      "fingerprint": "ae295eaf1f54a4ac306e94d8da6d7d0737ee6c78b6d275e5e4edd32b58977229"
     },
     {
-      "id": "wowinterface:02d3f918698cb7",
+      "id": "wowinterface:7903a3a6c55863",
       "sourceId": "wowinterface",
       "sourceName": "WoWInterface",
       "sourceUrl": "https://www.wowinterface.com/downloads/index.php",
@@ -5710,14 +5710,14 @@
         "工具"
       ],
       "title": "Today's Posts",
-      "url": "https://www.wowinterface.com/forums/search.php?s=2416ce7bc4c3afdb0e5d3a152768df1a&amp;do=getdaily",
+      "url": "https://www.wowinterface.com/forums/search.php?s=c0726152575822fc3274284a7e007687&amp;do=getdaily",
       "originalText": "Today's Posts",
       "locale": "en-US",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
-      "fingerprint": "79b62a04d778836b22e3bce7d292cc19bbf9fa8524a11dec226c13d29c11064c"
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
+      "fingerprint": "d7f064f952a2ad49fa7945ecd42f8ee322a860e9f1b3e7b97171b5e448789bf2"
     },
     {
-      "id": "wowinterface:66260b8ed3cf3f",
+      "id": "wowinterface:52f56cff516418",
       "sourceId": "wowinterface",
       "sourceName": "WoWInterface",
       "sourceUrl": "https://www.wowinterface.com/downloads/index.php",
@@ -5729,14 +5729,14 @@
         "工具"
       ],
       "title": "Search Forum",
-      "url": "https://www.wowinterface.com/forums/search.php?s=2416ce7bc4c3afdb0e5d3a152768df1a&amp;",
+      "url": "https://www.wowinterface.com/forums/search.php?s=c0726152575822fc3274284a7e007687&amp;",
       "originalText": "Search Forum",
       "locale": "en-US",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
-      "fingerprint": "76ae94fb1fffab90ccf9c35bc8f964a5723cf3ba1828794d33f177c8a43be2f9"
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
+      "fingerprint": "c4d34c1f6e45a14c3c92b17b4fa4e881a89e4bc11a56b40bebb289cd78fbba4f"
     },
     {
-      "id": "wowinterface:437ffac7344845",
+      "id": "wowinterface:750a3ec114ddbb",
       "sourceId": "wowinterface",
       "sourceName": "WoWInterface",
       "sourceUrl": "https://www.wowinterface.com/downloads/index.php",
@@ -5748,11 +5748,11 @@
         "工具"
       ],
       "title": "Categories",
-      "url": "https://www.wowinterface.com/forums/index.php?s=2416ce7bc4c3afdb0e5d3a152768df1a",
+      "url": "https://www.wowinterface.com/forums/index.php?s=c0726152575822fc3274284a7e007687",
       "originalText": "Categories",
       "locale": "en-US",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
-      "fingerprint": "b18bbd9361f15c8496d30d0ef8240b9db2c876f0ed323a35f7215f3d6fe807ba"
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
+      "fingerprint": "a1003e1e3d897af742e9a3f50e94d3402c2f9fa206406bd95f332051e3e905a2"
     },
     {
       "id": "wowinterface:8b65843aeda14f",
@@ -5770,7 +5770,7 @@
       "url": "https://www.wowinterface.com/forums/forumdisplay.php?f=8",
       "originalText": "AddOns, Comps, Macros",
       "locale": "en-US",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "fd736b3ee1e5d0dd06968c6c99866acc80e86997a830dd2ce131f12e5578e5d3"
     },
     {
@@ -5789,7 +5789,7 @@
       "url": "https://www.wowinterface.com/forums/forumdisplay.php?f=27",
       "originalText": "Featured Projects",
       "locale": "en-US",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "f84085fabe49dee5dd6145ae887e2fccc4773bf384a2a86ffb0eb74b9bdfc626"
     },
     {
@@ -5808,7 +5808,7 @@
       "url": "https://www.wowinterface.com/forums/forumdisplay.php?f=11",
       "originalText": "Developer",
       "locale": "en-US",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "691e9c764f8bd776b8224b681c6e54dccc31ff3d5bdf63a9d244b184d8550040"
     },
     {
@@ -5827,11 +5827,11 @@
       "url": "https://www.wowinterface.com/forums/forumdisplay.php?f=4",
       "originalText": "Site Forums",
       "locale": "en-US",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "a76a9b0435b93228524e873ff7f31b9d04220eaac7f0979d7a5085967dfda103"
     },
     {
-      "id": "wowinterface:6ddb12128e7f1b",
+      "id": "wowinterface:060ff6f1ed6434",
       "sourceId": "wowinterface",
       "sourceName": "WoWInterface",
       "sourceUrl": "https://www.wowinterface.com/downloads/index.php",
@@ -5843,14 +5843,14 @@
         "工具"
       ],
       "title": "Mark Forums Read",
-      "url": "https://www.wowinterface.com/forums/forumdisplay.php?s=2416ce7bc4c3afdb0e5d3a152768df1a&amp;do=markread",
+      "url": "https://www.wowinterface.com/forums/forumdisplay.php?s=c0726152575822fc3274284a7e007687&amp;do=markread",
       "originalText": "Mark Forums Read",
       "locale": "en-US",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
-      "fingerprint": "93f881550d3e1b40ad765932c92ea0fd50189e559415152c975ee7544d593888"
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
+      "fingerprint": "dfd5fcfb164a9b01a046b07595ff755a4295b6a5b057e297e7b2c533a40aa400"
     },
     {
-      "id": "wowinterface:c6efd5feac5dc5",
+      "id": "wowinterface:50062bd9e7fdd2",
       "sourceId": "wowinterface",
       "sourceName": "WoWInterface",
       "sourceUrl": "https://www.wowinterface.com/downloads/index.php",
@@ -5862,14 +5862,14 @@
         "工具"
       ],
       "title": "Subscribed Threads",
-      "url": "https://www.wowinterface.com/forums/subscription.php?s=2416ce7bc4c3afdb0e5d3a152768df1a",
+      "url": "https://www.wowinterface.com/forums/subscription.php?s=c0726152575822fc3274284a7e007687",
       "originalText": "Subscribed Threads",
       "locale": "en-US",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
-      "fingerprint": "5b18d6bfd0cda13c33e1dde6362468bb4d736aeca338f5b9542c94282d2c6ea2"
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
+      "fingerprint": "a39a859f45aef5daf37d683561457436f902b07e6937b8733b880ab8186becf4"
     },
     {
-      "id": "wowinterface:89fd4d55c22ac3",
+      "id": "wowinterface:4fcb36c28a004b",
       "sourceId": "wowinterface",
       "sourceName": "WoWInterface",
       "sourceUrl": "https://www.wowinterface.com/downloads/index.php",
@@ -5881,11 +5881,11 @@
         "工具"
       ],
       "title": "Members List",
-      "url": "https://www.wowinterface.com/forums/memberlist.php?s=2416ce7bc4c3afdb0e5d3a152768df1a&amp;",
+      "url": "https://www.wowinterface.com/forums/memberlist.php?s=c0726152575822fc3274284a7e007687&amp;",
       "originalText": "Members List",
       "locale": "en-US",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
-      "fingerprint": "e5866cb7815e77631937410c26f56e9bbb4d42946173f3cc0b4a19e27bf3ea56"
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
+      "fingerprint": "b4a55e9f1b4f7fab78ab387050fc40751061bd43f821cbe0f79a8721b7b78296"
     },
     {
       "id": "wowinterface:99b47bab3a0c13",
@@ -5903,7 +5903,7 @@
       "url": "https://www.wowinterface.com/downloads/search.php",
       "originalText": "Advanced",
       "locale": "en-US",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "c0124f93670c6edd36c5af8ad3d3377eb068b47b7dbc353acbd72c2cd7871599"
     },
     {
@@ -5917,7 +5917,7 @@
       "url": "https://forum.gamer.com.tw/B.php?bsn=5219",
       "originalText": "歡迎來到WOW 魔獸世界哈啦板，最新資訊及情報分享、精華好文查找、創作交流討論，盡在巴哈姆特！",
       "locale": "zh-TW",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "1fd9e402945dd0a56a3ab3f20d226ac318b501d5037dcf18bcf544e3e20d0d0a"
     },
     {
@@ -5931,7 +5931,7 @@
       "url": "https://forum.gamer.com.tw/C.php?bsn=5219&snA=674305&tnum=41",
       "originalText": "【公告】板務建議／板規 / 精華版圖提供",
       "locale": "zh-TW",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "7caf8a98570f7e22f477cd96a596d50fb299acfaf57baa3f6df4dd36f45afda3"
     },
     {
@@ -5945,7 +5945,7 @@
       "url": "https://forum.gamer.com.tw/C.php?bsn=5219&snA=674305&tnum=41&last=1",
       "originalText": "前天 21:22",
       "locale": "zh-TW",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "43b621e0e9ea124732b485d139d03647c4b7c6b84e64ff4da633e9bad9657485"
     },
     {
@@ -5959,7 +5959,7 @@
       "url": "https://forum.gamer.com.tw/C.php?bsn=5219&snA=674306&tnum=474",
       "originalText": "【專區】招兵買馬老手徵人/新玩家徵令集中串",
       "locale": "zh-TW",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "b5789c33f9d8cbbee80b49adf27ab21ebcda73af44c88ec5a57991b480bd23b8"
     },
     {
@@ -5973,7 +5973,7 @@
       "url": "https://forum.gamer.com.tw/C.php?bsn=5219&snA=674306&tnum=474&last=1",
       "originalText": "07-26 18:33",
       "locale": "zh-TW",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "fb49214d392df24e4ecafbaa7000952552c338e15d53500f0328571521a0b3a8"
     },
     {
@@ -5987,7 +5987,7 @@
       "url": "https://forum.gamer.com.tw/C.php?bsn=5219&snA=679668&tnum=3",
       "originalText": "【情報】近期魔獸世界 相關虛寶活動 一覽 6月7日更新",
       "locale": "zh-TW",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "b6f4c5989ac9dcd79fda8bfdc2c25069a47dd57684d766fc49ce1d91bd7f7c14"
     },
     {
@@ -6001,7 +6001,7 @@
       "url": "https://forum.gamer.com.tw/C.php?bsn=5219&snA=679668&tnum=3&last=1",
       "originalText": "03-17 12:31",
       "locale": "zh-TW",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "6b0e335a1e6e112c2058b6e591247566ec3ec2a34a1a2ae1f4d61467ee7c97a0"
     },
     {
@@ -6015,7 +6015,7 @@
       "url": "https://forum.gamer.com.tw/C.php?bsn=5219&snA=680288&tnum=3",
       "originalText": "達人 【心得】S2賽季雙??號 讓我單挑他:阿茲塔瑞 PTR初探打法攻略 大家好 ~ 下賽季單人探究??號準備開了,這次改成1個禮拜內通也有名人堂偉業 不像第一賽季只有前面4000名 不到一天就截止了 (暴雪終於做人!) 注:本文順道寫給我們公會的夥伴版本來",
       "locale": "zh-TW",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "cd7ce821a4b2217a5532e8f28e05033cf8529fc0dabda5b10145eb98e67f3ab7"
     },
     {
@@ -6029,7 +6029,7 @@
       "url": "https://forum.gamer.com.tw/C.php?bsn=5219&snA=680326&tnum=3",
       "originalText": "【問題】練小號到地心之戰階段卡任務 是這樣的地心之戰的主線戰役打沒多久，就會需要排一場追隨者地城(培育所?) 但排下去之後卻出現「尚未達到此地城的需求條件」 完全不知道是什麼條件，沒有明說，但總之就是不",
       "locale": "zh-TW",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "939dccd99652a81b544df74efe5227ae80751a5642d8a339faf5ab352bdec7d6"
     },
     {
@@ -6043,7 +6043,7 @@
       "url": "https://forum.gamer.com.tw/C.php?bsn=5219&snA=679524&tnum=7",
       "originalText": "【情報】史上最簡單的火花任務！ (應該吧) https://www.wowhead.com/news/sparks-of-radiance-for-crafting-now-available-in-midnight-easiest-spark-quest-380617 製造火花現已開放，且任務只需不到一分鐘即可完成！ 玩家現在可以獲得他們在《至暗之夜》",
       "locale": "zh-TW",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "e8509d0e8603dccacdd39991b0dc5e5420e19f4cd68be625e52aefa71f35ae02"
     },
     {
@@ -6057,7 +6057,7 @@
       "url": "https://forum.gamer.com.tw/C.php?bsn=5219&snA=680227&tnum=2",
       "originalText": "【情報】七月的貿易站將帶來極藍饗宴 (圖多殺貓) 七月的貿易站會帶來一系列蒼藍色系的坐騎、塑形和武器，能為你的收藏增添一點鮮豔的色彩。 玩家可以參與活動來獲取商人的標幣、入手一些回歸的被遺忘者主題物品，完成旅行",
       "locale": "zh-TW",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "bfd0631180d92915d6bac97d4a6558b722c17f3eedd9c0eb71a2820520a7eb0a"
     },
     {
@@ -6071,7 +6071,7 @@
       "url": "https://forum.gamer.com.tw/C.php?bsn=5219&snA=680325&tnum=1",
       "originalText": "【心得】 EllesmereUI ，兼具極簡風格與遊戲效能的輕量介面推薦 在版上應該是初次發文 先自介下 自己是用了ELVUI 15年以上的老玩家，一直以來也習慣了這簡潔、現代化的風格，但ELVUI 12板後，更新的速度跟不上暴雪調整的速度，加上在遊玩過程中",
       "locale": "zh-TW",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "b3a4dc22d35d301f9dd7b03a5fca02c5da5c62526e1bcf8d20e0a11add70b17b"
     },
     {
@@ -6085,7 +6085,7 @@
       "url": "https://forum.gamer.com.tw/C.php?bsn=5219&snA=680324&tnum=1",
       "originalText": "【其他】12.07 轉化套裝限制? 大家好 由於玩得很休閒 一直沒注意到套裝轉化有甚麼限制 基本上都是周常給的箱子精兵轉化就完了 想請問衛爾跟奈格 這2張新地圖打到的英雄裝 是否無法轉化成套裝 我剛去催化台",
       "locale": "zh-TW",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "eda9b4a4475b6565cca1a26ff28ecfda0b75f167fa35c905c8049f6c87116be6"
     },
     {
@@ -6099,7 +6099,7 @@
       "url": "https://forum.gamer.com.tw/C.php?bsn=5219&snA=680324&tnum=1&last=1",
       "originalText": "昨天 23:19",
       "locale": "zh-TW",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "f9a897aab3f71e1ccee6107a63c140aba6c5d6d9ebf710e79498063fcf8a7127"
     },
     {
@@ -6113,7 +6113,7 @@
       "url": "https://forum.gamer.com.tw/C.php?bsn=5219&snA=679452&tnum=30",
       "originalText": "&#xE838; 精華 【心得】《 12.0 至暗之夜 》開服 80 - 90 級快速衝級指南(12.0 新手疑難雜症串) 1 2 HI 大家好~~ 根據 Beta 測試的經驗，筆者這裡為大家整理了一份從 80 級升到 90 級的攻略文案， 幫助大家在開服時能最快速度進入滿級狀態！ 這次囊括出七個重點給大家事前做個功課",
       "locale": "zh-TW",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "8ef6d92cd0b0a75ef30347d41f6b683707b53675d1c0e23cbb0de70d5a01f3fe"
     },
     {
@@ -6127,7 +6127,7 @@
       "url": "https://forum.gamer.com.tw/C.php?bsn=5219&snA=679452&tnum=30&last=1",
       "originalText": "昨天 21:17",
       "locale": "zh-TW",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "f1961f32e3df356ea11bf7bf6d77cc94934fcb12cfa3ea11b2f5db406ca2b302"
     },
     {
@@ -6141,7 +6141,7 @@
       "url": "https://forum.gamer.com.tw/C.php?bsn=5219&snA=679359&tnum=5",
       "originalText": "&#xE838; 精華 【攻略】關於這周時光漫遊的大便本-彼界境地 再重寫一次攻略 我知道這個本很多人都會滅的死去活來 只講最後的重點尾王 因為是馬桶王 所以坦克除了閃葵花三連擊以外請不要遠離王 葵花三拳不太建議吃 但畢竟是時光漫遊 自己斟酌 補師可能",
       "locale": "zh-TW",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "3d113c4f4433a6a4ecdb16aed607890bfdc327b961967efa788af7e2f55ea810"
     },
     {
@@ -6155,7 +6155,7 @@
       "url": "https://forum.gamer.com.tw/C.php?bsn=5219&snA=679359&tnum=5&last=1",
       "originalText": "昨天 19:57",
       "locale": "zh-TW",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "3d5768b998ed9f7f97f1d9b91f5243a1c1d95aa97f6a72772113034917be6771"
     },
     {
@@ -6169,7 +6169,7 @@
       "url": "https://forum.gamer.com.tw/C.php?bsn=5219&snA=680224&tnum=4",
       "originalText": "【心得】12.0 跑速 (speed) 討論 在wowhead的guide裡，最新的跑速說明是Dragonflight版本的資料 https://www.wowhead.com/guide/18075 在蒐集了12版的一些跑速裝與數據，12版的跑速公式應該還是跟10版是類似的分段公式，不過BZ把斷",
       "locale": "zh-TW",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "1193c0dff1f36d482578edfb033afba9c27fa32470824504c394d52eada453a3"
     },
     {
@@ -6183,7 +6183,7 @@
       "url": "https://forum.gamer.com.tw/C.php?bsn=5219&snA=680224&tnum=4&last=1",
       "originalText": "昨天 17:04",
       "locale": "zh-TW",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "da81fe9de56b0bcb1c9a55485e94c1757b8c801f70455315fea1080ceb5d1bc2"
     },
     {
@@ -6197,7 +6197,7 @@
       "url": "https://forum.gamer.com.tw/C.php?bsn=5219&snA=680322&tnum=1",
       "originalText": "【問題】關於專業的裝備 請問現在造的煉金和採草的紫色裝備，可以沿用到12.1 嗎？還是有新版要造？謝謝！",
       "locale": "zh-TW",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "dc39432b2f836595ecb894aa87a0ef02eea467c604c277c7c8c3ed7507db3ef3"
     },
     {
@@ -6211,7 +6211,7 @@
       "url": "https://forum.gamer.com.tw/C.php?bsn=5219&snA=680322&tnum=1&last=1",
       "originalText": "昨天 11:07",
       "locale": "zh-TW",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "0996cb6688aad6028ef6c529b65f123ad731638fa3272827ebd5498b7a54886d"
     },
     {
@@ -6225,7 +6225,7 @@
       "url": "https://forum.gamer.com.tw/C.php?bsn=5219&snA=680321&tnum=1",
       "originalText": "【情報】暗影漸深：《至暗之夜》第 2 賽季將於 8 月 20 日開跑 & PVE / PVP外觀 https://worldofwarcraft.blizzard.com/zh-tw/news/24294369 堅定你的決心、集結你的盟友，在《至暗之夜》第 2 賽季中深入暗影。 勇闖劇毒深淵、征服全新傳奇鑰石輪替、在 PvP 證明你的本領、深入",
       "locale": "zh-TW",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "378a1b5c7d4c6c972e5e28c64b1211d7ae93ec41e3d92501b4c47de6153a5876"
     },
     {
@@ -6239,7 +6239,7 @@
       "url": "https://forum.gamer.com.tw/C.php?bsn=5219&snA=680321&tnum=1&last=1",
       "originalText": "昨天 03:13",
       "locale": "zh-TW",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "e19da05c75052eaee3d7459b81ba77f3ee902b3bcd1d6fe3bdef5793090cf487"
     },
     {
@@ -6253,7 +6253,7 @@
       "url": "https://forum.gamer.com.tw/C.php?bsn=5219&snA=680195&tnum=3",
       "originalText": "【情報】烏拉特克的詛咒將在 8 月 13 日正式推出！前往盤蛇島吧 & 劇毒深淵團本將於將在 8 月 20 日正式推出 https://worldofwarcraft.blizzard.com/zh-tw/news/24294370 與阿拉特繼續追殺薩拉塔斯再次加入阿拉特的行列，看他如何應對虛無之尖事件帶來的影響，同時，隨著我們繼續追殺薩拉塔斯，與他一同",
       "locale": "zh-TW",
-      "discoveredAt": "2026-07-30T08:48:46.954Z",
+      "discoveredAt": "2026-07-30T14:30:33.705Z",
       "fingerprint": "f829654c72dad4a82e38c345945e444ea98fa6f916a094f48e1c3ee69f9a80f3"
     }
   ]
