@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-31T20:37:55.937Z",
+  "generatedAt": "2026-07-31T21:32:00.975Z",
   "provider": "m2m100",
   "qualityGate": {
     "published": 117,
@@ -34,7 +34,7 @@
       "sourceUrl": "https://worldofwarcraft.blizzard.com/zh-tw/news",
       "group": "台服問題雷達",
       "categoryHints": [],
-      "updatedAt": "2026-07-31T19:51:54.467Z",
+      "updatedAt": "2026-07-31T21:32:00.975Z",
       "fingerprint": "5e291ef2ae97d6b3a96021d1d462462cd0ce238eb1377d0596ee6a9a917183c6"
     },
     {
@@ -2132,7 +2132,7 @@
       "sourceUrl": "https://forum.gamer.com.tw/B.php?bsn=5219",
       "group": "台服問題雷達",
       "categoryHints": [],
-      "updatedAt": "2026-07-31T19:51:54.467Z",
+      "updatedAt": "2026-07-31T21:32:00.975Z",
       "fingerprint": "1fd9e402945dd0a56a3ab3f20d226ac318b501d5037dcf18bcf544e3e20d0d0a"
     },
     {
@@ -2144,7 +2144,7 @@
       "sourceUrl": "https://forum.gamer.com.tw/C.php?bsn=5219&snA=679524&tnum=7",
       "group": "台服問題雷達",
       "categoryHints": [],
-      "updatedAt": "2026-07-31T19:51:54.467Z",
+      "updatedAt": "2026-07-31T21:32:00.975Z",
       "fingerprint": "e8509d0e8603dccacdd39991b0dc5e5420e19f4cd68be625e52aefa71f35ae02"
     }
   ]
