@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-02T20:17:50.527Z",
+  "generatedAt": "2026-08-02T21:13:45.382Z",
   "documents": [
     {
       "id": "archon:home",
@@ -33,7 +33,7 @@
       "url": "https://worldofwarcraft.blizzard.com/zh-tw/news",
       "originalText": "包括開發者訊息﹑更新檔發布等等所有《魔獸世界》的最新消息與更新。",
       "locale": "zh-TW",
-      "discoveredAt": "2026-08-02T19:33:17.516Z",
+      "discoveredAt": "2026-08-02T21:13:45.382Z",
       "fingerprint": "5e291ef2ae97d6b3a96021d1d462462cd0ce238eb1377d0596ee6a9a917183c6"
     },
     {
@@ -5575,7 +5575,7 @@
       "url": "https://forum.gamer.com.tw/B.php?bsn=5219",
       "originalText": "歡迎來到WOW 魔獸世界哈啦板，最新資訊及情報分享、精華好文查找、創作交流討論，盡在巴哈姆特！",
       "locale": "zh-TW",
-      "discoveredAt": "2026-08-02T19:33:17.516Z",
+      "discoveredAt": "2026-08-02T21:13:45.382Z",
       "fingerprint": "1fd9e402945dd0a56a3ab3f20d226ac318b501d5037dcf18bcf544e3e20d0d0a"
     },
     {
@@ -5589,7 +5589,7 @@
       "url": "https://forum.gamer.com.tw/C.php?bsn=5219&snA=674305&tnum=41",
       "originalText": "【公告】板務建議／板規 / 精華版圖提供",
       "locale": "zh-TW",
-      "discoveredAt": "2026-08-02T19:33:17.516Z",
+      "discoveredAt": "2026-08-02T21:13:45.382Z",
       "fingerprint": "7caf8a98570f7e22f477cd96a596d50fb299acfaf57baa3f6df4dd36f45afda3"
     },
     {
@@ -5603,7 +5603,7 @@
       "url": "https://forum.gamer.com.tw/C.php?bsn=5219&snA=674305&tnum=41&last=1",
       "originalText": "07-28 21:22",
       "locale": "zh-TW",
-      "discoveredAt": "2026-08-02T19:33:17.516Z",
+      "discoveredAt": "2026-08-02T21:13:45.382Z",
       "fingerprint": "2653ac9a3f4e0df6a0ade76a3bcddcee19b6094a7693a292910aa9eea36a4462"
     },
     {
@@ -5617,7 +5617,7 @@
       "url": "https://forum.gamer.com.tw/C.php?bsn=5219&snA=674306&tnum=475",
       "originalText": "【專區】招兵買馬老手徵人/新玩家徵令集中串",
       "locale": "zh-TW",
-      "discoveredAt": "2026-08-02T19:33:17.516Z",
+      "discoveredAt": "2026-08-02T21:13:45.382Z",
       "fingerprint": "0e62e4c4b18201311872633f4964f542802a30a5869f7cf88b8617cacbbfc40e"
     },
     {
@@ -5631,7 +5631,7 @@
       "url": "https://forum.gamer.com.tw/C.php?bsn=5219&snA=679668&tnum=3",
       "originalText": "【情報】近期魔獸世界 相關虛寶活動 一覽 6月7日更新",
       "locale": "zh-TW",
-      "discoveredAt": "2026-08-02T19:33:17.516Z",
+      "discoveredAt": "2026-08-02T21:13:45.382Z",
       "fingerprint": "b6f4c5989ac9dcd79fda8bfdc2c25069a47dd57684d766fc49ce1d91bd7f7c14"
     },
     {
@@ -5645,7 +5645,7 @@
       "url": "https://forum.gamer.com.tw/C.php?bsn=5219&snA=679668&tnum=3&last=1",
       "originalText": "03-17 12:31",
       "locale": "zh-TW",
-      "discoveredAt": "2026-08-02T19:33:17.516Z",
+      "discoveredAt": "2026-08-02T21:13:45.382Z",
       "fingerprint": "6b0e335a1e6e112c2058b6e591247566ec3ec2a34a1a2ae1f4d61467ee7c97a0"
     },
     {
@@ -5659,7 +5659,7 @@
       "url": "https://forum.gamer.com.tw/C.php?bsn=5219&snA=664939&tnum=72",
       "originalText": "【密技】暗月馬戲團來辣! 08/02 - 08/08 至暗之夜專業技能+2知識+3 / 聲望經驗+10%",
       "locale": "zh-TW",
-      "discoveredAt": "2026-08-02T19:33:17.516Z",
+      "discoveredAt": "2026-08-02T21:13:45.382Z",
       "fingerprint": "57d033e7a18e3fba66d9bbd81d5a7358c3a8b3db8b3eda3983d46df728e0867e"
     },
     {
@@ -5673,7 +5673,7 @@
       "url": "https://forum.gamer.com.tw/C.php?bsn=5219&snA=664939&tnum=72&last=1",
       "originalText": "昨天 02:29",
       "locale": "zh-TW",
-      "discoveredAt": "2026-08-02T19:33:17.516Z",
+      "discoveredAt": "2026-08-02T21:13:45.382Z",
       "fingerprint": "d7d908a2d226784ca92c5d9e5564e3b7d020982ba9d0bb5d9da864e255101ed8"
     },
     {
@@ -5687,7 +5687,7 @@
       "url": "https://forum.gamer.com.tw/C.php?bsn=5219&snA=680337&tnum=1",
       "originalText": "【討論】美服 武器戰士 找隊友 美服 武器戰士 找隊友 3v3 2v2 ~~~",
       "locale": "zh-TW",
-      "discoveredAt": "2026-08-02T19:33:17.516Z",
+      "discoveredAt": "2026-08-02T21:13:45.382Z",
       "fingerprint": "6465f2742422151bf8ff2627183c2e8a6d70f151ac64aa2f01e7aee137c0ff36"
     },
     {
@@ -5701,7 +5701,7 @@
       "url": "https://forum.gamer.com.tw/C.php?bsn=5219&snA=680336&tnum=3",
       "originalText": "【問題】【新手請益】FF14 / AION 老玩家想入坑 WOW，關於消費與遠程職業請益（內有新手問題） 各位艾澤拉斯的前輩們好！小弟是準備入坑的超純萌新，請各位前輩噴小力一點 🙏 最近大概爬了一下文章，得知好像可以找「招兵買馬」找個師父帶，而且 20 級以前是免費試玩。",
       "locale": "zh-TW",
-      "discoveredAt": "2026-08-02T19:33:17.516Z",
+      "discoveredAt": "2026-08-02T21:13:45.382Z",
       "fingerprint": "b02eb4944d3abcb6c143704c5d13d66a0ceb21f3b31bdfcfdc7bbb1f6059e42a"
     },
     {
@@ -5715,7 +5715,7 @@
       "url": "https://forum.gamer.com.tw/C.php?bsn=5219&snA=680336&tnum=3&last=1",
       "originalText": "昨天 23:18",
       "locale": "zh-TW",
-      "discoveredAt": "2026-08-02T19:33:17.516Z",
+      "discoveredAt": "2026-08-02T21:13:45.382Z",
       "fingerprint": "262af688b7a9a443b3025083bbfd2a31ea57891acd3ce63082e1a3de495b7ddf"
     },
     {
@@ -5729,7 +5729,7 @@
       "url": "https://forum.gamer.com.tw/C.php?bsn=5219&snA=680164&tnum=3",
       "originalText": "&#xE838; 精華 【心得】休閒的曙光騎心得(能打M12保底，手指能動就能打) 首先這不是一篇專業的文，只是一篇每周打4場M12保底仔(已鐵12 3000分)的心得，所以對追求打高層的高玩毫無意義 因為本人手很殘，數字鍵只能穩定按到1~4 ，5以後容易按錯， 所以&quo",
       "locale": "zh-TW",
-      "discoveredAt": "2026-08-02T19:33:17.516Z",
+      "discoveredAt": "2026-08-02T21:13:45.382Z",
       "fingerprint": "aa661f2bc311c47ded93122e983f0a944daa9d01118690825a6d9f028cebda57"
     },
     {
@@ -5743,7 +5743,7 @@
       "url": "https://forum.gamer.com.tw/C.php?bsn=5219&snA=680164&tnum=3&last=1",
       "originalText": "昨天 21:51",
       "locale": "zh-TW",
-      "discoveredAt": "2026-08-02T19:33:17.516Z",
+      "discoveredAt": "2026-08-02T21:13:45.382Z",
       "fingerprint": "e10a7b5a47fbea58e4dd52d4a317ec29f345e233929d0b6016d22aa7f228e000"
     },
     {
@@ -5757,7 +5757,7 @@
       "url": "https://forum.gamer.com.tw/C.php?bsn=5219&snA=680329&tnum=2",
       "originalText": "【情報】準備在 8 月貿易站迎接對決 https://worldofwarcraft.blizzard.com/zh-tw/news/24294061/ 準備在 8 月貿易站迎接決戰，帶來一系列坐騎、塑形、武器，以及黑白色調風格，讓你的收藏獲得一鳴驚人的嶄新外觀。玩家可以參與活",
       "locale": "zh-TW",
-      "discoveredAt": "2026-08-02T19:33:17.516Z",
+      "discoveredAt": "2026-08-02T21:13:45.382Z",
       "fingerprint": "00382c8653283f6fea6114ed5111b4ef2be43a9883d95ee1941ec3915d06327b"
     },
     {
@@ -5771,7 +5771,7 @@
       "url": "https://forum.gamer.com.tw/C.php?bsn=5219&snA=680329&tnum=2&last=1",
       "originalText": "昨天 10:15",
       "locale": "zh-TW",
-      "discoveredAt": "2026-08-02T19:33:17.516Z",
+      "discoveredAt": "2026-08-02T21:13:45.382Z",
       "fingerprint": "8e254d9bb8a5395c7ca303da8a0cad21dff51ba6912fb5fa7412f13d415a3e48"
     },
     {
@@ -5785,7 +5785,7 @@
       "url": "https://forum.gamer.com.tw/C.php?bsn=5219&snA=676106&tnum=1723",
       "originalText": "【攻略】11.0 新手問題串 有問必答 85 86 87 來 適逢新版 看到有新手因為覺得魔獸老人都很現實 不給問 造成他幼小的心靈產生了創傷 特此開一串來幫助新手們 一路上受過很多幫助 所以也想幫助各位新人 讓新人能夠愛上這個",
       "locale": "zh-TW",
-      "discoveredAt": "2026-08-02T19:33:17.516Z",
+      "discoveredAt": "2026-08-02T21:13:45.382Z",
       "fingerprint": "f0c6084bb96d9ad588e69add2cd1b780abd8fa28b64788f102e12fefa2f9ec86"
     },
     {
@@ -5799,7 +5799,7 @@
       "url": "https://forum.gamer.com.tw/C.php?bsn=5219&snA=676106&tnum=1723&last=1",
       "originalText": "昨天 01:54",
       "locale": "zh-TW",
-      "discoveredAt": "2026-08-02T19:33:17.516Z",
+      "discoveredAt": "2026-08-02T21:13:45.382Z",
       "fingerprint": "1b20fe452157b9fa9bcc9409b456d9f8df166f189de454a816a05426556ba478"
     },
     {
@@ -5813,7 +5813,7 @@
       "url": "https://forum.gamer.com.tw/C.php?bsn=5219&snA=680335&tnum=1&last=1",
       "originalText": "前天 23:09",
       "locale": "zh-TW",
-      "discoveredAt": "2026-08-02T19:33:17.516Z",
+      "discoveredAt": "2026-08-02T21:13:45.382Z",
       "fingerprint": "926ade53601094ea1e69f407bde79f7d45b1ca91651da32a3b5afe310c048f75"
     },
     {
@@ -5827,7 +5827,7 @@
       "url": "https://forum.gamer.com.tw/C.php?bsn=5219&snA=680333&tnum=2",
       "originalText": "【問題】最近回鍋後發現 (純分享) 從FF14到GW2再回來WOW… WOW再次讓我驚艷許多，簡易化的技能、UI的強化，尤其 Harandar 地區的背景音樂 World Soul Cradle非常讓人動聽，我可以聽一整天…。",
       "locale": "zh-TW",
-      "discoveredAt": "2026-08-02T19:33:17.516Z",
+      "discoveredAt": "2026-08-02T21:13:45.382Z",
       "fingerprint": "74617aabf3f2fabb83500262ab76a5af97c2d9f9771d52d8add290f113d89e3b"
     },
     {
@@ -5841,7 +5841,7 @@
       "url": "https://forum.gamer.com.tw/C.php?bsn=5219&snA=680333&tnum=2&last=1",
       "originalText": "前天 22:42",
       "locale": "zh-TW",
-      "discoveredAt": "2026-08-02T19:33:17.516Z",
+      "discoveredAt": "2026-08-02T21:13:45.382Z",
       "fingerprint": "f0aae315c146a6c4162a72ae60bad41452bc82fab7904f2cf55cc14c8655ce83"
     },
     {
@@ -5855,7 +5855,7 @@
       "url": "https://forum.gamer.com.tw/C.php?bsn=5219&snA=680334&tnum=1",
       "originalText": "【問題】家具位置問題(已解決) 不小心把家具拖到地下結果點不到了，我要怎麼把家具叫回目錄呢，請問有指令嗎？ === 找到方法了 點進階編輯右上角清單可以找出定位移動",
       "locale": "zh-TW",
-      "discoveredAt": "2026-08-02T19:33:17.516Z",
+      "discoveredAt": "2026-08-02T21:13:45.382Z",
       "fingerprint": "59191208e8a5858e70e583f751d0ed6dfc02ebe52cc6e41c6422968c443a1eb7"
     },
     {
@@ -5869,7 +5869,7 @@
       "url": "https://forum.gamer.com.tw/C.php?bsn=5219&snA=680334&tnum=1&last=1",
       "originalText": "前天 18:43",
       "locale": "zh-TW",
-      "discoveredAt": "2026-08-02T19:33:17.516Z",
+      "discoveredAt": "2026-08-02T21:13:45.382Z",
       "fingerprint": "c6b9e2989b313df9f973e16a0d5f15fad43719c4065f6c4d26f337699193c672"
     },
     {
@@ -5883,7 +5883,7 @@
       "url": "https://forum.gamer.com.tw/C.php?bsn=5219&snA=680331&tnum=2",
       "originalText": "【問題】請問努萊厄斯打法 我是剛加入的新手 目前噬滅裝等275 連?都打不過 已爬過版上的文也看過影片攻略 但因為職業不同我不太知道他們用了哪些技能 而且應該是來不及再練一隻德魯伊補 我又很想拿坐騎",
       "locale": "zh-TW",
-      "discoveredAt": "2026-08-02T19:33:17.516Z",
+      "discoveredAt": "2026-08-02T21:13:45.382Z",
       "fingerprint": "86e5c663b77be017f6764ef0a388675ed64a60d6f366841070eb1081aa34352b"
     },
     {
@@ -5897,7 +5897,7 @@
       "url": "https://forum.gamer.com.tw/C.php?bsn=5219&snA=680331&tnum=2&last=1",
       "originalText": "前天 03:27",
       "locale": "zh-TW",
-      "discoveredAt": "2026-08-02T19:33:17.516Z",
+      "discoveredAt": "2026-08-02T21:13:45.382Z",
       "fingerprint": "7c901287063eedf5884cb47bdb26b2269c3402b80c7d12308834869d914ebcf1"
     },
     {
@@ -5911,7 +5911,7 @@
       "url": "https://forum.gamer.com.tw/C.php?bsn=5219&snA=680330&tnum=1",
       "originalText": "【情報】 準備在 8 月貿易站迎接決戰 準備在 8 月貿易站迎接決戰，帶來一系列坐騎、塑形、武器，以及黑白色調風格，讓你的收藏獲得一鳴驚人的嶄新外觀。玩家可以參與活動來獲取商人的標幣，完成旅行者日誌上的任",
       "locale": "zh-TW",
-      "discoveredAt": "2026-08-02T19:33:17.516Z",
+      "discoveredAt": "2026-08-02T21:13:45.382Z",
       "fingerprint": "36ec1afcdcb59e6f9e3195ff4b5607828cda73d84a948f211a58c7751f36b9ee"
     }
   ]
