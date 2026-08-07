@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-06T14:34:21.395Z",
+  "generatedAt": "2026-08-07T00:15:41.449Z",
   "provider": "m2m100",
   "qualityGate": {
     "published": 116,
@@ -22,7 +22,7 @@
         "團本",
         "傳奇鑰石"
       ],
-      "updatedAt": "2026-08-06T14:34:21.395Z",
+      "updatedAt": "2026-08-07T00:15:41.449Z",
       "fingerprint": "6197416e2ba43408b2a548620f0aa31271fb0fa8f9d848f9ac7cd1883f57d4ff"
     },
     {
@@ -34,7 +34,7 @@
       "sourceUrl": "https://worldofwarcraft.blizzard.com/zh-tw/news",
       "group": "台服問題雷達",
       "categoryHints": [],
-      "updatedAt": "2026-08-06T14:34:21.395Z",
+      "updatedAt": "2026-08-07T00:15:41.449Z",
       "fingerprint": "5e291ef2ae97d6b3a96021d1d462462cd0ce238eb1377d0596ee6a9a917183c6"
     },
     {
@@ -51,7 +51,7 @@
         "種族模擬",
         "裝備比較"
       ],
-      "updatedAt": "2026-08-06T14:34:21.395Z",
+      "updatedAt": "2026-08-07T00:15:41.449Z",
       "fingerprint": "bbb2ea2694627a375e2887f82692ff3626642c3893c9c1c7e548ba9eb2a5a721"
     },
     {
@@ -68,7 +68,7 @@
         "更新紀錄",
         "分類"
       ],
-      "updatedAt": "2026-08-06T14:34:21.395Z",
+      "updatedAt": "2026-08-07T00:15:41.449Z",
       "fingerprint": "72bf9d284bf780019e22d8f961ee4065e52ccec8d7fcf574e9e854741cd68e08"
     },
     {
@@ -89,7 +89,7 @@
         "PvP",
         "住宅"
       ],
-      "updatedAt": "2026-08-06T14:34:21.395Z",
+      "updatedAt": "2026-08-07T00:15:41.449Z",
       "fingerprint": "adf1466230e8d0b9e703d919c431ce557620d45f1d8f88c7e283a791797cf036"
     },
     {
@@ -110,7 +110,7 @@
         "PvP",
         "住宅"
       ],
-      "updatedAt": "2026-08-06T14:34:21.395Z",
+      "updatedAt": "2026-08-07T00:15:41.449Z",
       "fingerprint": "a62eecc4bb175d6227b82519cab673682ab4fd073f4954bb57ff0981b0fed63e"
     },
     {
@@ -131,7 +131,7 @@
         "PvP",
         "住宅"
       ],
-      "updatedAt": "2026-08-06T14:34:21.395Z",
+      "updatedAt": "2026-08-07T00:15:41.449Z",
       "fingerprint": "dfed9e30a4111bdaf5a9ecac58bcd9ebe7d1b9f1477617ed2135625df69fdf4a"
     },
     {
@@ -152,7 +152,7 @@
         "PvP",
         "住宅"
       ],
-      "updatedAt": "2026-08-06T14:34:21.395Z",
+      "updatedAt": "2026-08-07T00:15:41.449Z",
       "fingerprint": "17cab3392a845b6734fbc2cdb501d1c485b7bf9bf22c1543716b1246e0ed483d"
     },
     {
@@ -173,7 +173,7 @@
         "PvP",
         "住宅"
       ],
-      "updatedAt": "2026-08-06T14:34:21.395Z",
+      "updatedAt": "2026-08-07T00:15:41.449Z",
       "fingerprint": "464b1cc10f51b4a48c34e4145010bdb97f60eba0e0241fc48ad77f6d27b29e03"
     },
     {
@@ -194,7 +194,7 @@
         "PvP",
         "住宅"
       ],
-      "updatedAt": "2026-08-06T14:34:21.395Z",
+      "updatedAt": "2026-08-07T00:15:41.449Z",
       "fingerprint": "381be89156ad2edcb88b504b498f4dc3cf479822c94c8575bc10a4be20567722"
     },
     {
@@ -215,7 +215,7 @@
         "PvP",
         "住宅"
       ],
-      "updatedAt": "2026-08-06T14:34:21.395Z",
+      "updatedAt": "2026-08-07T00:15:41.449Z",
       "fingerprint": "7be9a4e1b78bd36c05791f20780d8ca7d716ec45f68f4571becd689be24fde76"
     },
     {
@@ -236,7 +236,7 @@
         "PvP",
         "住宅"
       ],
-      "updatedAt": "2026-08-06T14:34:21.395Z",
+      "updatedAt": "2026-08-07T00:15:41.449Z",
       "fingerprint": "730380cdbae9fcefb7f2a198a6180c02cc7308ff5f65fb5bdb92087686f68bfb"
     },
     {
@@ -257,7 +257,7 @@
         "PvP",
         "住宅"
       ],
-      "updatedAt": "2026-08-06T14:34:21.395Z",
+      "updatedAt": "2026-08-07T00:15:41.449Z",
       "fingerprint": "31fbb865b57d717c76e284bb553c82e4e645c1ade4ac96d9d5f7947a2734151b"
     },
     {
@@ -278,7 +278,7 @@
         "PvP",
         "住宅"
       ],
-      "updatedAt": "2026-08-06T14:34:21.395Z",
+      "updatedAt": "2026-08-07T00:15:41.449Z",
       "fingerprint": "c2c63d54987461d40e6fd5dc2ad872226fd1f1aa2640791cebcf71a148de2c80"
     },
     {
@@ -299,7 +299,7 @@
         "PvP",
         "住宅"
       ],
-      "updatedAt": "2026-08-06T14:34:21.395Z",
+      "updatedAt": "2026-08-07T00:15:41.449Z",
       "fingerprint": "0e4daaba3fa9401b1c83247885b2306c01eb2a2d564f9399683cfbb4e9537d07"
     },
     {
@@ -320,7 +320,7 @@
         "PvP",
         "住宅"
       ],
-      "updatedAt": "2026-08-06T14:34:21.395Z",
+      "updatedAt": "2026-08-07T00:15:41.449Z",
       "fingerprint": "100606a080bc536451583389a04b64a399acbd90907204aae0341fd1acf098e4"
     },
     {
@@ -341,7 +341,7 @@
         "PvP",
         "住宅"
       ],
-      "updatedAt": "2026-08-06T14:34:21.395Z",
+      "updatedAt": "2026-08-07T00:15:41.449Z",
       "fingerprint": "574be23989a49a1aaffb565cd6740ea0f85aef622ae67a50e0e1bebfcdd80f2a"
     },
     {
@@ -362,7 +362,7 @@
         "PvP",
         "住宅"
       ],
-      "updatedAt": "2026-08-06T14:34:21.395Z",
+      "updatedAt": "2026-08-07T00:15:41.449Z",
       "fingerprint": "1053035d4dfef99f3e3ece8e69b35ee736389a37f9a5635b44f01fa48de8cfc1"
     },
     {
@@ -383,7 +383,7 @@
         "PvP",
         "住宅"
       ],
-      "updatedAt": "2026-08-06T14:34:21.395Z",
+      "updatedAt": "2026-08-07T00:15:41.449Z",
       "fingerprint": "48281b15bbe8c999901916a7e54ba256ab55b895430e9885c5e6349786d41a41"
     },
     {
@@ -404,7 +404,7 @@
         "PvP",
         "住宅"
       ],
-      "updatedAt": "2026-08-06T14:34:21.395Z",
+      "updatedAt": "2026-08-07T00:15:41.449Z",
       "fingerprint": "48e0d9c30adb428f53cd2f49c0e7916370addf6b8630840813c82b083a773e26"
     },
     {
@@ -425,7 +425,7 @@
         "PvP",
         "住宅"
       ],
-      "updatedAt": "2026-08-06T14:34:21.395Z",
+      "updatedAt": "2026-08-07T00:15:41.449Z",
       "fingerprint": "20396ddb694fc6c371acc1f2d4279f343f1b0114f04fe0e900d69e375ba3dc44"
     },
     {
@@ -446,7 +446,7 @@
         "PvP",
         "住宅"
       ],
-      "updatedAt": "2026-08-06T14:34:21.395Z",
+      "updatedAt": "2026-08-07T00:15:41.449Z",
       "fingerprint": "41742b1950994f61a56922559dbf6cd2e16e324c2e55f107457105d21350543a"
     },
     {
@@ -467,7 +467,7 @@
         "PvP",
         "住宅"
       ],
-      "updatedAt": "2026-08-06T14:34:21.395Z",
+      "updatedAt": "2026-08-07T00:15:41.449Z",
       "fingerprint": "33f1f4119786023f5c34f073564cacb81272085aeec173aac9a54829852c3ee9"
     },
     {
@@ -488,7 +488,7 @@
         "PvP",
         "住宅"
       ],
-      "updatedAt": "2026-08-06T14:34:21.395Z",
+      "updatedAt": "2026-08-07T00:15:41.449Z",
       "fingerprint": "da9410b98f1ff49213274106837302ab43c15044d410e240e20c73c81bbc8ace"
     },
     {
@@ -509,7 +509,7 @@
         "PvP",
         "住宅"
       ],
-      "updatedAt": "2026-08-06T14:34:21.395Z",
+      "updatedAt": "2026-08-07T00:15:41.449Z",
       "fingerprint": "3896accc696fb3eb264c87169380f98ae14d585e037f06900700fa46d4d5440b"
     },
     {
@@ -530,7 +530,7 @@
         "PvP",
         "住宅"
       ],
-      "updatedAt": "2026-08-06T14:34:21.395Z",
+      "updatedAt": "2026-08-07T00:15:41.449Z",
       "fingerprint": "c6ebe6aef1e5684b9af476f3a54e562241fa10d6053548240058921559cba9f2"
     },
     {
@@ -551,7 +551,7 @@
         "PvP",
         "住宅"
       ],
-      "updatedAt": "2026-08-06T14:34:21.395Z",
+      "updatedAt": "2026-08-07T00:15:41.449Z",
       "fingerprint": "ae3f429a1d1dd136146efd72bbb7c3b73161f9ea4c87726dca2d9925ab268c80"
     },
     {
@@ -572,7 +572,7 @@
         "PvP",
         "住宅"
       ],
-      "updatedAt": "2026-08-06T14:34:21.395Z",
+      "updatedAt": "2026-08-07T00:15:41.449Z",
       "fingerprint": "7486819653dafcac6d534c15aef04e615d560651801b5d1d1a3d55069c8045fd"
     },
     {
@@ -593,7 +593,7 @@
         "PvP",
         "住宅"
       ],
-      "updatedAt": "2026-08-06T14:34:21.395Z",
+      "updatedAt": "2026-08-07T00:15:41.449Z",
       "fingerprint": "b3cff9cfdbc23e491353bfd7cc98ba1e80334f02e0866d92eddd5db299b78361"
     },
     {
@@ -614,7 +614,7 @@
         "PvP",
         "住宅"
       ],
-      "updatedAt": "2026-08-06T14:34:21.395Z",
+      "updatedAt": "2026-08-07T00:15:41.449Z",
       "fingerprint": "2d28fd1d88d63a13a40de2065c0110b441bd9b837313da60cb5a45d2fe7ae6cb"
     },
     {
@@ -635,7 +635,7 @@
         "PvP",
         "住宅"
       ],
-      "updatedAt": "2026-08-06T14:34:21.395Z",
+      "updatedAt": "2026-08-07T00:15:41.449Z",
       "fingerprint": "706dcd3abc7a081281c800626ad7bd4e3a8974884a8f5696a18613ad302ade45"
     },
     {
@@ -656,7 +656,7 @@
         "PvP",
         "住宅"
       ],
-      "updatedAt": "2026-08-06T14:34:21.395Z",
+      "updatedAt": "2026-08-07T00:15:41.449Z",
       "fingerprint": "199ace57f2db3644410dc918c43bc7f63aaf7401a447a816e77e699d606d60a7"
     },
     {
@@ -673,7 +673,7 @@
         "隊伍分享",
         "詞綴"
       ],
-      "updatedAt": "2026-08-06T14:34:21.395Z",
+      "updatedAt": "2026-08-07T00:15:41.449Z",
       "fingerprint": "31c6cd18af9fa3165cf671b6f9c69033a4fc1b2b608606c14a114bdb99bcd539"
     },
     {
@@ -690,7 +690,7 @@
         "傳奇鑰石",
         "首領"
       ],
-      "updatedAt": "2026-08-06T14:34:21.395Z",
+      "updatedAt": "2026-08-07T00:15:41.449Z",
       "fingerprint": "162b98ed0ce8d3aab34313933a200fd5586b76f5bd461cf7d459bfddda42a32f"
     },
     {
@@ -707,7 +707,7 @@
         "傳奇鑰石",
         "首領"
       ],
-      "updatedAt": "2026-08-06T14:34:21.395Z",
+      "updatedAt": "2026-08-07T00:15:41.449Z",
       "fingerprint": "4b9dd9145ff657792fc75473cd306f0bfacc8eb775ce4d06945fe5247fc9c9e4"
     },
     {
@@ -724,7 +724,7 @@
         "傳奇鑰石",
         "首領"
       ],
-      "updatedAt": "2026-08-06T14:34:21.395Z",
+      "updatedAt": "2026-08-07T00:15:41.449Z",
       "fingerprint": "bdeb4dc608933e220c89cb060d2520379c10fed6625d6f4be50508a2072f5920"
     },
     {
@@ -741,7 +741,7 @@
         "傳奇鑰石",
         "首領"
       ],
-      "updatedAt": "2026-08-06T14:34:21.395Z",
+      "updatedAt": "2026-08-07T00:15:41.449Z",
       "fingerprint": "7af484fdb681f1f59cef516691b1b9bfbbd9f27897ebfe8ee16cbe254e1a510a"
     },
     {
@@ -758,7 +758,7 @@
         "傳奇鑰石",
         "首領"
       ],
-      "updatedAt": "2026-08-06T14:34:21.395Z",
+      "updatedAt": "2026-08-07T00:15:41.449Z",
       "fingerprint": "bca7b65ae00af7cbd7ea568a120b4e9af506043d2b42f175e73a3e88be896bac"
     },
     {
@@ -775,7 +775,7 @@
         "傳奇鑰石",
         "首領"
       ],
-      "updatedAt": "2026-08-06T14:34:21.395Z",
+      "updatedAt": "2026-08-07T00:15:41.449Z",
       "fingerprint": "a051710b00f35addd28bff59ebb98e47f384be34fd68bbea0cf9ad3bd2bda28c"
     },
     {
@@ -792,7 +792,7 @@
         "傳奇鑰石",
         "首領"
       ],
-      "updatedAt": "2026-08-06T14:34:21.395Z",
+      "updatedAt": "2026-08-07T00:15:41.449Z",
       "fingerprint": "44009b13f9d97ad9e2290d4615eae0b9cd91b038d9106b1f5b5a7b0e0742d720"
     },
     {
@@ -809,7 +809,7 @@
         "傳奇鑰石",
         "首領"
       ],
-      "updatedAt": "2026-08-06T14:34:21.395Z",
+      "updatedAt": "2026-08-07T00:15:41.449Z",
       "fingerprint": "9e84eea76a54b082c38b89f9ca6d79a4d10e3e98435af0741f88a08a27f9d020"
     },
     {
@@ -826,7 +826,7 @@
         "傳奇鑰石",
         "首領"
       ],
-      "updatedAt": "2026-08-06T14:34:21.395Z",
+      "updatedAt": "2026-08-07T00:15:41.449Z",
       "fingerprint": "3fc4c50fdb1cab4dce4cfa146ee0f4b688d0c3da56124badad5fec45d78e30c2"
     },
     {
@@ -843,7 +843,7 @@
         "傳奇鑰石",
         "首領"
       ],
-      "updatedAt": "2026-08-06T14:34:21.395Z",
+      "updatedAt": "2026-08-07T00:15:41.449Z",
       "fingerprint": "98d79ae4153165d5be2181bfa2794fcbc0e35923eb9a66d4a931963fbb7f5cca"
     },
     {
@@ -860,7 +860,7 @@
         "傳奇鑰石",
         "首領"
       ],
-      "updatedAt": "2026-08-06T14:34:21.395Z",
+      "updatedAt": "2026-08-07T00:15:41.449Z",
       "fingerprint": "9dfb6542a14450258b41b1862fea7640a4dab3c5c206821517a9ed3e29638cfd"
     },
     {
@@ -878,7 +878,7 @@
         "天賦",
         "裝備"
       ],
-      "updatedAt": "2026-08-06T14:34:21.395Z",
+      "updatedAt": "2026-08-07T00:15:41.449Z",
       "fingerprint": "7f0a82970e4dfc0d6df593b8f0b373b795d9bc9498035e1e2bb2ddf70156c826"
     },
     {
@@ -896,7 +896,7 @@
         "天賦",
         "裝備"
       ],
-      "updatedAt": "2026-08-06T14:34:21.395Z",
+      "updatedAt": "2026-08-07T00:15:41.449Z",
       "fingerprint": "11e5adf8cdd6645e8e614c378feb75b9537d3924a6ced954128cad38aecd0807"
     },
     {
@@ -914,7 +914,7 @@
         "天賦",
         "裝備"
       ],
-      "updatedAt": "2026-08-06T14:34:21.395Z",
+      "updatedAt": "2026-08-07T00:15:41.449Z",
       "fingerprint": "6027d2c9d1f185961683200630f69c5fdb61aac498362fc79e9feb31a9d4a00d"
     },
     {
@@ -932,7 +932,7 @@
         "天賦",
         "裝備"
       ],
-      "updatedAt": "2026-08-06T14:34:21.395Z",
+      "updatedAt": "2026-08-07T00:15:41.449Z",
       "fingerprint": "70c678674a96c2f9048159ae39b3cf29651ad4ce655da67c6c53132084b5cb6f"
     },
     {
@@ -950,7 +950,7 @@
         "天賦",
         "裝備"
       ],
-      "updatedAt": "2026-08-06T14:34:21.395Z",
+      "updatedAt": "2026-08-07T00:15:41.449Z",
       "fingerprint": "28c40baa0c6d144a1635b76d635d0bfc9726175beb32ab981db0937104753a50"
     },
     {
@@ -968,7 +968,7 @@
         "天賦",
         "裝備"
       ],
-      "updatedAt": "2026-08-06T14:34:21.395Z",
+      "updatedAt": "2026-08-07T00:15:41.449Z",
       "fingerprint": "2bc589216b91aeccd9ab1afb45927251e217c224cd639b6778ca9757eb52bb0c"
     },
     {
@@ -986,7 +986,7 @@
         "天賦",
         "裝備"
       ],
-      "updatedAt": "2026-08-06T14:34:21.395Z",
+      "updatedAt": "2026-08-07T00:15:41.449Z",
       "fingerprint": "0861b7f96c8b99e2824fafa5dd494bc0029a96fd3260af6b7af98caa89eaa232"
     },
     {
@@ -1004,7 +1004,7 @@
         "天賦",
         "裝備"
       ],
-      "updatedAt": "2026-08-06T14:34:21.395Z",
+      "updatedAt": "2026-08-07T00:15:41.449Z",
       "fingerprint": "42937fbda1a4458ecb0963772910269d2dee5fc2fdf8d597ffd951fa25a0c1ba"
     },
     {
@@ -1021,7 +1021,7 @@
         "技能圖解",
         "WeakAuras"
       ],
-      "updatedAt": "2026-08-06T14:34:21.395Z",
+      "updatedAt": "2026-08-07T00:15:41.449Z",
       "fingerprint": "329198a9e7ccd627453e8d65e53356b72b4258b181901a5c77ef4af5f7b09ef0"
     },
     {
@@ -1038,7 +1038,7 @@
         "技能圖解",
         "WeakAuras"
       ],
-      "updatedAt": "2026-08-06T14:34:21.395Z",
+      "updatedAt": "2026-08-07T00:15:41.449Z",
       "fingerprint": "41916f6689a8f9fcd131ca2df23df58a4b9faca62f0e529dccd7cfdd4ad36fa5"
     },
     {
@@ -1055,7 +1055,7 @@
         "模擬",
         "理論研究"
       ],
-      "updatedAt": "2026-08-06T14:34:21.395Z",
+      "updatedAt": "2026-08-07T00:15:41.449Z",
       "fingerprint": "705b78f0dcb8b2235fc196dc36b119aaeb721619b74934f84ae941c1e1712bfa"
     },
     {
@@ -1072,7 +1072,7 @@
         "模擬",
         "理論研究"
       ],
-      "updatedAt": "2026-08-06T14:34:21.395Z",
+      "updatedAt": "2026-08-07T00:15:41.449Z",
       "fingerprint": "1e173349f38439287abb27bba8dc46ef8bae86a7ae7ff5336fbcf98eba3e629d"
     },
     {
@@ -1089,7 +1089,7 @@
         "模擬",
         "理論研究"
       ],
-      "updatedAt": "2026-08-06T14:34:21.395Z",
+      "updatedAt": "2026-08-07T00:15:41.449Z",
       "fingerprint": "e198c1cc98c7616652843b36b368366ae9008060affe8a17638a03b32dd61a5f"
     },
     {
@@ -1106,7 +1106,7 @@
         "模擬",
         "理論研究"
       ],
-      "updatedAt": "2026-08-06T14:34:21.395Z",
+      "updatedAt": "2026-08-07T00:15:41.449Z",
       "fingerprint": "f7301c3976acb0f145291223647ac622513d66e305b05a587931953d20f7fa69"
     },
     {
@@ -1123,7 +1123,7 @@
         "模擬",
         "理論研究"
       ],
-      "updatedAt": "2026-08-06T14:34:21.395Z",
+      "updatedAt": "2026-08-07T00:15:41.449Z",
       "fingerprint": "6e2335efe85eff9aa87e30922b828bc790003c6c4f180b01807625defb40291c"
     },
     {
@@ -1140,7 +1140,7 @@
         "模擬",
         "理論研究"
       ],
-      "updatedAt": "2026-08-06T14:34:21.395Z",
+      "updatedAt": "2026-08-07T00:15:41.449Z",
       "fingerprint": "20bcbff599aa273923895b3cc3eff84ba5b86acb154b2e0f7b017525eb8ba285"
     },
     {
@@ -1157,7 +1157,7 @@
         "模擬",
         "理論研究"
       ],
-      "updatedAt": "2026-08-06T14:34:21.395Z",
+      "updatedAt": "2026-08-07T00:15:41.449Z",
       "fingerprint": "409de00b895cf8c964a0399ecf842518c815234b31442d39f924dbf04d0b62d7"
     },
     {
@@ -1175,7 +1175,7 @@
         "團隊進度",
         "排名"
       ],
-      "updatedAt": "2026-08-06T14:34:21.395Z",
+      "updatedAt": "2026-08-07T00:15:41.449Z",
       "fingerprint": "abf93b99d94f2cacb6dee6e8faaf4284fa01c81312ffb4d697974f73f90ca8a5"
     },
     {
@@ -1191,7 +1191,7 @@
         "收藏進度",
         "角色清單"
       ],
-      "updatedAt": "2026-08-06T14:34:21.395Z",
+      "updatedAt": "2026-08-07T00:15:41.449Z",
       "fingerprint": "ad6880dec7732abf9dce96ea504e198cd44fc18e2b8c5f52ea27b02162259efe"
     },
     {
@@ -1209,7 +1209,7 @@
         "Tier List",
         "對局"
       ],
-      "updatedAt": "2026-08-06T14:34:21.395Z",
+      "updatedAt": "2026-08-07T00:15:41.449Z",
       "fingerprint": "6a97508b9dfc982ebd3a38cc31eb2335c6fdafc027e2daaf9f9beccb546afb66"
     },
     {
@@ -1227,7 +1227,7 @@
         "Tier List",
         "對局"
       ],
-      "updatedAt": "2026-08-06T14:34:21.395Z",
+      "updatedAt": "2026-08-07T00:15:41.449Z",
       "fingerprint": "9c466601311561aa4261795de6901b03fe3604e37cde231fff3608ad5831935b"
     },
     {
@@ -1245,7 +1245,7 @@
         "Tier List",
         "對局"
       ],
-      "updatedAt": "2026-08-06T14:34:21.395Z",
+      "updatedAt": "2026-08-07T00:15:41.449Z",
       "fingerprint": "8b3c0a1a1404cabd249e494b90d0e9128b355b1b464d97f7b0d9425c5e841d68"
     },
     {
@@ -1263,7 +1263,7 @@
         "Tier List",
         "對局"
       ],
-      "updatedAt": "2026-08-06T14:34:21.395Z",
+      "updatedAt": "2026-08-07T00:15:41.449Z",
       "fingerprint": "e3b2d5d7885b7af3da9145f399ffde8cabd8d517bddff76987d9121acb954e33"
     },
     {
@@ -1281,7 +1281,7 @@
         "Tier List",
         "對局"
       ],
-      "updatedAt": "2026-08-06T14:34:21.395Z",
+      "updatedAt": "2026-08-07T00:15:41.449Z",
       "fingerprint": "a3f6bb5027f3ffdf94cad94a5dc04d776d2779d3449a3265060e89963c210a9a"
     },
     {
@@ -1299,7 +1299,7 @@
         "Tier List",
         "對局"
       ],
-      "updatedAt": "2026-08-06T14:34:21.395Z",
+      "updatedAt": "2026-08-07T00:15:41.449Z",
       "fingerprint": "9a49e6f1e9b3207be3807d6581797898e4db435f27842d5d6e40825359f9aff2"
     },
     {
@@ -1315,7 +1315,7 @@
         "取得方式",
         "外觀"
       ],
-      "updatedAt": "2026-08-06T14:34:21.395Z",
+      "updatedAt": "2026-08-07T00:15:41.449Z",
       "fingerprint": "9b0c0cfc7e0dbd2c69577268153ec6b1053f67e2c6afdf037f244aaf6a87e6c3"
     },
     {
@@ -1333,7 +1333,7 @@
         "玩具",
         "事件"
       ],
-      "updatedAt": "2026-08-06T14:34:21.395Z",
+      "updatedAt": "2026-08-07T00:15:41.449Z",
       "fingerprint": "275bf086f2241c7b50a92d0641151945f85d8eca78d95ab44c837af368cb1a72"
     },
     {
@@ -1351,7 +1351,7 @@
         "玩具",
         "事件"
       ],
-      "updatedAt": "2026-08-06T14:34:21.395Z",
+      "updatedAt": "2026-08-07T00:15:41.449Z",
       "fingerprint": "53a8464984c1bdcfa8043308e12c67c1919093ea4cbcc34d36ebaf0a35f4a195"
     },
     {
@@ -1369,7 +1369,7 @@
         "玩具",
         "事件"
       ],
-      "updatedAt": "2026-08-06T14:34:21.395Z",
+      "updatedAt": "2026-08-07T00:15:41.449Z",
       "fingerprint": "7c47ef9efa82be7d76158cde8433e1f8512d52f3a352c7986b77e9f542e75d52"
     },
     {
@@ -1387,7 +1387,7 @@
         "玩具",
         "事件"
       ],
-      "updatedAt": "2026-08-06T14:34:21.395Z",
+      "updatedAt": "2026-08-07T00:15:41.449Z",
       "fingerprint": "ca4a73ee14ae070b920309193098995db38370736dd8cc514f0732f231093b93"
     },
     {
@@ -1405,7 +1405,7 @@
         "玩具",
         "事件"
       ],
-      "updatedAt": "2026-08-06T14:34:21.395Z",
+      "updatedAt": "2026-08-07T00:15:41.449Z",
       "fingerprint": "076e23d83e7ed27ebad96122256e519e59088895d1e405693c6fac14b16f7d83"
     },
     {
@@ -1423,7 +1423,7 @@
         "玩具",
         "事件"
       ],
-      "updatedAt": "2026-08-06T14:34:21.395Z",
+      "updatedAt": "2026-08-07T00:15:41.449Z",
       "fingerprint": "614c8648884ad2f463a6d494f9957d92bcb99960e21ae17436cdbb0c085c9348"
     },
     {
@@ -1441,7 +1441,7 @@
         "玩具",
         "事件"
       ],
-      "updatedAt": "2026-08-06T14:34:21.395Z",
+      "updatedAt": "2026-08-07T00:15:41.449Z",
       "fingerprint": "b071f6ba7b136fac9e8c8121943dc6c01a29846d97cae91ac09e67ab2d9c1115"
     },
     {
@@ -1459,7 +1459,7 @@
         "玩具",
         "事件"
       ],
-      "updatedAt": "2026-08-06T14:34:21.395Z",
+      "updatedAt": "2026-08-07T00:15:41.449Z",
       "fingerprint": "cbfb88f59f145f9e93adb03f9d8a678dd28a67cd35dff06142fe296cbdec26ea"
     },
     {
@@ -1477,7 +1477,7 @@
         "玩具",
         "事件"
       ],
-      "updatedAt": "2026-08-06T14:34:21.395Z",
+      "updatedAt": "2026-08-07T00:15:41.449Z",
       "fingerprint": "075b3a3ad2877917c07495ee05d4972068c062f6057a05d137b0c5291a3123c3"
     },
     {
@@ -1495,7 +1495,7 @@
         "玩具",
         "事件"
       ],
-      "updatedAt": "2026-08-06T14:34:21.395Z",
+      "updatedAt": "2026-08-07T00:15:41.449Z",
       "fingerprint": "e2d730845fb84a26d9a01468fccc7df8fb4b2f41f3356a897905bf0a607778ea"
     },
     {
@@ -1513,7 +1513,7 @@
         "玩具",
         "事件"
       ],
-      "updatedAt": "2026-08-06T14:34:21.395Z",
+      "updatedAt": "2026-08-07T00:15:41.449Z",
       "fingerprint": "f245201b49cfacf3dee71f4375d3741d2409ccfa20bf77841e9b9891fcfa1cde"
     },
     {
@@ -1531,7 +1531,7 @@
         "玩具",
         "事件"
       ],
-      "updatedAt": "2026-08-06T14:34:21.395Z",
+      "updatedAt": "2026-08-07T00:15:41.449Z",
       "fingerprint": "aa71a0a8d8beac5daded0bcdfb7781e5a4718265ea7d4497338d96e4d2a66771"
     },
     {
@@ -1549,7 +1549,7 @@
         "玩具",
         "事件"
       ],
-      "updatedAt": "2026-08-06T14:34:21.395Z",
+      "updatedAt": "2026-08-07T00:15:41.449Z",
       "fingerprint": "d4c3077fb85b3aecea01e004e691718af20866173ea92d792c409f06ffdee32c"
     },
     {
@@ -1567,7 +1567,7 @@
         "玩具",
         "事件"
       ],
-      "updatedAt": "2026-08-06T14:34:21.395Z",
+      "updatedAt": "2026-08-07T00:15:41.449Z",
       "fingerprint": "451e1f85c09e7e1c7fbbc5b7905a840e5cc4079d119daa3e0f94fdf253e62e69"
     },
     {
@@ -1585,7 +1585,7 @@
         "玩具",
         "事件"
       ],
-      "updatedAt": "2026-08-06T14:34:21.395Z",
+      "updatedAt": "2026-08-07T00:15:41.449Z",
       "fingerprint": "33c91cfd1565fb9ed994949194301f0fa6957b3921e100e1a84b5cfead8fe692"
     },
     {
@@ -1693,7 +1693,7 @@
         "舊資料片",
         "歷史"
       ],
-      "updatedAt": "2026-08-06T14:34:21.395Z",
+      "updatedAt": "2026-08-07T00:15:41.449Z",
       "fingerprint": "c62761c21144e9a9829f12cdf8dac403d83fea9e76b88c30e0e6e3bae737168d"
     },
     {
@@ -1710,7 +1710,7 @@
         "勝率",
         "事件回放"
       ],
-      "updatedAt": "2026-08-06T14:34:21.395Z",
+      "updatedAt": "2026-08-07T00:15:41.449Z",
       "fingerprint": "00649ed298b26f561303216dfffa44d7f49d5803013487f9f3b1531eaae8b6af"
     },
     {
@@ -1728,7 +1728,7 @@
         "材料",
         "製作"
       ],
-      "updatedAt": "2026-08-06T14:34:21.395Z",
+      "updatedAt": "2026-08-07T00:15:41.449Z",
       "fingerprint": "f38bcbbbddd96b668e5548d35aaadc3c8a25e5867740e04d42759048273aacc3"
     },
     {
@@ -1746,7 +1746,7 @@
         "材料",
         "製作"
       ],
-      "updatedAt": "2026-08-06T14:34:21.395Z",
+      "updatedAt": "2026-08-07T00:15:41.449Z",
       "fingerprint": "1eb835185dc4d2853c1a11fbe5266858ac40b4114616de9da0b0466d2f53972e"
     },
     {
@@ -1764,7 +1764,7 @@
         "材料",
         "製作"
       ],
-      "updatedAt": "2026-08-06T14:34:21.395Z",
+      "updatedAt": "2026-08-07T00:15:41.449Z",
       "fingerprint": "5cc2ac0f6ff991fd2fcab962caf9335317db9c0a42f2619b4caf3ffac54bb9a8"
     },
     {
@@ -1782,7 +1782,7 @@
         "材料",
         "製作"
       ],
-      "updatedAt": "2026-08-06T14:34:21.395Z",
+      "updatedAt": "2026-08-07T00:15:41.449Z",
       "fingerprint": "2f6f3778d38124fa9ea2c8d10c7948277348f50025b3e27a56e3d90832c75eb8"
     },
     {
@@ -1800,7 +1800,7 @@
         "材料",
         "製作"
       ],
-      "updatedAt": "2026-08-06T14:34:21.395Z",
+      "updatedAt": "2026-08-07T00:15:41.449Z",
       "fingerprint": "e3ffed0a3fccec7770e3e015ef176c55d95deac1ff3ee67822d6785ef28cecf8"
     },
     {
@@ -1818,7 +1818,7 @@
         "材料",
         "製作"
       ],
-      "updatedAt": "2026-08-06T14:34:21.395Z",
+      "updatedAt": "2026-08-07T00:15:41.449Z",
       "fingerprint": "26150d8b4cd35183331b08902dbfe10796a95d540d483c8a1d1d6c662a56949a"
     },
     {
@@ -1836,7 +1836,7 @@
         "材料",
         "製作"
       ],
-      "updatedAt": "2026-08-06T14:34:21.395Z",
+      "updatedAt": "2026-08-07T00:15:41.449Z",
       "fingerprint": "36110b0f34024a2756298e3575b9d46355769a639bd1e6d4b9cf47cbb319d003"
     },
     {
@@ -1854,7 +1854,7 @@
         "材料",
         "製作"
       ],
-      "updatedAt": "2026-08-06T14:34:21.395Z",
+      "updatedAt": "2026-08-07T00:15:41.449Z",
       "fingerprint": "942910bca5db1df888fd16d699cabd4feb448d681df1c3770f8eae6a7455ee2a"
     },
     {
@@ -1872,7 +1872,7 @@
         "材料",
         "製作"
       ],
-      "updatedAt": "2026-08-06T14:34:21.395Z",
+      "updatedAt": "2026-08-07T00:15:41.449Z",
       "fingerprint": "130fd5bb5e46847b11b66fb34e6bb1eb5cf34c845a23756f5dded75f39603643"
     },
     {
@@ -1890,7 +1890,7 @@
         "材料",
         "製作"
       ],
-      "updatedAt": "2026-08-06T14:34:21.395Z",
+      "updatedAt": "2026-08-07T00:15:41.449Z",
       "fingerprint": "712859f4fffeefdd5612f04d3b3d991916b4008ad023041d0fafd3832dc72930"
     },
     {
@@ -1908,7 +1908,7 @@
         "材料",
         "製作"
       ],
-      "updatedAt": "2026-08-06T14:34:21.395Z",
+      "updatedAt": "2026-08-07T00:15:41.449Z",
       "fingerprint": "1d897c4805e805cc509bca043be98af00c3f812b6c781c4920410bcd9b5c8de9"
     },
     {
@@ -1926,7 +1926,7 @@
         "材料",
         "製作"
       ],
-      "updatedAt": "2026-08-06T14:34:21.395Z",
+      "updatedAt": "2026-08-07T00:15:41.449Z",
       "fingerprint": "7ea5dc64970962cdf5076ac05fbf1e1d6be78127a3732291754f1f27b783d3d5"
     },
     {
@@ -1944,7 +1944,7 @@
         "材料",
         "製作"
       ],
-      "updatedAt": "2026-08-06T14:34:21.395Z",
+      "updatedAt": "2026-08-07T00:15:41.449Z",
       "fingerprint": "fcae0eac3c30b3003f94c6c4f9740b373b2da57ba0141074fe37604ff9a15447"
     },
     {
@@ -1962,7 +1962,7 @@
         "材料",
         "製作"
       ],
-      "updatedAt": "2026-08-06T14:34:21.395Z",
+      "updatedAt": "2026-08-07T00:15:41.449Z",
       "fingerprint": "c065bbae0464a2b8df048ad0bc048602f62ce9dc8423890fe13b9bc1ab2a156a"
     },
     {
@@ -1980,7 +1980,7 @@
         "材料",
         "製作"
       ],
-      "updatedAt": "2026-08-06T14:34:21.395Z",
+      "updatedAt": "2026-08-07T00:15:41.449Z",
       "fingerprint": "6dd0f2efb70419cd46f60bf4a6817e5dfa513ebbd7a1eb5e1b7bf050f619eab6"
     },
     {
@@ -1998,7 +1998,7 @@
         "材料",
         "製作"
       ],
-      "updatedAt": "2026-08-06T14:34:21.395Z",
+      "updatedAt": "2026-08-07T00:15:41.449Z",
       "fingerprint": "c842b7e40f044a024bc2489cad878f7483dc088f8842dbad75dbde4a727f8b20"
     },
     {
@@ -2016,7 +2016,7 @@
         "材料",
         "製作"
       ],
-      "updatedAt": "2026-08-06T14:34:21.395Z",
+      "updatedAt": "2026-08-07T00:15:41.449Z",
       "fingerprint": "c9bbb812db7af3321389c8a328515e66ccb4465026adebb05adf5226fae09a3a"
     },
     {
@@ -2034,7 +2034,7 @@
         "材料",
         "製作"
       ],
-      "updatedAt": "2026-08-06T14:34:21.395Z",
+      "updatedAt": "2026-08-07T00:15:41.449Z",
       "fingerprint": "d0071588acea6adee0887e6c7ec7d773ce4b306f0f4fdf44b3ac2b4f8455abc3"
     },
     {
@@ -2052,7 +2052,7 @@
         "材料",
         "製作"
       ],
-      "updatedAt": "2026-08-06T14:34:21.395Z",
+      "updatedAt": "2026-08-07T00:15:41.449Z",
       "fingerprint": "4e6486aa4d928e773927c8610815cbf091e2dd9fe58c2445964d4d1c10476e6b"
     },
     {
@@ -2069,7 +2069,7 @@
         "資源使用",
         "操作改善"
       ],
-      "updatedAt": "2026-08-06T14:34:21.395Z",
+      "updatedAt": "2026-08-07T00:15:41.449Z",
       "fingerprint": "2040091a84f516078c468d253192d3fce8ee1d9be909da9df85d32c82956463b"
     },
     {
@@ -2086,16 +2086,16 @@
         "巨集",
         "工具"
       ],
-      "updatedAt": "2026-08-06T14:34:21.395Z",
+      "updatedAt": "2026-08-07T00:15:41.449Z",
       "fingerprint": "4679677d2a1bcf34d20adac4cb60e0909d77a64af9978bcd373e89e0e3367e75"
     },
     {
-      "id": "wowinterface:a20113c0646528",
+      "id": "wowinterface:6bcfc8c84c4aed",
       "title": "生存指南",
       "summary": "生存指南",
       "originalTitle": "Survival Guide",
       "sourceName": "WoWInterface",
-      "sourceUrl": "https://www.wowinterface.com/survivalguide.php?s=be699a8b8eb6eec555d6178a29d637b9",
+      "sourceUrl": "https://www.wowinterface.com/survivalguide.php?s=fdaeb002b12062d36206c0655f471ca0",
       "group": "插件與介面",
       "categoryHints": [
         "插件下載",
@@ -2103,8 +2103,8 @@
         "巨集",
         "工具"
       ],
-      "updatedAt": "2026-08-06T14:34:21.395Z",
-      "fingerprint": "a5fb231dd9106c9a2c6ecb5d4f1d530b0db07554bf67416d449a8f741e7cdc4e"
+      "updatedAt": "2026-08-07T00:15:41.449Z",
+      "fingerprint": "244a1beaf2284396eca48c97bd5387c06b1de870eb4cd6b10dd5cd1c949167bd"
     },
     {
       "id": "wowinterface:8b65843aeda14f",
@@ -2120,7 +2120,7 @@
         "巨集",
         "工具"
       ],
-      "updatedAt": "2026-08-06T14:34:21.395Z",
+      "updatedAt": "2026-08-07T00:15:41.449Z",
       "fingerprint": "fd736b3ee1e5d0dd06968c6c99866acc80e86997a830dd2ce131f12e5578e5d3"
     },
     {
@@ -2132,7 +2132,7 @@
       "sourceUrl": "https://forum.gamer.com.tw/B.php?bsn=5219",
       "group": "台服問題雷達",
       "categoryHints": [],
-      "updatedAt": "2026-08-06T14:34:21.395Z",
+      "updatedAt": "2026-08-07T00:15:41.449Z",
       "fingerprint": "1fd9e402945dd0a56a3ab3f20d226ac318b501d5037dcf18bcf544e3e20d0d0a"
     }
   ]
