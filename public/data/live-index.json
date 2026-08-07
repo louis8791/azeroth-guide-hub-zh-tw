@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-07T20:00:02.946Z",
+  "generatedAt": "2026-08-07T21:04:01.073Z",
   "provider": "m2m100",
   "qualityGate": {
     "published": 116,
@@ -34,7 +34,7 @@
       "sourceUrl": "https://worldofwarcraft.blizzard.com/zh-tw/news",
       "group": "台服問題雷達",
       "categoryHints": [],
-      "updatedAt": "2026-08-07T19:14:17.423Z",
+      "updatedAt": "2026-08-07T21:04:01.073Z",
       "fingerprint": "5e291ef2ae97d6b3a96021d1d462462cd0ce238eb1377d0596ee6a9a917183c6"
     },
     {
@@ -2132,7 +2132,7 @@
       "sourceUrl": "https://forum.gamer.com.tw/B.php?bsn=5219",
       "group": "台服問題雷達",
       "categoryHints": [],
-      "updatedAt": "2026-08-07T19:14:17.423Z",
+      "updatedAt": "2026-08-07T21:04:01.073Z",
       "fingerprint": "1fd9e402945dd0a56a3ab3f20d226ac318b501d5037dcf18bcf544e3e20d0d0a"
     }
   ]
