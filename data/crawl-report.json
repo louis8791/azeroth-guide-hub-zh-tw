@@ -1,144 +1,27 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-07T00:48:41.669Z",
-  "tier": "guides",
-  "selectedSourceCount": 19,
-  "available": 13,
-  "manual": 2,
-  "blocked": 1,
-  "unavailable": 3,
+  "generatedAt": "2026-08-07T00:57:17.871Z",
+  "tier": "questions",
+  "selectedSourceCount": 2,
+  "available": 2,
+  "manual": 0,
+  "blocked": 0,
+  "unavailable": 0,
   "documentCount": 318,
   "sources": [
     {
-      "id": "wowhead",
-      "name": "Wowhead",
-      "status": "manual",
-      "checkedAt": "2026-08-07T00:48:41.669Z"
-    },
-    {
-      "id": "icy-veins",
-      "name": "Icy Veins",
+      "id": "bahamut",
+      "name": "巴哈姆特 WOW 哈啦板",
       "status": "available",
-      "checkedAt": "2026-08-07T00:48:41.669Z",
-      "documentCount": 49
-    },
-    {
-      "id": "method",
-      "name": "Method",
-      "status": "available",
-      "checkedAt": "2026-08-07T00:48:41.669Z",
-      "documentCount": 37
-    },
-    {
-      "id": "warcraft-tavern",
-      "name": "Warcraft Tavern",
-      "status": "unavailable",
-      "checkedAt": "2026-08-07T00:48:41.669Z",
-      "note": "HTTP 403"
-    },
-    {
-      "id": "warcraft-wiki",
-      "name": "Warcraft Wiki",
-      "status": "available",
-      "checkedAt": "2026-08-07T00:48:41.669Z",
-      "documentCount": 1
-    },
-    {
-      "id": "keystone-guru",
-      "name": "Keystone.guru",
-      "status": "available",
-      "checkedAt": "2026-08-07T00:48:41.669Z",
-      "documentCount": 1
-    },
-    {
-      "id": "mythic-trap",
-      "name": "Mythic Trap",
-      "status": "available",
-      "checkedAt": "2026-08-07T00:48:41.669Z",
-      "documentCount": 31
-    },
-    {
-      "id": "skill-capped",
-      "name": "Skill Capped",
-      "status": "available",
-      "checkedAt": "2026-08-07T00:48:41.669Z",
+      "checkedAt": "2026-08-07T00:57:17.871Z",
       "documentCount": 25
     },
     {
-      "id": "wow-arena-logs",
-      "name": "WoW Arena Logs",
+      "id": "blizzard-tw",
+      "name": "Blizzard 台灣官方網站",
       "status": "available",
-      "checkedAt": "2026-08-07T00:48:41.669Z",
+      "checkedAt": "2026-08-07T00:57:17.871Z",
       "documentCount": 1
-    },
-    {
-      "id": "wow-professions",
-      "name": "WoW-Professions",
-      "status": "available",
-      "checkedAt": "2026-08-07T00:48:41.669Z",
-      "documentCount": 29
-    },
-    {
-      "id": "xu-fu",
-      "name": "Xu-Fu's Pet Guides",
-      "status": "unavailable",
-      "checkedAt": "2026-08-07T00:48:41.669Z",
-      "note": "HTTP 403"
-    },
-    {
-      "id": "data-for-azeroth",
-      "name": "Data for Azeroth",
-      "status": "robots-blocked",
-      "robotsStatus": "unverified-403",
-      "checkedAt": "2026-08-07T00:48:41.669Z"
-    },
-    {
-      "id": "simple-armory",
-      "name": "Simple Armory",
-      "status": "available",
-      "checkedAt": "2026-08-07T00:48:41.669Z",
-      "documentCount": 1
-    },
-    {
-      "id": "wago",
-      "name": "Wago",
-      "status": "manual",
-      "checkedAt": "2026-08-07T00:48:41.669Z"
-    },
-    {
-      "id": "curseforge",
-      "name": "CurseForge",
-      "status": "available",
-      "checkedAt": "2026-08-07T00:48:41.669Z",
-      "documentCount": 1
-    },
-    {
-      "id": "wowinterface",
-      "name": "WoWInterface",
-      "status": "available",
-      "checkedAt": "2026-08-07T00:48:41.669Z",
-      "documentCount": 21
-    },
-    {
-      "id": "warcraft-pets",
-      "name": "Warcraft Pets",
-      "status": "unavailable",
-      "checkedAt": "2026-08-07T00:48:41.669Z",
-      "note": "HTTP 403"
-    },
-    {
-      "id": "warcraft-mounts",
-      "name": "Warcraft Mounts",
-      "status": "available",
-      "checkedAt": "2026-08-07T00:48:41.669Z",
-      "documentCount": 1
-    },
-    {
-      "id": "warcraft-secrets",
-      "name": "Warcraft Secrets",
-      "status": "available",
-      "checkedAt": "2026-08-07T00:48:41.669Z",
-      "documentCount": 21
     }
   ]
 }
